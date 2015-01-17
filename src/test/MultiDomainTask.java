@@ -17,9 +17,6 @@ public class MultiDomainTask {
 
 	public static void main(String[] args) throws Exception {
 
-		// runPriorLDA("Camera");
-
-		// runLDA("Camera");
 
 		File[] files = new File("data//").listFiles();
 
