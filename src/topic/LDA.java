@@ -6,6 +6,7 @@ import java.io.Serializable;
  * LDA GibbsSampling
  * 
  * @author: Liang Yao
+ * @email xqxdryao@gmail.com
  */
 public class LDA implements Serializable {
 
@@ -55,17 +56,13 @@ public class LDA implements Serializable {
 			z[d] = new int[Nd];
 
 			for (int n = 0; n < Nd; n++) {
+
 				int topic = (int) (Math.random() * K);
 
 				z[d][n] = topic;
 
-				nw[documents[d][n]][topic]++;
-
-				nd[d][topic]++;
-
-				nwsum[topic]++;
+				updateCount(d, topic, documents[d][n], +1);
 			}
-			ndsum[d] = Nd;
 		}
 
 	}
@@ -80,6 +77,7 @@ public class LDA implements Serializable {
 		initialState();
 
 		for (int i = 0; i < this.iterations; i++) {
+
 			System.out.println("iteration : " + i);
 			gibbs();
 		}
@@ -100,10 +98,8 @@ public class LDA implements Serializable {
 	int sampleFullConditional(int d, int n) {
 
 		int topic = z[d][n];
-		nw[documents[d][n]][topic]--;
-		nd[d][topic]--;
-		nwsum[topic]--;
-		ndsum[d]--;
+
+		updateCount(d, topic, documents[d][n], -1);
 
 		double[] p = new double[K];
 
@@ -122,12 +118,19 @@ public class LDA implements Serializable {
 				break;
 			}
 		}
-		nw[documents[d][n]][topic]++;
-		nd[d][topic]++;
-		nwsum[topic]++;
-		ndsum[d]++;
+
+		updateCount(d, topic, documents[d][n], +1);
+
 		return topic;
 
+	}
+
+	void updateCount(int d, int topic, int word, int flag) {
+
+		nd[d][topic] += flag;
+		ndsum[d] += flag;
+		nw[word][topic] += flag;
+		nwsum[topic] += flag;
 	}
 
 	public double[][] estimateTheta() {
@@ -149,5 +152,4 @@ public class LDA implements Serializable {
 		}
 		return phi;
 	}
-
 }
