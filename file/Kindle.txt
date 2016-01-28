@@ -1,0 +1,16 @@
+screen	tip	price	finger	device	end	clip	tablet	pen	case	
+deal	wrong	place	email	bulky	wide	weight	address	finer	limit	
+compact	android	bluetooth	film	digital	sync	thicker	favorite	touchtec	similar	
+black	red	clear	blue	color	silver	boxwave	droid	actual	half	
+cost	reasonable	price	area	minor	cheaper	slim	major	larger	pro	
+hand	grip	arm	decent	head	larger	bed	back	leg	foot	
+fire	question	boxwave	today	accurate	sturdy	usable	briefcase	tool	wall	
+book	game	page	option	reading	picture	number	open	music	future	
+disappointed	favorite	frustrated	angry	generic	past	boxwave	greasy	smoother	accurate	
+pen	touch	iphone	phone	money	ipod	car	cable	keyboard	usb	
+rubber	tip	plastic	metal	paper	glass	piece	bamboo	fabric	dust	
+generation	boxwave	bookgem	today	longer	awkward	amazonbasics	impressed	rubberized	pricey	
+finger	print	thumb	wrist	greasy	boxwave	amazonbasics	bookgem	swipe	xoom	
+light	color	cover	pressure	responsive	weight	heavy	nataal	main	glove	
+star	general	stuff	classy	amazonbasic	boxwave	cheaper	rubberized	nataal	reason	
+average coherence	-131.8547772959391

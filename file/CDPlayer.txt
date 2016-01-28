@@ -1,0 +1,16 @@
+sound	battery	button	feature	song	remote	easy	music	disc	dvd	
+price	size	range	model	antenna	sound	main	impossible	drawback	bulky	
+tape	alarm	deck	wall	shower	door	clock	window	road	strap	
+seconds	ear	head	hand	back	phone	rechargable	finger	plug	slightest	
+refund	extended	pricey	newer	panasonics	yesterday	antiskip	dac	clock	clock	
+car	kit	adapter	electronics	construction	stock	equipment	house	im	sale	
+music	clear	plastic	blue	heavy	color	rock	reasonable	black	dark	
+money	stereo	computer	worth	car	waste	score	motor	adaptor	system	
+star	line	point	pack	expanium	bottom	everyday	doesnt	inch	mediocre	
+radio	tv	station	reception	light	fm	clock	movie	dvd	tuner	
+noise	setting	weather	luck	noisy	disappointment	entire	beginning	distortion	chance	
+decent	preset	rating	sd	station	boy	card	worse	bigger	koss	
+kind	limited	sensitive	ideal	frustrating	im	horrible	regular	cheaper	bumpy	
+version	multiple	snooze	dont	worth	koss	impressed	longer	frustrating	ca	
+headphone	speaker	bass	picture	sound	pass	tinny	recorder	lover	pricey	
+average coherence	-135.64981703691484

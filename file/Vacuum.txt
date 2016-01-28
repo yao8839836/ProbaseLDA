@@ -1,0 +1,16 @@
+suction	carpet	hose	easy	attachment	floor	power	cleaner	filter	brush	
+model	manufacturer	target	construction	bagless	nozzel	sears	technology	limited	walmart	
+dog	hair	cat	floor	carpet	wood	litter	pet	tile	hardwood	
+long	floor	bare	life	battery	cord	furniture	button	carpet	simple	
+car	purchase	customer	option	service	huge	buy	christmas	charge	cumbersome	
+position	vaccuum	pain	main	upright	smell	similar	adjustable	sound	kind	
+vac	hand	cordless	toggle	regular	snap	frustrating	today	pivot	worse	
+review	wrong	company	bulky	decent	door	consumer	research	everyday	buster	
+side	back	bottom	front	higher	lower	plastic	stair	carpeted	line	
+low	high	min	average	satisfied	expectation	moment	medium	strength	skeptical	
+machine	house	car	home	pile	equipment	trunk	picture	stock	rv	
+bag	belt	money	filter	paper	dust	stick	waste	replacement	bagless	
+quick	housing	frequent	special	biggest	portability	convenient	caddy	springy	horrible	
+cleaning	stuff	setting	crevice	tool	carpet	middle	larger	bagless	mother	
+ability	age	food	maneuverability	concerned	tremendous	dont	horrible	condition	worse	
+average coherence	-141.42263247386853

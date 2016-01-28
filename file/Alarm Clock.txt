@@ -1,0 +1,16 @@
+sound	easy	light	display	loud	feature	minute	small	travel	room	
+timex	casio	tricky	sony	similar	portion	past	sweep	brookstone	aaa	
+expensive	beautiful	biobrite	regular	easier	accurate	similar	plenty	cost	size	
+darth	junk	accurate	sturdy	longer	awake	harder	cheaper	worse	end	
+power	nap	outage	background	glad	dalek	frame	easier	noise	impossible	
+review	company	huge	decent	customer	preset	press	service	slide	easier	
+money	picture	image	photo	watch	china	device	music	bigger	stereo	
+setting	volume	tone	everyday	drawback	regular	fake	personal	intuitive	annoying	
+button	snooze	top	buzzer	bell	beep	present	regular	longer	bigger	
+night	light	rain	middle	temperature	backlight	weekend	noise	christmas	thunderstorm	
+battery	radio	color	number	plastic	light	dim	power	backup	aa	
+hand	face	head	eye	ear	foot	disappointing	arm	heart	leg	
+machine	home	house	sound	daylight	savings	school	plenty	saving	process	
+kind	cycle	improvement	slow	equity	crosse	la	mother	portion	accurate	
+bright	light	red	white	blue	display	green	noise	pink	dark	
+average coherence	-136.0168162995303

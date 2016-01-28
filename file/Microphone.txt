@@ -1,0 +1,16 @@
+mic	sound	ear	price	headphone	headset	bass	noise	pair	volume	
+camera	money	home	ip	address	house	email	wireless	stock	network	
+head	cam	web	easyn	gear	inline	dont	longer	impressed	screw	
+battery	headphone	range	dollar	black	cd	price	high	blue	white	
+music	noise	background	touch	construction	game	song	chat	distortion	band	
+side	left	higher	front	lower	bottom	end	adequate	superior	meelectronics	
+plastic	setting	type	web	picture	static	inexpensive	frequency	light	back	
+zoom	gain	resolution	main	focus	premium	location	favorite	generation	impressed	
+pc	laptop	school	desktop	material	office	market	alot	tech	mess	
+feature	size	area	program	password	isolating	bigger	portion	worth	weight	
+kind	sensitive	current	honest	inline	hesh	worst	cheaper	proper	noise	
+sound	video	voice	audio	software	picture	camera	image	clear	pro	
+small	case	ear	bag	pickup	pouch	cover	amp	feed	closer	
+headphone	computer	headset	earphone	iphone	phone	laptop	radio	speaker	call	
+button	star	point	person	real	line	fitting	dragon	equipment	huge	
+average coherence	-140.60895517662763

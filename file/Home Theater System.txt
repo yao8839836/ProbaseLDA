@@ -1,0 +1,16 @@
+sound	speaker	dvd	home	theater	player	price	subwoofer	remote	receiver	
+tv	cable	radio	hdmus	sound	dvd	vcr	audio	input	television	
+separate	sony	app	panasonic	ebay	products	bestbuy	advanced	account	muddy	
+hour	true	minute	sound	phone	extended	password	email	location	frustrating	
+christmas	weekend	ideal	holiday	friday	skeptical	evening	stupid	black	audiophile	
+loud	volume	noise	apartment	whistle	bell	helpful	im	enjoyable	dav	
+wall	speaker	floor	wire	addition	room	window	cost	shack	hz	
+button	remote	menu	star	control	surround	tiny	hook	light	volume	
+speaker	wire	back	electronics	foot	front	rock	ear	black	head	
+video	audio	movie	game	music	internet	netflix	input	output	component	
+movie	couple	music	single	seconds	ready	situation	entry	careful	acceptable	
+picture	money	device	ipod	image	worth	camera	monitor	fluance	capable	
+setting	stuff	tone	term	plays	beginning	enjoyable	audiophile	worth	avr	
+small	room	large	higher	multiple	speaker	sound	huge	living	left	
+result	material	logic	dolby	question	mode	ii	happier	worth	previous	
+average coherence	-146.75108203990047

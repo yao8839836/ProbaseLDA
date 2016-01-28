@@ -1,0 +1,16 @@
+price	case	screen	dell	power	usb	memory	macbook	bag	review	
+blue	clear	black	screen	ready	bright	white	pink	fancy	affordable	
+hour	minute	battery	life	true	brightness	nicer	impossible	slim	variety	
+plastic	performance	metal	durable	cheap	portability	aluminum	flimsy	durability	cooler	
+reviewer	quick	vendor	customer	class	gp	student	management	earlier	nicer	
+inch	point	line	bottom	gig	luck	everyday	additional	damage	shot	
+school	bar	airport	ease	hdmus	heavier	meeting	march	exterior	thicker	
+back	web	option	strap	shoulder	bass	hand	internet	foot	map	
+place	wrong	office	huge	wide	address	mark	system	home	handy	
+star	real	button	table	wall	adjustable	highest	person	floor	factory	
+sound	speaker	software	video	picture	dvd	music	game	movie	photo	
+notebook	netbook	money	pc	bag	tablet	backpack	ipad	camera	headset	
+battery	fan	mouse	keyboard	life	player	replacement	screw	quiet	charge	
+support	update	backup	sort	worse	impossible	motherboard	faster	sturdy	pro	
+hot	color	touch	smell	heat	fan	light	noisy	lack	temperature	
+average coherence	-141.15493238179272

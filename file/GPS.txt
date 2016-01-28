@@ -1,0 +1,16 @@
+gps	feature	easy	screen	device	route	road	traffic	direction	car	
+button	screen	menu	etrex	program	video	legend	power	link	mapsource	
+windshield	case	hand	foot	arm	charger	car	head	cost	wall	
+camera	printer	monitor	touchscreen	mouse	keyboard	inexpensive	network	longer	heartrate	
+dash	question	answer	result	period	line	accurate	bigger	nuvus	unusable	
+battery	model	life	charge	hour	cigarette	power	complete	lighter	fix	
+address	phone	deal	wrong	location	email	route	destination	turn	big	
+sale	hr	exit	elevation	stress	rain	lack	pace	accident	fix	
+restaurant	card	sd	hotel	windows	gas	station	micro	located	separate	
+computer	pc	simple	software	intuitive	laptop	usb	server	mac	cable	
+option	road	track	suction	cup	future	gas	correct	setting	heavy	
+map	update	software	lifetime	compass	picture	detailed	accurate	paper	latest	
+free	ease	cheap	bright	alternate	advanced	extensive	affordable	novice	special	
+money	life	gift	europe	travel	pace	reading	construction	regular	addition	
+listing	post	longer	mapsource	impressive	round	talex	magellan	magellan	magellan	
+average coherence	-142.2535735681116

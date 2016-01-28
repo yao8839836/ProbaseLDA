@@ -1,0 +1,16 @@
+screen	image	picture	price	movie	bulb	easy	cable	room	hour	
+light	sound	picture	room	speaker	video	dark	movie	black	color	
+point	star	inch	pixel	screen	line	edge	power	bottom	special	
+wall	ceiling	screen	white	alarm	image	foot	middle	room	door	
+battery	audio	screw	button	lens	power	plug	cable	adjustable	bolt	
+standard	customer	service	eco	mode	av	church	widescreen	limited	aware	
+device	speaker	deal	monitor	laptop	big	port	netbook	beh	didnt	
+resolution	contrast	screen	brightness	ratio	diagonal	main	native	color	size	
+surprise	toy	loss	hope	thought	pain	feeling	attention	disappointment	shame	
+video	cable	picture	computer	laptop	vga	instruction	usb	iphone	pc	
+friend	place	height	simple	page	alternative	unusable	manner	thick	ordinary	
+color	wheel	vibrant	picture	blurry	defective	list	tweaking	speed	terrific	
+money	house	camera	lack	equipment	correct	credit	sense	economical	worth	
+epson	panasonic	sony	vivitek	nec	support	onkyo	mitsubishi	cinema	hp	
+feature	review	clock	factor	sleep	previous	worth	effect	detailed	format	
+average coherence	-150.21687626271398

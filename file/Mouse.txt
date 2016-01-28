@@ -1,0 +1,16 @@
+button	hand	logitech	wheel	laptop	scroll	usb	small	wireless	pad	
+explorer	intellimouse	firefox	lock	microsoft	term	past	worst	newer	typical	
+version	decent	multiple	software	firmware	os	select	deathadder	longer	today	
+keyboard	computer	switch	window	wireless	home	usb	key	monitor	darkfield	
+action	light	night	current	bright	latest	impressed	located	lighting	hot	
+mode	range	difference	release	spin	longer	recent	unresponsive	select	occasional	
+price	speed	performance	sensitivity	accuracy	precision	pressure	distance	wide	mx	
+optical	laser	technology	logitech	wireless	microsoft	cordless	ball	construction	sensor	
+cheap	responsive	smooth	convenient	everyday	major	ease	dirty	adesso	cost	
+fast	google	sturdy	helpful	worth	ergonomic	heavier	impressed	pricey	adesso	
+software	money	graphic	type	game	wrong	tablet	wacom	picture	video	
+setting	solution	dpus	jumpy	handed	previous	today	frustrating	middle	end	
+battery	computer	life	pen	aa	rechargeable	cover	charger	reciever	unifying	
+music	editing	browsing	tilt	travel	newer	happier	configurable	ghz	biggest	
+touch	feel	pain	gesture	ready	sound	slick	sight	correct	disappointment	
+average coherence	-140.23060048749917

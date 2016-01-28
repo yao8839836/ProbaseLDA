@@ -1,0 +1,16 @@
+false	speed	cop	ticket	price	feature	alarm	mile	signal	laser	
+cup	suction	case	small	charger	windshield	glad	speaker	beltronics	odd	
+setting	friend	main	weight	lack	major	exact	previous	additional	adjustable	
+lol	sw	btw	beltronics	lame	beltronic	wont	smartcord	past	worst	
+band	ka	false	police	enforcement	number	touch	car	sight	signal	
+car	vehicle	option	police	door	opener	home	construction	future	electronics	
+night	commute	christmas	wide	heat	brightness	summer	hot	temperature	cold	
+range	mode	frequency	city	difference	highway	detection	autoscan	median	equal	
+money	bel	passport	phone	escort	wrong	worth	impressed	worse	tag	
+laser	point	line	website	strength	signal	star	hill	bottom	led	
+manual	visual	capability	software	advanced	revision	instance	favorite	continuous	pick	
+hour	minute	degree	photo	potential	charge	moment	automute	force	oncoming	
+camera	lidar	motion	laser	visible	beltronics	directional	worse	wont	lame	
+beep	bell	volume	whistle	ku	smartcord	horn	voice	music	chirp	
+iphone	ipod	phone	app	iradar	android	device	gp	cobra	usb	
+average coherence	-143.52860173119714

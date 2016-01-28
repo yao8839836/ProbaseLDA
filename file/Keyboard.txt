@@ -1,0 +1,16 @@
+key	logitech	typing	type	usb	light	tv	button	mouse	hand	
+replacement	service	user	customer	previous	support	special	email	price	led	
+mouse	computer	ipad	laptop	usb	windows	wireless	android	software	port	
+microsoft	ibm	model	limited	saitek	eclipse	clicky	ergonomic	duo	uverse	
+battery	money	life	plastic	responsive	ir	camera	cd	aluminum	paper	
+button	mouse	picture	scroll	row	wheel	hand	side	label	sim	
+dust	key	dirt	stick	rock	crumb	water	spill	interested	larger	
+star	point	surface	flat	line	curve	slim	weird	dirty	located	
+laptop	pda	gaming	netbook	mousepad	monitor	station	printer	usual	larger	
+driver	lock	inexpensive	current	num	googletv	rechargeable	resistance	prior	papers	
+price	content	performance	home	mx	cost	hope	numeric	stock	material	
+apple	blue	black	red	key	white	laser	light	bright	color	
+older	lack	lag	poor	noisy	stress	weak	hhk	noticeable	zaggmate	
+range	simple	mode	usb	foot	computer	television	typical	accuracy	operating	
+easy	ergonomic	clicky	gamer	yesterday	past	flimsy	horrible	typer	cheaper	
+average coherence	-143.1816116616122

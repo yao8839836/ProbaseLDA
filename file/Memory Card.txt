@@ -1,0 +1,16 @@
+sandisk	price	speed	class	photo	phone	picture	gb	case	sdhc	
+sd	micro	transfer	adapter	random	case	media	qd	gb	rate	
+gig	highest	main	generic	weight	return	clarity	carpathian	sync	exact	
+stick	current	run	paper	duo	microsdhc	dust	bubble	odd	waste	
+device	deal	money	app	end	psp	viewfinder	microsdhc	system	wallet	
+canon	nikon	fuji	fujifilm	read	sony	iop	mb	panasonic	rebel	
+phone	hour	minute	true	email	decent	instruction	proof	latest	im	
+computer	scanner	phone	pc	android	laptop	photo	simple	reader	windows	
+case	pelican	holder	charger	electronic	im	carpathian	bigger	battery	scandisk	
+picture	video	setting	software	exr	test	car	story	dynamic	plenty	
+higher	side	hand	wrong	top	bottom	copy	edge	lower	line	
+point	book	star	real	dslr	house	home	button	curve	person	
+price	performance	mode	cost	ease	reasonable	bulk	regular	typical	package	
+photo	picture	music	video	image	file	movie	place	ton	thousand	
+cheap	reading	manner	timely	aperture	wide	microsdhc	everyday	consistent	communication	
+average coherence	-136.3619406906885

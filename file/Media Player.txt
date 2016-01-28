@@ -1,0 +1,16 @@
+player	zune	device	media	file	box	ipod	tv	drive	boxee	
+car	house	cost	home	ease	special	similar	stock	equipment	premium	
+half	interesting	powerful	segment	rca	center	doggle	full	micca	specific	
+computer	digital	western	intuitive	media	tv	player	live	camera	television	
+album	router	star	song	artist	card	art	music	wrong	switch	
+lack	hope	entertainment	disappointment	address	neat	frustration	spec	interest	doubt	
+review	decent	rating	av	cable	luck	star	hiccup	mplay	micca	
+option	money	customer	purchase	future	huge	service	christmas	zune	sale	
+navigation	itune	menu	remote	keyboard	button	worse	qwerty	official	impossible	
+netflix	youtube	hulu	microsoft	internet	app	pandora	vudu	connection	streaming	
+sd	library	card	team	boxee	capable	pad	bb	electronics	gig	
+fast	tv	google	msn	method	regard	mbp	esa	faster	bitrate	
+video	music	file	movie	picture	audio	sound	format	software	photo	
+wide	resolution	bulky	requirement	wdtvlive	tool	os	pixelated	avail	brightness	
+setting	result	memory	character	conclusion	definition	gb	question	mb	communication	
+average coherence	-147.74639367365776

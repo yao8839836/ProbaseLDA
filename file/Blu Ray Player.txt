@@ -1,0 +1,16 @@
+dvd	tv	netflix	disc	samsung	wireless	lg	panasonic	movie	feature	
+review	instant	rating	sd	queue	comment	card	star	entry	lol	
+customer	service	harmony	folk	buyer	im	internal	significant	wide	vendor	
+small	huge	higher	large	smaller	mail	size	adequate	genre	low	
+seconds	music	trouble	movie	cd	crap	dedicated	chapter	library	internal	
+life	addition	loading	sort	cumbersome	intuitive	startup	clarity	distracting	wifus	
+picture	video	sound	movie	audio	file	money	dvd	format	music	
+stream	bluray	netflix	movie	video	separate	cost	fault	wifus	rare	
+price	speed	connectivity	performance	range	internet	feature	reasonable	size	slim	
+deal	phone	password	title	email	hour	address	big	configuration	similar	
+computer	drive	ease	wifi	dvd	file	upconversion	volume	hard	loud	
+netflix	pandora	vudu	youtube	internet	streaming	app	movie	service	video	
+pc	server	windows	media	simple	dlna	laptop	network	intuitive	computer	
+complaint	answer	death	wifus	panny	impressive	related	hdmus	worth	im	
+warranty	house	replacement	equipment	home	refund	car	investment	related	cheaper	
+average coherence	-146.74516884028125

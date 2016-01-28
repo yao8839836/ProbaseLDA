@@ -1,0 +1,16 @@
+panasonic	button	door	easy	oven	review	size	feature	small	minute	
+oven	light	heat	door	touch	stove	smell	convection	interior	temperature	
+food	cooking	power	setting	sensor	cook	level	feature	meat	button	
+purchase	huge	option	house	buy	college	sale	christmas	past	stock	
+popcorn	bag	potato	coffee	vegetable	chip	pizza	button	setting	cup	
+star	door	money	intuitive	defrost	wall	case	window	past	wireless	
+bright	tiny	display	blue	flimsy	earlier	ft	today	helpful	larger	
+cheap	free	cost	shipping	preset	thin	ease	special	fancy	smart	
+model	dimension	fact	wrong	angle	addition	ft	dollar	sense	saver	
+price	delivery	plate	sort	worth	instance	quicker	slice	dinner	bacon	
+beep	bell	end	whistle	breeze	cycle	sound	bigger	regular	mother	
+performance	favorite	reliability	main	location	timing	decent	area	term	pressure	
+picture	background	photo	section	detail	helpful	today	previous	sturdy	yesterday	
+plastic	black	white	blue	paint	red	solid	water	stainless	color	
+double	unusual	precise	larger	impressed	taller	usable	seconds	weight	investment	
+average coherence	-134.67568516146747

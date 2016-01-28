@@ -1,0 +1,16 @@
+music	song	easy	cd	software	device	sound	file	radio	feature	
+mode	frequency	difference	range	minimum	yesterday	playcenter	worth	riovolt	flawless	
+ipod	sansa	wma	touch	zune	apple	format	wav	terrific	bigger	
+option	setting	water	main	rock	solution	stick	base	character	future	
+computer	sony	laptop	iphone	cowon	rca	itune	panasonic	samsung	camera	
+button	star	real	point	car	wall	person	square	strap	home	
+shuffle	intuitive	decent	multiple	everyday	usage	today	labs	alot	yesterday	
+sound	headphone	track	speaker	touch	light	earbud	sd	deal	earphone	
+small	case	charger	cover	bag	folder	cheap	plastic	converter	backpack	
+battery	life	hour	decent	long	gym	charge	aa	ac	road	
+clip	zip	electronics	part	belt	backlit	construction	thin	plastic	microsdhc	
+voice	recording	recorder	bass	sound	fm	email	playback	bulky	phone	
+ear	hand	bud	digital	arm	head	finger	back	phone	band	
+device	fact	size	price	model	functionality	pro	format	special	directory	
+windows	pc	media	music	xp	software	file	device	explorer	computer	
+average coherence	-151.79295087379936

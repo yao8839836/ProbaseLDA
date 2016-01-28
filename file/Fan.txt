@@ -1,0 +1,16 @@
+air	quiet	room	noise	speed	small	easy	night	case	loud	
+low	high	speed	setting	noise	highest	air	medium	temperature	higher	
+shipping	construction	assembly	packaging	cost	return	reasonable	outage	furniture	sleeper	
+air	movement	decent	life	effective	range	amount	separate	building	purchase	
+lasko	cpu	honeywell	intel	motherboard	ram	tower	molex	kaz	asus	
+angle	stand	glad	connector	dirt	bag	impossible	quietest	similar	yesterday	
+noisy	summer	air	hot	conditioner	conditioning	heat	dust	gentle	water	
+operation	works	word	sale	worst	happier	worth	sturdy	ca	im	
+review	model	company	wrong	door	huge	picture	comment	research	combination	
+light	computer	tv	electric	weight	laptop	table	desk	home	stove	
+purchase	house	home	car	option	stock	buy	china	future	investment	
+plastic	screw	star	money	wire	pin	clip	part	metal	ring	
+netbook	gpu	screwdriver	socket	oc	knob	handy	papers	quieter	worst	
+circulation	air	easier	bunk	worst	quietest	today	oc	taller	handy	
+feature	price	core	sturdy	handy	round	bigger	size	timer	remote	
+average coherence	-134.03229661493302

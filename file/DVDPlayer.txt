@@ -1,0 +1,16 @@
+remote	disc	price	tv	feature	picture	sound	screen	video	review	
+simple	windows	pc	vcr	widescreen	intuitive	helpful	circuit	english	server	
+black	blue	screen	bright	dark	color	white	green	ray	red	
+speaker	display	laser	tv	lcd	garbage	wall	antenna	monitor	dvr	
+sony	toshiba	panasonic	samsung	pioneer	oppo	tv	model	customer	buck	
+battery	car	light	electronics	power	life	adapter	multiple	hour	worse	
+machine	home	equipment	theater	house	handy	cheaper	investment	stock	extended	
+firmware	wifi	failure	cheapest	worse	easier	today	dissapointed	hdmus	sturdy	
+small	higher	difficult	large	left	present	dog	cat	bluray	mail	
+basis	bluray	past	worth	similar	pro	cheaper	avail	cheapest	clip	
+picture	sound	headphone	computer	switch	sd	music	door	cd	card	
+universal	select	hus	region	pro	free	players	regular	newer	sturdy	
+money	setting	place	color	type	chapter	drawback	phone	camera	section	
+movie	karaoke	play	foreign	dont	past	earlier	worst	dissapointed	horrible	
+button	remote	menu	control	exception	dlna	reading	handy	wifus	layout	
+average coherence	-139.70963571523478

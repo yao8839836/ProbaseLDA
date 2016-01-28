@@ -1,0 +1,16 @@
+charge	sony	hour	price	canon	long	camera	power	minute	kodak	
+high	low	higher	temperature	cost	price	alkaline	reasonable	bright	hundred	
+sale	special	weather	faster	situation	hr	location	dont	previous	batter	
+light	simple	fan	weight	tv	useless	photography	pro	computer	impossible	
+process	decent	multiple	easier	batt	recharger	manual	additional	longer	worth	
+button	wall	mouse	lens	outlet	image	glass	cord	wireless	cap	
+point	line	edge	previous	bottom	critical	color	plenty	batery	eneloops	
+difference	mode	range	maximum	sort	steady	charging	newer	additional	crosse	
+charged	fire	mahacell	impressed	entire	recharger	longer	crosse	inconvenient	sony	
+picture	device	image	photo	video	larger	automatic	worse	additional	recharger	
+travel	energy	electronics	oem	retail	china	packaging	europe	international	technology	
+life	home	equipment	house	bulky	market	today	effect	pro	memory	
+aa	rechargeable	aaa	nimh	cell	mah	eneloop	lithium	sony	energizer	
+binoculars	image	star	bird	pair	stabilization	real	animal	steady	eye	
+camera	digital	money	canon	bag	olympus	garmin	ideal	longer	leica	
+average coherence	-125.77227554833627

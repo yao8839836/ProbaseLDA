@@ -1,0 +1,16 @@
+cable	sound	phone	device	radio	bluetooth	fm	transmitter	audio	music	
+line	point	inch	microphone	strength	model	older	specific	incarcables	bottom	
+phone	call	email	wrong	bulky	satechi	drawback	firmware	incoming	tight	
+ipod	iphone	touch	music	bluetooth	aux	ipad	speaker	zune	cable	
+case	small	cable	iphone	charger	end	otterbox	cover	hard	windshield	
+home	stock	idea	house	equipment	secure	situation	numerous	correct	happier	
+music	button	long	star	call	setting	incarcables	satechi	alternative	delivery	
+size	price	ease	site	reasonable	hdmus	cheaper	main	biggest	exact	
+complaint	local	party	response	mhl	playback	order	broadband	itube	satechi	
+sony	pioneer	buck	samsung	honda	galaxy	audiovox	evo	droid	htc	
+clear	blue	black	sound	light	green	white	loud	reliable	red	
+feature	price	period	color	itube	satechi	pro	today	incarcable	correct	
+auxiliary	navigation	technology	construction	deal	antenna	input	electrical	electronics	view	
+review	customer	service	company	decent	satechi	sd	picture	internal	digital	
+loud	sound	noise	light	volume	music	touch	weak	cool	hissing	
+average coherence	-142.96832618917827

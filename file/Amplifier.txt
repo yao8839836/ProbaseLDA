@@ -1,0 +1,16 @@
+cable	speaker	signal	sound	volume	channel	wire	price	system	tv	
+picture	ipod	hd	car	headphone	laptop	player	usb	rm	iphone	
+hum	noise	hiss	audio	audible	thump	sensitive	hz	entire	midrange	
+battery	main	wall	equipment	wiring	home	passive	stock	life	electronics	
+works	media	word	sale	ready	production	past	khz	lepai	dont	
+money	computer	phone	light	radio	option	shack	headset	rock	telephone	
+power	supply	performance	ground	spec	channel	adapter	hot	dollar	pound	
+ear	foot	detail	head	trunk	hand	seconds	hz	kohm	longer	
+digital	signal	analog	cable	channel	tv	internet	windows	booster	television	
+big	signal	house	strength	strong	hard	bar	dc	separate	comp	
+feature	price	definition	worth	audiophile	pro	flimsy	fiio	lepai	active	
+eq	bass	setting	dynamic	sd	past	im	ca	happier	equivalent	
+sound	music	headphone	audio	video	voice	movie	game	audiophile	speaker	
+review	decent	huge	entry	company	press	wonderful	combination	klipsch	alot	
+area	location	size	adjustable	length	thd	proper	outstanding	weather	term	
+average coherence	-145.3236132602398

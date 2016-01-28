@@ -1,0 +1,16 @@
+sound	price	pair	music	bass	ipod	battery	ear	handset	cord	
+noise	construction	gym	waste	complete	electronics	travel	library	mess	jlab	
+sony	belkin	skullcandy	compatible	logitech	fidelity	minus	rca	active	cheaper	
+picture	question	material	muddy	secure	result	comment	rugged	noisy	slide	
+line	star	deal	static	office	floor	kitchen	big	color	flat	
+ear	head	bud	place	sound	size	setting	comfortable	period	pressure	
+high	range	low	higher	bass	mode	sound	mid	left	frequency	
+usb	cable	pc	bluetooth	star	ring	entry	local	aux	internet	
+tight	microphone	stylus	radio	switch	telephone	speaker	dial	button	monitor	
+review	decent	company	website	pen	rating	door	etymotic	previous	external	
+panasonic	sennheiser	bose	grado	samsung	akg	jvc	nokia	model	longer	
+purchase	customer	service	option	buy	sale	price	christmas	works	future	
+point	canceling	summary	curve	earphones	cheaper	audiophile	worth	box	previous	
+money	button	plastic	white	black	answering	dollar	metal	headband	stock	
+iphone	earphone	computer	charger	case	ipad	laptop	camera	strap	ipod	
+average coherence	-142.8808298168537

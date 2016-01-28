@@ -1,0 +1,16 @@
+cup	easy	small	minute	clean	bottom	review	timer	steamer	warm	
+recipe	price	cookbook	book	horrible	overcooked	impressed	harder	worth	today	
+machine	steel	plastic	stainless	oats	stick	restaurant	cut	towel	teflon	
+setting	stuff	porridge	cleaning	warm	beginning	middle	term	worst	longer	
+inexpensive	meal	eater	entire	detail	plenty	larger	inside	basis	picture	
+japanese	asian	chinese	japan	place	china	company	food	korean	indian	
+glad	easier	plunge	impossible	cheaper	smallest	today	larger	past	mushy	
+light	burning	heat	heavy	temperature	color	cold	pain	condensation	ease	
+pot	bowl	lid	pan	stove	dish	spoon	water	top	dishwasher	
+mode	warm	min	amount	average	maximum	experiment	raw	proportion	max	
+couple	home	friend	option	kid	college	description	student	decent	future	
+life	perfection	everytime	careful	trouble	bigger	zojirushus	mushy	pro	seconds	
+taste	cord	retractable	smell	excess	feeling	sb	thought	flower	similar	
+water	cup	vegetable	oatmeal	porridge	soup	amount	oil	mark	broth	
+brown	white	black	decker	red	grain	jasmine	liquid	solid	porridge	
+average coherence	-137.54881085442133

@@ -1,0 +1,16 @@
+price	wrist	easy	battery	face	feature	big	alarm	date	small	
+customer	reviewer	service	seller	computer	brother	sale	operation	dealer	switch	
+night	christmas	light	temperature	backlight	direct	moisture	holiday	illuminator	im	
+light	strap	compass	dark	red	waterproof	weight	green	yellow	accurate	
+band	sport	leather	tag	pro	metal	reading	swimming	clasp	replacement	
+everyday	accuracy	sound	touch	durability	smell	subtle	expansion	result	feminine	
+country	visible	ideal	modern	folk	sweep	older	easier	dressy	hassle	
+money	scratch	flashy	error	jewelry	worth	statement	run	mother	guess	
+invicta	casio	timex	rolex	place	men	seiko	atomic	expedition	fossil	
+minute	hour	hand	true	proof	luminous	bigger	past	pro	accurate	
+size	resistance	bulky	site	shower	mm	pool	bigger	adjustable	easier	
+rugged	cost	birthday	home	lack	house	dressy	accurate	address	effort	
+hand	side	back	top	dress	bottom	case	shirt	edge	line	
+water	resistant	shiny	fancy	affordable	outdoor	paint	clothes	dirty	easier	
+plastic	glass	steel	stainless	strap	gold	band	leather	metal	black	
+average coherence	-133.04385842369373

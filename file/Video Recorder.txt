@@ -1,0 +1,16 @@
+tv	show	program	recording	channel	feature	device	replaytv	service	replay	
+small	difficult	huge	higher	large	wrong	file	size	mail	stream	
+home	show	house	favorite	addition	network	theater	market	bedroom	select	
+episode	show	page	sonic	blue	friends	favorite	season	seinfeld	survivor	
+life	sort	viewing	intuitive	upload	everyday	manner	easier	draw	push	
+cable	box	internet	phone	digital	connection	channel	satellite	signal	line	
+guide	tv	program	sd	card	channel	splitter	mce	manual	previous	
+hour	minute	true	email	phone	support	hold	serial	call	high	
+software	service	customer	pc	fee	hardware	monthly	arcsoft	electronics	editing	
+picture	component	image	photo	input	audio	sound	composite	digital	music	
+technology	capacity	lack	ram	lag	size	pay	delay	adjustable	age	
+slow	highest	wrong	glitch	stupid	interesting	blaze	crazy	freeware	tomorrow	
+camera	money	equipment	card	correct	credit	system	piece	expense	console	
+dvd	vcr	tape	tv	television	movie	vhs	computer	impossible	recorder	
+version	decent	definition	ease	code	software	release	shooting	totalmedia	happauge	
+average coherence	-153.07523410098648

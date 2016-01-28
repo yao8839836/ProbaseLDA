@@ -1,0 +1,16 @@
+speaker	sound	cable	system	bass	price	room	volume	low	receiver	
+klipsch	bose	speaker	harman	kardon	denon	ultra	pyle	fidelity	athena	
+logitech	laptop	ipod	phone	iphone	bigger	biggest	boomy	skeptical	pioneer	
+decent	price	dollar	extension	position	website	audiophile	reference	pound	realistic	
+amp	bass	computer	distortion	music	watt	deep	tight	acoustic	thump	
+power	ohm	reasonable	watt	floor	hdmus	soundbar	lack	cheaper	regular	
+loud	car	star	foot	head	truck	present	hum	boomy	audiophile	
+jbl	infinity	sony	velodyne	dolby	vizio	paradigm	hdmus	expert	soundsticks	
+big	strong	adjustable	thin	hard	affordable	passive	outstanding	balanced	critical	
+purchase	price	shipping	buy	huge	option	customer	sale	service	entertainment	
+performance	plastic	durable	metal	overwhelming	biggest	ca	sturdy	mediabridge	rubber	
+money	music	movie	electronics	game	construction	limited	worth	retail	internal	
+piece	radio	shack	crap	biggest	equipment	overkill	alot	specific	suv	
+driver	switch	inexpensive	seat	starter	easier	mix	passenger	horrible	mm	
+component	house	audio	video	radio	picture	splitter	equipment	stock	audiophile	
+average coherence	-141.96597099825541
