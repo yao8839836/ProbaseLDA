@@ -1,0 +1,26 @@
+monitor	screen	price	display	device	color	easy	review	resolution	lcd	
+fast	google	app	college	school	yahoo	froyo	archo	unbelievable	technical	
+model	manufacturer	warranty	advice	extended	vendor	competitor	retailer	latest	impressive	
+seconds	glad	crazy	careful	chinese	push	bag	heavier	button	unnecessary	
+android	samsung	app	market	motorola	nec	xoom	phone	adobe	microsoft	
+tablet	keyboard	netbook	ipad	notebook	app	mouse	camera	kindle	pc	
+video	picture	card	movie	gaming	sound	music	image	photo	speaker	
+internet	customer	email	phone	service	local	rebate	sale	cell	website	
+memory	main	card	system	operating	sd	lag	internal	port	adjustable	
+idea	wrong	house	luck	widescreen	ziio	special	heavier	stock	ease	
+sony	battery	toshiba	hp	dell	viewsonic	asus	monitor	acer	life	
+firmware	photoshop	superdrive	cad	latest	earlier	version	prompt	proper	crappy	
+windows	digital	bluetooth	os	responsive	connection	optical	analog	linux	website	
+monitor	usb	dvi	money	cable	port	lcd	vga	tv	speaker	
+bright	black	screen	color	white	monitor	dark	green	clear	contrast	
+led	ghz	biggest	happier	archo	frustrating	specific	monitor	monitor	monitor	
+launcher	prone	kyros	wifus	helpful	displays	cheaper	happier	entire	worse	
+minus	impressed	thousand	motherboard	easier	heavier	froyo	monitor	monitor	monitor	
+heavier	yesterday	worth	internal	viewable	newest	envision	fabulous	modem	side	
+meg	ram	awful	clearer	trinitron	techie	moniter	monitor	monitor	monitor	
+service	late	entire	frustrating	appslib	whites	monitor	monitor	monitor	monitor	
+quarters	dime	gram	prompt	gamer	prone	bulkier	protective	longer	latest	
+brick	lb	longer	prompt	horrible	viewable	ziio	fabulous	monitor	monitor	
+moniter	helpful	worth	thicker	mother	interested	monitor	monitor	monitor	monitor	
+hole	im	today	clearer	appslib	fabulous	monitor	monitor	monitor	monitor	
+average coherence	-988.6315906190823

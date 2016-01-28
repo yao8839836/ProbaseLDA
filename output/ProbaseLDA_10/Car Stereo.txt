@@ -1,0 +1,11 @@
+cable	phone	device	music	sound	bluetooth	radio	fm	transmitter	audio	
+poor	decent	cost	weak	flimsy	reliable	im	minus	current	commute	
+ipod	iphone	case	phone	android	app	music	internet	zune	pandora	
+sony	buck	pioneer	samsung	honda	audiovox	evo	droid	htc	soundfly	
+radio	frequency	volume	range	station	simple	performance	signal	functionality	fm	
+microphone	knob	tiny	older	plastic	windshield	larger	dot	useless	sense	
+parrot	bug	battery	huge	stick	otter	rock	horrible	past	satechi	
+auxiliary	deal	sd	truck	card	construction	technology	ease	reasonable	difficult	
+customer	service	money	purchase	stock	satechi	buy	gp	future	option	
+sound	touch	ipod	cool	generation	favorite	pain	satechi	sync	sight	
+average coherence	-1232.6612164907733

@@ -1,0 +1,16 @@
+software	epson	easy	hp	slide	color	print	image	negative	computer	
+result	performance	luck	accuracy	response	ram	impression	durable	security	mhz	
+error	main	message	highest	trial	preference	reset	guess	sync	parameter	
+home	business	library	card	record	sale	latest	life	inexpensive	glossy	
+scanning	fax	document	deal	printing	copying	research	intuitive	program	feature	
+kind	wrong	compatibility	fourth	capture	effective	density	sensitive	unsharp	�	
+office	home	house	material	small	market	bulky	worst	standalone	ev	
+mac	windows	pc	xp	driver	software	os	version	vista	compatible	
+simple	mode	range	system	radio	operating	frequency	average	balance	flexibility	
+surprise	hope	frustration	feeling	tired	disappointment	ca	fix	past	ghz	
+code	cost	ready	manual	lack	text	language	sound	video	newer	
+software	card	sd	guide	computer	addition	disk	info	faster	dictionary	
+paper	money	tray	pen	camera	glad	envelope	folder	laptop	bag	
+ink	cartridge	machine	paper	jam	dust	option	expensive	router	equipment	
+photo	document	instruction	picture	email	page	feeder	receipt	word	pdf	
+average coherence	-1289.7750190724432

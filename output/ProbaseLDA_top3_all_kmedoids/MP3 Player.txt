@@ -1,0 +1,16 @@
+music	song	easy	cd	software	sound	radio	file	device	price	
+mode	difference	frequency	range	minimum	worst	mtp	shorter	impressed	today	
+ipod	zune	sansa	wma	hd	touch	format	wav	terrific	separate	
+option	setting	water	main	rock	solution	stick	character	base	future	
+computer	sony	laptop	iphone	usb	cowon	itune	rca	panasonic	samsung	
+button	star	real	car	point	longer	person	wall	square	strap	
+shuffle	decent	intuitive	multiple	everyday	usage	calus	alot	gmini	horrible	
+sound	headphone	track	touch	speaker	light	earbud	sd	deal	card	
+small	case	charger	cover	pocket	bag	folder	rechargable	rechargeable	converter	
+battery	life	hour	long	decent	gym	charge	aa	ac	road	
+clip	zip	belt	electronics	part	backlit	plastic	direct	construction	thin	
+voice	phone	recording	recorder	bass	fm	email	bulky	playback	cell	
+ear	hand	bud	digital	arm	head	finger	back	band	foot	
+device	fact	size	functionality	special	directory	weight	format	dollar	addition	
+windows	pc	media	xp	music	software	file	explorer	mac	version	
+average coherence	-1311.3992953162888

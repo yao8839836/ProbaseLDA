@@ -1,0 +1,11 @@
+car	speed	ticket	cop	price	false	laser	feature	signal	bel	
+hard	wire	outlet	customization	favorite	kit	bigger	beltronics	entire	ridiculous	
+door	window	automatic	mirror	interstate	lack	wall	beltronics	coiled	block	
+road	highway	car	hill	mile	place	laser	trip	open	cop	
+vector	glad	beltronics	bel	main	exact	potential	moment	adjustable	rx	
+band	money	alarm	false	ka	voice	alert	signal	visual	audio	
+front	rear	bottom	top	line	view	side	windshield	sensor	beltronics	
+mode	range	city	frequency	false	highway	higher	alarm	satisfied	strength	
+red	black	blue	solid	light	lead	silver	display	beltronics	led	
+purchase	buy	sale	interesting	beltronics	beltronic	impressed	ca	plenty	glare	
+average coherence	-1364.2812730647124

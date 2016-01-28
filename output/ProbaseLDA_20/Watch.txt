@@ -1,0 +1,21 @@
+price	wrist	light	hand	easy	feature	face	big	date	size	
+deal	proof	website	term	big	address	impossible	ready	accurate	place	
+bulky	wide	luminescent	easier	method	question	school	indiglo	protector	bigger	
+complaint	order	comment	suggestion	muy	opinion	calendar	star	star	star	
+diver	invicta	automatic	sturdy	bigger	worth	regular	past	similar	illuminator	
+water	black	white	blue	resistant	green	clear	red	face	half	
+leather	strap	band	canvas	shiny	rubber	nylon	outdoor	nicer	metallic	
+scratch	left	hole	loose	lack	run	higher	bigger	mother	dressy	
+battery	display	everyday	person	temperature	place	phone	calculator	life	similar	
+contact	accurate	worth	longer	unique	impressed	nicer	muy	star	star	
+strap	button	bracelet	easy	watchband	buckle	sturdy	chrono	skin	belt	
+alarm	picture	number	clock	rugged	color	correct	photo	graph	past	
+dress	setting	shirt	present	inside	casual	middle	play	suit	jeans	
+money	glad	jewelry	package	neat	loop	worth	seamaster	past	im	
+casio	invicta	timex	rolex	seiko	citizen	omega	atomic	submariner	fossil	
+plastic	glass	steel	stainless	gold	metal	resin	titanium	case	silver	
+version	decent	setup	bigger	unique	im	accurate	similar	sturdy	hassle	
+band	sport	tag	metal	swimming	clasp	track	pro	expansion	jeweler	
+normal	late	resistance	moment	visible	energy	readable	bigger	muy	vacation	
+hard	difficult	rough	strong	soft	smooth	eco	worse	bright	normal	
+average coherence	-1099.4775645291306

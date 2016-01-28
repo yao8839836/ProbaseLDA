@@ -1,0 +1,16 @@
+sound	price	volume	system	small	bass	phone	high	ipod	bose	
+wire	gauge	color	copper	worse	difficult	midbass	impressed	ihome	today	
+computer	bass	amp	amplifier	vocal	variety	subwoofer	music	impressive	accurate	
+speakerphone	mac	windows	linux	card	basic	android	cradle	sd	memory	
+negative	operating	review	trismegistos	horrible	spectacular	soundstick	worst	atlantean	gigaworks	
+powerful	polks	voicemail	audiophile	today	past	boomy	round	logitechs	acoustimass	
+sound	static	balanced	impressive	zitzie	slight	dont	tweaking	worth	brother	
+battery	usb	internet	power	life	port	radio	cable	router	switch	
+home	room	theater	office	bedroom	living	separate	kitchen	compatible	plenty	
+setting	wrong	bulky	wide	soft	present	additional	heat	easier	slim	
+dock	remote	ipod	iphone	midbass	difficult	impressed	couch	jbl	jbl	
+music	sound	money	movie	picture	video	audio	game	system	ipod	
+difference	simple	media	sale	listening	obvious	reproduction	term	selection	playback	
+dead	improvement	ear	surprise	mediocre	eye	capability	pain	birthday	face	
+pc	laptop	house	equipment	software	machine	electronics	mini	construction	hardware	
+average coherence	-1128.2796415583653

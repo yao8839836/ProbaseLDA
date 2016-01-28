@@ -1,0 +1,26 @@
+screen	battery	call	device	case	price	easy	feature	cable	review	
+place	friend	email	address	weight	location	guy	im	flimsy	streaming	
+dead	seconds	careful	push	yesterday	motorolum	bigger	actual	biggest	rich	
+ear	head	hand	foot	windshield	neck	biggest	easier	floor	extended	
+purchase	customer	option	service	charge	buy	car	luck	everyday	contract	
+memory	plan	text	card	program	slim	initial	spec	unlimited	compatibility	
+lg	razr	sony	buck	moto	sharp	ericsson	paired	biggest	pod	
+setting	delivery	call	bulky	incoming	favorite	dialing	profile	internal	country	
+wrong	poor	decent	cheap	gym	pro	language	reliable	english	bright	
+button	pocket	volume	purse	home	bag	logo	plenty	small	convenient	
+iphone	motorola	nokia	samsung	htc	android	ipad	plantronics	evo	sidekick	
+version	software	decent	dont	grip	load	os	firmware	setup	ram	
+headset	headphone	keyboard	speaker	camera	computer	sd	card	laptop	stereo	
+case	charger	cover	holster	usb	port	wall	armband	fix	handsfree	
+music	sound	camera	video	money	picture	touch	software	game	photo	
+worst	similar	mm	easy	easy	easy	easy	easy	easy	easy	
+lens	today	awkward	worth	vibrant	im	past	newer	paired	easy	
+ppc	motospeak	horrible	accurate	faster	seidio	business	info	easy	easy	
+mm	worst	proper	yesterday	flawless	internal	dont	additional	megapixel	ur	
+yesterday	impressed	convenient	im	frustrating	doesnt	blueconnect	frequency	easy	easy	
+customizable	quirk	faster	happier	impressed	easy	easy	easy	easy	easy	
+additional	impressive	round	easy	easy	easy	easy	easy	easy	easy	
+sim	contact	worst	horrible	yesterday	today	wifus	rich	numerous	easy	
+^	im	paired	fix	display	protector	screen	film	easy	easy	
+junk	unlocked	flawless	additional	easy	easy	easy	easy	easy	easy	
+average coherence	-867.3985869043651

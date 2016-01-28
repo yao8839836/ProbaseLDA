@@ -1,0 +1,26 @@
+radio	battery	feature	price	song	remote	easy	button	dvd	portable	
+service	part	customer	electronics	construction	performance	user	technology	sale	software	
+digital	laser	cabinet	optical	slim	located	larger	skeptical	screw	needless	
+hour	phone	battery	true	music	minute	cell	hundred	today	previous	
+warranty	shipping	replacement	repair	everyday	listening	wake	bumpy	labor	regular	
+noisy	weak	disappointment	limited	hole	strange	scratch	headache	pain	hope	
+noise	heavy	paper	question	lighter	thumb	slight	desperate	tough	cigarette	
+protection	score	im	boy	multiple	birthday	expectation	easier	usage	claim	
+cost	friend	place	gripe	minus	weight	koss	yesterday	happier	function	
+car	kit	refund	stock	adapter	house	tiny	credit	worst	round	
+disc	disk	star	tape	pack	folder	track	luck	dvd	file	
+kitchen	home	market	office	compartment	battery	bulky	bedroom	separate	compatible	
+price	size	antenna	condition	main	huge	result	age	doesnt	larger	
+radio	simple	computer	clock	pc	backlight	shower	headset	intuitive	biggest	
+sound	money	button	music	picture	speaker	preset	color	headphone	previous	
+pass	worth	detail	clock	clock	clock	clock	clock	clock	clock	
+frustrating	happier	pricey	worst	seperate	tape	deck	clock	clock	clock	
+mid	riovolt	awkward	hundred	specific	worse	clock	clock	clock	clock	
+read	extended	round	previous	pro	clock	clock	clock	clock	clock	
+today	slightest	ca	awkward	clock	clock	clock	clock	clock	clock	
+station	worth	plenty	today	clock	clock	clock	clock	clock	clock	
+happier	longer	similar	awkward	alot	upgradable	impressive	clock	clock	clock	
+arrow	koss	im	skeptical	extended	awkward	antiskip	clock	clock	clock	
+audiophile	extended	regular	numerous	yesterday	awkward	koss	clock	clock	clock	
+plenty	seperate	programmable	slightest	koss	tiny	impressive	clock	clock	clock	
+average coherence	-826.4387416195012

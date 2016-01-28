@@ -1,0 +1,21 @@
+external	laptop	backup	case	file	price	software	datum	mac	machine	
+software	dvd	video	movie	notebook	sound	file	folder	digital	tv	
+touch	loss	hope	thought	startech	accessory	feeling	ego	painful	confidence	
+star	instruction	number	format	range	mode	decent	color	letter	glossy	
+warranty	replacement	refund	rebate	additional	slower	typical	alot	worth	impossible	
+short	cheap	small	desk	power	lap	top	lack	jumper	table	
+wrong	kind	virtual	wonderful	temperature	current	critical	massive	inside	heat	
+process	larger	cooling	ease	newer	favorite	acceptable	upload	sort	maker	
+side	front	bottom	top	wall	separate	higher	left	adequate	rear	
+money	camera	typing	record	bag	close	copying	helpful	im	play	
+hour	minute	phone	true	cell	location	canvio	archo	cheaper	email	
+pc	ram	memory	processor	hp	cpu	seller	mini	chipset	ghz	
+passport	utility	rate	operating	transfer	system	total	cost	wd	usage	
+cd	plastic	aluminum	brick	bug	construction	rubber	pro	dust	packaging	
+usb	battery	cable	port	sata	firewire	power	connection	life	cord	
+music	picture	photo	graphic	type	document	video	spec	impression	game	
+laptop	file	archos	jukebox	smartware	access	word	step	ipod	office	
+noise	size	complete	limit	half	style	docking	newer	goflex	brother	
+size	main	weight	array	age	term	meg	doesnt	finish	past	
+computer	keyboard	window	mouse	switch	printer	router	monitor	button	worst	
+average coherence	-1191.7841657562349

@@ -1,0 +1,26 @@
+cable	picture	screen	sound	antenna	price	box	dvd	player	easy	
+channel	power	area	antenna	performance	electronics	strength	correct	supply	worth	
+money	button	menu	remote	camera	control	bass	pro	car	inexpensive	
+picture	result	slide	question	previous	period	answer	comment	latest	film	
+device	video	picture	music	photo	image	file	laptop	movie	ipod	
+night	light	lighting	current	backlight	past	countless	heat	bright	worth	
+setting	option	couple	home	friend	kid	multiple	theater	future	scene	
+level	compatibility	acceptable	worth	internal	impressive	happier	silicondust	wifus	larger	
+bedroom	room	kitchen	living	attic	office	separate	size	basement	cheaper	
+major	higher	minor	circuit	adequate	left	slim	additional	advanced	worse	
+small	monitor	case	keyboard	pc	cabinet	scanner	charger	bigger	computer	
+review	television	company	radio	sd	decent	card	compatible	library	worse	
+shipping	return	space	packaging	internal	password	ups	avus	larger	worth	
+deal	email	half	sound	sync	configuration	address	phone	hour	wifus	
+side	wall	front	back	bottom	line	glass	screen	rear	top	
+past	shortcoming	silicondust	clunky	tinny	specific	expensive	expensive	expensive	expensive	
+stud	avi	finder	today	hdmus	lb	larger	blu	expensive	expensive	
+happier	pro	aquos	connector	camera	expensive	expensive	expensive	expensive	expensive	
+de	shortcoming	aquos	cheaper	heck	rechargeable	light	expensive	expensive	expensive	
+battery	rechargeable	worth	countless	yesterday	tinny	fix	expensive	expensive	expensive	
+aa	internal	impressed	happier	shortcoming	silicondust	frustrating	expensive	expensive	expensive	
+dyyno	countless	comparable	mid	biggest	detailed	expensive	expensive	expensive	expensive	
+internal	worth	impressive	past	ca	extended	expensive	expensive	expensive	expensive	
+recent	shortcoming	flimsy	easier	worth	wega	expensive	expensive	expensive	expensive	
+rechargeable	worth	flimsy	aquos	glare	expensive	expensive	expensive	expensive	expensive	
+average coherence	-908.1013827436249

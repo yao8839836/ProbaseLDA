@@ -1,0 +1,11 @@
+player	ipod	zen	creative	screen	vision	battery	song	device	apple	
+color	number	screen	huge	bug	bright	match	vibrant	beautiful	stick	
+hour	battery	minute	charge	card	sd	life	email	half	full	
+video	music	audio	photo	playlist	movie	sound	picture	file	software	
+fast	yahoo	google	method	riaa	worth	rich	previous	specific	impossible	
+computer	radio	fm	recorder	voice	usb	stereo	photo	car	camera	
+customer	service	model	electronics	manufacturer	technology	limited	support	clunky	impossible	
+size	main	performance	term	price	outstanding	clarity	extended	force	weight	
+scratch	mode	screen	rate	flaw	sort	rma	invisible	maximum	shield	
+format	video	file	decent	bulky	content	audio	reasonable	ready	codec	
+average coherence	-1341.9222813851047

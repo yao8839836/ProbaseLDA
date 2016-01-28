@@ -1,0 +1,21 @@
+speed	ticket	cop	price	feature	bel	signal	range	police	mile	
+band	false	alarm	ka	signal	mode	door	visual	truck	automatic	
+loud	volume	speaker	automute	substantial	plenty	beltronics	skeptical	iradar	quicker	
+warranty	strength	main	beltronics	exact	similar	potential	adjustable	rx	return	
+sws	beltronics	ca	impressive	flimsy	beltronic	worth	impressed	entire	system	
+windshield	suction	cup	bracket	hand	dash	window	case	visor	butt	
+model	result	period	map	previous	older	revision	question	concern	improvement	
+gp	smartcord	accurate	beltronics	worse	beltronic	larger	worth	hundred	bigger	
+manual	website	capability	beltronics	larger	instance	dozen	continuous	pick	easier	
+fast	google	ca	substantial	beltronics	dozen	iradar	fals	darn	school	
+investment	lack	insurance	check	error	scratch	cost	professionalism	worth	account	
+road	hill	drive	mile	trip	cop	interstate	wall	encounter	dc	
+works	video	word	photo	spectre	music	step	picture	im	automute	
+device	end	iphone	ipod	phone	bluetooth	ipad	audible	directional	smartcord	
+car	vehicle	opener	home	pro	future	helpful	side	door	lead	
+crazy	visible	slow	stupid	dangerous	picky	danger	automute	cobras	beltronics	
+money	technology	construction	electronics	reading	target	everyday	software	coiled	passport	
+laser	hot	commute	sun	heat	temperature	cold	europe	sunny	hundred	
+light	battery	camera	bell	sound	multiple	touch	sight	alarm	dark	
+option	purchase	enforcement	buy	law	mechanism	sale	oem	additional	stock	
+average coherence	-1178.9045734902077

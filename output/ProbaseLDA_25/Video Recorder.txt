@@ -1,0 +1,26 @@
+tv	show	program	cable	software	hour	channel	box	recording	feature	
+pc	software	huge	ease	break	wintv	mac	laptop	lack	exchange	
+battery	noise	size	screen	air	photo	camera	impossible	digital	file	
+customer	high	service	long	hour	support	low	electronics	highest	medium	
+computer	remote	television	control	button	intuitive	dvd	ir	monitor	laptop	
+slow	glitch	channel	delay	mpg	mpeg	adopter	worth	unusable	cheaper	
+cable	component	audio	input	picture	sd	card	image	sound	digital	
+error	christmas	correct	theater	failure	trial	fall	guess	bankruptcy	thousand	
+hr	word	works	sale	operation	helpful	marketing	variety	dt	novice	
+picture	list	wrong	channel	hauppage	artifact	close	ota	streaming	worst	
+sony	panasonic	philips	eyetv	toshiba	microsoft	dell	editing	samsung	universal	
+money	camera	setting	friend	button	middle	email	place	code	rating	
+final	resolution	brightness	select	method	fix	combination	pm	earlier	contrast	
+company	cable	rebate	dvr	local	box	tvgo	page	representative	host	
+simple	rate	mode	viewing	min	upload	max	rma	switching	potential	
+subscription	star	worse	lowest	frustrating	unusable	im	simple	simple	simple	
+avus	worse	spare	regular	previous	past	hdmus	helpful	ca	brainer	
+yesterday	rid	awful	slight	simple	simple	simple	simple	simple	simple	
+brainer	extended	newer	skeptical	cablebox	simple	simple	simple	simple	simple	
+gripe	impressed	similar	today	worth	past	wintv	skeptical	happier	simple	
+hdpvr	alot	today	worst	streaming	skeptical	sensitive	adopter	ca	techie	
+showstopper	vcr	longer	cheapest	pixelated	helpful	compatable	simple	simple	simple	
+past	dvrs	showstopper	adopter	happier	cutter	simple	simple	simple	simple	
+mp	simple	simple	simple	simple	simple	simple	simple	simple	simple	
+cablebox	spare	worth	wintv	biggest	lengthy	helpful	simple	simple	simple	
+average coherence	-963.221646401832

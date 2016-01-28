@@ -1,0 +1,26 @@
+screen	room	image	picture	bulb	easy	price	light	movie	hour	
+small	case	bag	stand	cover	lens	portable	cable	odd	ft	
+seconds	christmas	weekend	crazy	careful	beat	december	january	dot	friday	
+tv	movie	dlp	light	lcd	dvd	plasma	radio	house	game	
+remote	computer	control	tripod	eco	mode	camera	av	button	widescreen	
+panasonic	sony	onkyo	yamaha	art	bic	past	fix	guess	stream	
+price	cost	distance	performance	model	technology	research	foot	similar	watt	
+fan	drive	noise	file	surprise	loud	usb	filter	defective	switch	
+picture	device	money	deal	slide	video	clear	powerpoint	photo	big	
+color	sound	lack	touch	correct	heat	loss	playback	pain	sense	
+resolution	setting	brightness	contrast	color	native	decent	delivery	ratio	middle	
+player	sd	main	aspect	card	micro	diagonal	media	lag	slideshow	
+white	black	screen	wall	short	blue	level	color	red	affordable	
+speaker	clock	sound	alarm	projection	signal	soothing	feature	preset	worse	
+cable	video	vga	hdmi	hdmus	usb	dvd	laptop	input	component	
+call	worth	advertised	brother	unusable	sturdy	worse	basis	basis	basis	
+dead	apparent	latest	favi	lumens	projecter	basis	basis	basis	basis	
+previous	wont	mm	worth	unusable	worst	sturdy	favi	worse	ca	
+apparent	im	bothersome	unusable	hookup	male	basis	basis	basis	basis	
+advertised	previous	dot	pj	basis	basis	basis	basis	basis	basis	
+didnt	worth	helpful	direct	lumens	lowe	inside	round	suitable	basis	
+screw	worth	horrible	basis	basis	basis	basis	basis	basis	basis	
+worth	cheaper	happier	worst	earlier	proyector	detailed	basis	basis	basis	
+fix	grainy	bigger	pro	bothersome	latest	related	sturdy	worse	round	
+worth	pleasant	focus	basis	basis	basis	basis	basis	basis	basis	
+average coherence	-956.6960222520433

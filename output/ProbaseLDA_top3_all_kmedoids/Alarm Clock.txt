@@ -1,0 +1,16 @@
+sound	easy	light	display	loud	minute	feature	small	travel	room	
+timex	casio	dst	tricky	saving	sony	bedside	accurate	older	travelmate	
+expensive	beautiful	larger	worst	accurate	similar	downside	cost	size	weight	
+darth	accurate	sturdy	past	similar	worst	plenty	end	end	end	
+power	nap	outage	background	glad	dalek	frame	larger	photo	real	
+review	company	huge	decent	feature	preset	press	customer	slide	website	
+money	picture	image	sharper	china	watch	photo	device	music	waste	
+setting	volume	tone	lowest	pleasant	sound	everyday	low	drawback	soleil	
+button	snooze	top	buzzer	bell	light	beep	present	dst	whistle	
+night	light	rain	middle	temperature	backlight	weekend	thunderstorm	plenty	helpful	
+battery	number	color	radio	plastic	light	dim	power	backup	aa	
+hand	face	head	eye	junk	ear	foot	disappointing	arm	heart	
+machine	home	house	sound	savings	school	jarring	crosse	process	accurate	
+kind	cycle	slow	improvement	unique	bedside	downside	past	worth	cheaper	
+bright	light	red	white	blue	display	green	noise	pink	dark	
+average coherence	-1198.8893320387033

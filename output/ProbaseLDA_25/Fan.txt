@@ -1,0 +1,26 @@
+air	quiet	noise	speed	room	low	small	setting	easy	high	
+light	computer	money	tv	electric	weight	quieter	range	previous	stove	
+lasko	noctua	honeywell	wrong	dell	actual	past	molex	kaz	dyson	
+switch	laptop	connector	netbook	pin	gpu	resistor	blower	regular	past	
+performance	temperature	velocity	patio	garage	main	plenty	exact	stable	pressure	
+timer	conditioning	gentle	remote	feature	core	haf	easier	worse	rechargeable	
+cheap	highest	air	setting	movement	decent	speed	tight	steady	fresh	
+bedroom	room	office	home	air	tent	living	house	construction	past	
+output	ability	similar	sturdy	pro	number	return	area	hour	height	
+plastic	blade	screw	metal	wire	rubber	base	motor	grill	black	
+rating	degree	sturdy	reasonable	outage	joke	noisier	recommendation	correct	slim	
+desk	floor	bed	wall	conditioner	ceiling	table	additional	internal	similar	
+battery	antec	corsair	thermaltake	cell	rechargeable	yesterday	biggest	similar	bigger	
+half	full	similar	sturdy	yesterday	spec	round	quieter	happier	ugly	
+house	cpu	car	stock	home	machine	material	soft	similar	investment	
+sturdy	oc	worst	yesterday	baby	baby	baby	baby	baby	baby	
+today	worth	quietest	impressive	fix	baby	baby	baby	baby	baby	
+ca	horrible	quieter	bigger	baby	baby	baby	baby	baby	baby	
+cfm	oc	spec	cheaper	brother	awful	fix	slight	rpm	baby	
+quietest	flimsy	bigger	pro	baby	baby	baby	baby	baby	baby	
+oc	sturdy	today	dozen	alot	important	cheaper	quietest	regular	baby	
+rechargeable	ca	im	horrible	newer	bigger	baby	baby	baby	baby	
+past	motherboard	today	alot	yesterday	baby	baby	baby	baby	baby	
+similar	worth	baby	baby	baby	baby	baby	baby	baby	baby	
+quieter	baby	baby	baby	baby	baby	baby	baby	baby	baby	
+average coherence	-823.7977003555716

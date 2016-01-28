@@ -1,0 +1,26 @@
+print	hp	ink	epson	printing	page	canon	easy	price	color	
+cartridge	ink	toner	cost	scanner	replacement	color	case	expensive	low	
+phone	complaint	support	email	hour	cell	answer	suggestion	service	digital	
+picture	duplex	envelope	door	screen	touch	window	decent	ready	complete	
+feature	drawback	numerous	par	kinko	straightforward	past	impressed	larger	impossible	
+error	school	grayscale	failure	wide	bulky	guess	duplexer	incoming	smudge	
+black	color	white	clear	ink	cartridge	print	magenta	half	yellow	
+paper	tray	photo	jam	sheet	feed	regular	glossy	borderless	back	
+size	color	address	ip	functionality	weight	papers	mechanism	shape	difficulty	
+yield	costly	diagnostic	newer	designjet	regular	worth	past	weird	pixma	
+instruction	select	occasional	frustrating	sort	internal	carriage	cumbersome	supplies	sturdy	
+software	fax	machine	hp	computer	stock	pc	workforce	firmware	driver	
+photo	minute	picture	document	image	print	color	picturemate	past	photographic	
+hard	ridiculous	wall	glass	favorite	floor	earlier	damn	standby	slightest	
+latest	advanced	easiest	trick	novice	weird	usable	brother	buggy	longer	
+brother	numerous	today	quieter	satisfactory	multus	mother	bigger	ive	delivery	
+brother	printhead	clogged	smudge	notice	delivery	delivery	delivery	delivery	delivery	
+cart	bluetooth	brother	past	easyshare	worst	kinko	dpus	delivery	delivery	
+ppm	printhead	worth	worst	slightest	delivery	delivery	delivery	delivery	delivery	
+printhead	cartidge	delivery	delivery	delivery	delivery	delivery	delivery	delivery	delivery	
+easyshare	easier	excessive	delivery	delivery	delivery	delivery	delivery	delivery	delivery	
+memory	lb	reader	card	max	sd	usable	straightforward	brother	previous	
+printhead	brother	worth	horrible	impressed	happier	worse	interested	delivery	delivery	
+previous	regular	longer	worst	par	mother	dont	label	delivery	delivery	
+july	numerous	wifus	brother	pro	yr	dvd	lid	delivery	delivery	
+average coherence	-967.0054866957352

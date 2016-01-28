@@ -1,0 +1,11 @@
+photo	picture	phone	video	price	sandisk	case	speed	class	gb	
+cheap	white	black	picture	clear	hundred	gopro	color	sync	consistent	
+picture	zoom	photo	dslr	hand	mode	exr	thousand	auto	finger	
+deal	life	gig	ease	battery	decent	manner	timely	reading	music	
+error	today	previous	similar	feehan	gopro	impossible	video	video	video	
+canon	nikon	fuji	fujifilm	sony	website	panasonic	rebel	camcorder	powershot	
+size	price	random	resolution	app	cost	iop	qd	condition	highest	
+works	media	sale	word	cm	similar	earlier	feehan	worth	lifemate	
+read	sequential	sharp	tough	crystal	cheaper	scandisk	feehan	worth	today	
+sd	setting	micro	adapter	case	photography	stuff	gopro	scandisk	helpful	
+average coherence	-1094.2385877336415

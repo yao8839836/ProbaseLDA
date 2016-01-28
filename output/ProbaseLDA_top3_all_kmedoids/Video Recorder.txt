@@ -1,0 +1,16 @@
+tv	show	program	recording	channel	service	feature	replaytv	device	replay	
+small	wrong	difficult	huge	higher	large	mail	ota	adequate	complex	
+home	house	show	favorite	addition	network	theater	record	market	bedroom	
+episode	show	page	friends	favorite	season	pass	seinfeld	tivos	survivor	
+life	sort	viewing	intuitive	upload	everyday	manner	gripe	usage	draw	
+cable	box	internet	phone	digital	connection	channel	wireless	satellite	line	
+guide	tv	program	sd	channel	manual	card	splitter	mce	scheduler	
+hour	minute	true	email	phone	serial	high	support	basic	epg	
+software	customer	service	pc	hardware	arcsoft	computer	mac	electronics	windows	
+picture	component	audio	input	image	sound	cable	photo	output	digital	
+technology	capacity	size	lack	ram	lag	pay	cost	inexpensive	streaming	
+slow	highest	glitch	red	rca	stupid	white	interesting	blaze	freeware	
+camera	money	equipment	card	correct	credit	expense	console	run	investment	
+dvd	vcr	tape	tv	television	player	movie	vhs	show	computer	
+version	decent	definition	ease	high	code	avus	release	shooting	ezcap	
+average coherence	-1347.0349696676062

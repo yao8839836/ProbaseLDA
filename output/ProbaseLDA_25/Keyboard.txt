@@ -1,0 +1,26 @@
+key	button	type	logitech	mouse	easy	price	light	hand	system	
+review	picture	company	press	huge	negative	star	rating	sim	launch	
+battery	life	mechanical	window	slim	power	everyday	rubbery	doesnt	hardware	
+plastic	dust	lock	rubber	led	construction	aluminum	silicone	couch	glossy	
+job	key	noise	special	lack	weight	function	ease	hhk	resistance	
+razer	manufacturer	ibm	mind	microsoft	saitek	latest	developer	brighter	direct	
+clean	wide	safe	past	impossible	noticeable	direct	duo	drink	armrest	
+internet	device	tv	windows	spacebar	video	web	android	content	youtube	
+effect	split	clicky	biggest	alot	usual	duo	cut	zoom	insert	
+range	simple	row	speed	foot	mode	accuracy	surface	operating	luck	
+blue	black	key	red	white	responsive	light	color	purple	clear	
+home	bar	space	office	station	tech	separate	dedicated	market	school	
+typing	case	cover	small	ipad	macbook	comfortable	charger	cradle	ergonomic	
+mouse	computer	laptop	money	ipad	pc	desktop	software	macbook	pda	
+usb	wireless	mouse	bluetooth	port	cable	receiver	logitech	switch	main	
+led	latest	doesnt	book	book	book	book	book	book	book	
+closer	ergonomic	worth	sturdy	latest	unique	book	book	book	book	
+blackwidow	worth	minus	closer	oversized	book	book	book	book	book	
+hdmus	brother	frustrating	cheaper	impressed	mushy	downside	book	book	book	
+direct	acceptable	harder	downside	googletv	book	book	book	book	book	
+hhk	similar	worse	pricey	duo	proper	book	book	book	book	
+adesso	duo	flimsy	brother	closer	book	book	book	book	book	
+podcast	finger	zaggmate	pro	yesterday	brother	acceptable	impressed	book	book	
+larger	past	worth	fix	similar	adesso	brighter	googletv	book	book	
+larger	acceptable	typer	ghz	dinovo	book	book	book	book	book	
+average coherence	-858.800160134353

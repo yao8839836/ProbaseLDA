@@ -1,0 +1,4191 @@
+modern consumer appliance:0
+conversation topic:6
+rainy season:0
+datum sensitive equipment:0
+dashcode's part:0
+notorious popular game:0
+group ceremony activity:0
+instance applicator device:0
+dry stone construction:0
+organized retail giant:0
+iphone-specific hardware feature:0
+basic shop skill:0
+stagg accessory:0
+3D movie:0
+effective datum compression scheme:0
+body swap movie:0
+peripheral widgets:0
+alternate finger:0
+help role:0
+absolutely NO device:0
+INTRODUCTION ata communication network:0
+non-google doc file:11
+meta-control state:0
+external file file:11
+high-level UI:0
+efficient channel:0
+Network level protocol:0
+first datum presentation:0
+pop-up display:0
+thought image:0
+year microcomputer equipment:0
+high priority electrical equipment:0
+reciprocal medium:0
+efficient surface irrigation method:0
+asset:8
+video Format s:0
+database related document:0
+information system core concept:0
+well-known video sharing site:0
+executable binary:0
+fruit slot machine:0
+strong, value-added service:7
+central subject:0
+internet giant:0
+women's indigenous post-harvest technology:0
+SATA DVD burner:0
+simple display device:0
+Conventional nondestructive testing:0
+contextual and organizational metadata:0
+muted, block shade:0
+electrical or mechanical connection:0
+Static knowledge:0
+distinctive sensory feature:0
+standard file format:0
+potential scavenger:0
+big name licensee:0
+so-called special reproduction mode:5
+tune video setting:0
+site's third-party provider:0
+electric article:0
+passionate avocation:11
+moral:0
+static field value:0
+high volume shipping time:0
+authentic english recording:6
+drawing:3
+primitive organizational phenomenon:0
+information technology company:0
+alignment indicator:0
+interactive emotional expressing device:0
+imported and domestic wine:0
+top digital brand:0
+nice web feature:0
+eachorganization:0
+payment method:0
+successful internet investment:0
+online entertainment powerhouse:4
+satellite provider:19
+flash template theme:0
+military and large department store:0
+body part:0
+tech offering:0
+rigorous action:0
+modern high-security travel check point:0
+network topologies:0
+abbreviation:0
+datum storage device:12
+sequential item:0
+string function:0
+large public network:0
+CSV special document:0
+ordinary RPG convention:0
+traditional network service:0
+technical work document:17
+connected technology:0
+wireless profile:0
+professional home audio equipment:0
+audio equipment firm:0
+MIDI file setting:0
+personal reference:0
+corporation action:0
+marginalized group:0
+non-traditional hour:0
+consumer input simple background information:15
+extremity:0
+solid test sample:0
+protected clothing:0
+customer service-related issue:0
+P2P voip application:0
+paradigm:0
+electronically noisy environment:0
+HTML5 form attribute:0
+salaried staff member:0
+utilising reflective tool:0
+onsumable donation:0
+geologic discontinuity:0
+inflexible negative incentive:0
+regular demon ability:0
+mounted electrical part:0
+first-level manager:0
+ronson:0
+alucard also sport stat:0
+ISAM type database:0
+centrist and liberal-leaning show:0
+college task:0
+backup datum source:0
+ASCII-based operating system:0
+heavy or rich med dish:0
+biggest game fish:0
+top line company:18
+portal covering:0
+competing consideration:0
+cabinet game:0
+private and public network:0
+nonstandard shape:0
+intellectual action:0
+add-in module:0
+general-purpose algorithmic controller:0
+hdmi-connected compatible device:0
+conventional operating system abstraction:0
+web image retrieval engine:0
+medium option online:0
+legal person:15
+popular social network website:0
+advanced ICTs:0
+morbach's public building:0
+Key printer information:0
+open, unsecured network:0
+sentence-level particle:0
+Non-waterbirds:0
+regional trip generator:0
+processor-intensive desktop application:0
+legal service:4
+hiding place:1
+Delay-and losses-sensitive traffic:0
+earthly good:0
+blender-friendly option:0
+business:19
+technology-related industry:6
+functionally equivalent medium activity:6
+bus network:0
+personal electronic system:0
+popular video repository:0
+higher-margin category:6
+17th century traditional pastime:0
+typ-ical LDAP object:0
+CRA training material:0
+N1 issue:0
+third mode communication:0
+non-polar, non-metallic solid:0
+peripheral connectivity option:0
+word orchid and word:0
+Aspectual verbs:0
+date-based document:0
+rare wrestling item:0
+control training program:0
+fiber growth-promoting hormone:0
+consistent, business-impacting -metric:0
+cast iron component:0
+asymmetric digital subscriber line CPE:12
+company series:0
+sense-organs:0
+traditional performance constraint:0
+visionary device:0
+normal instruction:0
+frontline industry:0
+High-speed access:0
+video adapter configuration information:0
+standard collateral:0
+simple-to-make motif:0
+optional JCL keyword:0
+mobile phone manufacturer:18
+statewide facility:0
+high value semiconductor device:0
+local social structure:0
+oracle reserved word:0
+netstorage feature:0
+attention-getting word:0
+inference:0
+underlying entity:0
+slow effect:5
+visible metal component:0
+alert behavior:0
+bulk hard organic:0
+capital efficient company:6
+molecular human part:0
+Non-static multimedia:0
+fractal noise effect:0
+topographical drawing:0
+large asset purchase:0
+developmental signaling pathway:0
+multiplex DVR feature:0
+block aspect:0
+simple applied technology:0
+google's smartphone partner:0
+geological structure:0
+easy exit:0
+digital datum communication network:0
+standard outside cabin:0
+Device-makers:0
+big name:18
+common commercial transaction:0
+non-porous solid support:0
+menu:8
+complex product company:0
+job:7
+recognized object:0
+suitable category:0
+agentive verb:0
+nebulous term:0
+grip bag term:0
+potential moderator variable:0
+reason drive-makers:0
+discrete digital format:0
+trick play feature:0
+conventional massage device:0
+precious file:11
+economically sensitive revenue source:0
+built-in argument:0
+domain name ending:0
+sharethis document:0
+tank's geometric feature:0
+interactive multimedia device:0
+japanese LCD maker's panel:0
+listening mode:0
+famous asian enterprise:0
+playable lesson:0
+small, light weight order:0
+supraventricular crest defect:0
+optically transparent member:0
+property setting method:0
+vehicle:0
+cern's resource:0
+broad theme:17
+pattern high end television company:18
+selected TV brand:0
+hand-held, multi-purpose cell phone:0
+opaque surface:0
+finder element:0
+mobile essential:0
+company's minor officer:0
+attached or separate structure:0
+active video:6
+ipod file:11
+leading electronic consumer product manufacturer:18
+standard radio service:0
+revolutionary platform:0
+child copy pattern:0
+suitable oak:0
+touse pervasive device:0
+marion county certain local service:0
+holiday scene:0
+browser-based encapsulon application:0
+noncash financial reward:0
+mobile phone brand:18
+LCD supplier:0
+supplemental wage:0
+tivo accessory:9
+high surface area form:0
+putrescible and nonputrescible solid waste:0
+job costing related field:0
+st sub controller screen:0
+bilaterally symmetric body part:0
+unpaid third party:0
+common workflow component:0
+high-value, time-sensitive good:0
+content oriented system:0
+Bandwidth hungry apps:19
+data-management device:0
+system interaction:0
+range field:0
+orientational designation:0
+rating agency:0
+core adjective:0
+Outlook information:0
+mental occupation:0
+large intensive activity:0
+local construction:0
+well-known digital property:0
+photo-enhancing program:0
+suitable adjustment mark:0
+basic audio visual service:0
+joint:0
+great song:0
+selective initiative:0
+youth program:6
+clothes:0
+suitable anchoring mechanism:0
+contract:0
+typical loss-prevention insurance line:0
+essential administration task:7
+finger:0
+video processing apparatus:0
+hiss reduction system:0
+interrupted photoconductive surface:0
+traditional product input:0
+today's most popular application:0
+copia creditor:0
+Standard IT equipment:0
+multi-sensory tool:0
+user-supplied external music source:0
+alternate medium platform:0
+severe injury:0
+essential life experience:0
+secondary taste sensation:0
+learning asset:0
+already-common technological item:0
+navigation control:0
+everyday life interruption:0
+legal link:0
+non-text feature:0
+manually operable mean:0
+deterministic filter:0
+medium rich product:6
+introduction nutrient-type trace element:0
+deformable part:0
+copyrighted electronic material:0
+child's first-degree relative:0
+expressive, creative activity:11
+non-financial on-line activity:6
+digital presley good:6
+variousp2p deployment component:0
+parking supply characteristic:0
+dispensed product:0
+regular annual or semi-annual expense:0
+meta tag:0
+visual basic method:0
+amplifier machine:0
+co-creative online space:0
+Magento Enterprise Edition customer information:0
+dimensional reproduction system:6
+digital content delivery service:6
+biometric resource:0
+above-mentioned element:8
+subjective hospital selection method:0
+system trade-offs:0
+common and traditional feminine product:0
+non-printable item:6
+expedited inspection program:0
+easy link:0
+negative emotion:0
+instrument:0
+signal conditioning function:0
+wind turbine aeroelastic code:0
+upper-class company:18
+glossy magazine:0
+distance-learning delivery system:0
+gm-sponsored service:0
+traditional hardware controller:0
+market dimension:0
+farm balance:0
+definition screen:0
+cooling conduit:0
+rodent monitoring tool:0
+fastening mean:0
+next-generation approach:0
+fixed interface element:0
+edgy influence:0
+technical indicator type:0
+fast uprising high-definition connection:0
+30th birthday gift:6
+Non-text context:0
+modern home electronic equipment:0
+streaming web site:0
+jewish cultural trend:0
+flame holding region:0
+conventional personalized radio service:0
+OpenCL information:13
+powerful information search engine:0
+biometric information:0
+stage legislative instrument:0
+unitary deformable medium holder:0
+vehicle infotainment application:11
+cloud computing service enhancement:0
+investment provision:0
+commercial computer network:0
+non-working part:0
+perfect costume:0
+map technology provider:0
+mood category:0
+realistic metaphor:0
+portable hardware device:0
+mind home:0
+connectivity option:0
+effectively target underprivileged group:0
+machine-specific configuration:0
+basic recorder function:0
+intensity technique:0
+non-dimmable load:0
+frequent work:0
+channel innovation:0
+functional and decorative feature:0
+corporate action:0
+technology option:0
+unnecessarily long connection:0
+standard storage medium:0
+digital electronic equipment:0
+standard html:0
+britannia club:0
+basic datum structure:0
+mock killer tactic:0
+mixed medium type:0
+hybrid coordination form:0
+irish telecommunication:0
+network device:12
+chloramine remover:0
+procedure book:0
+RF setting:0
+simple binary adjective:0
+top-tier PC industry vendor:18
+recipient issue:0
+copyrighted medium:0
+search value:0
+simple outcome measure:0
+database dependency:0
+unsaved file:11
+high quality advertisement medium content:6
+minor vehicle:0
+home automation-friendly feature:0
+high definition system:0
+informatics resource:0
+sensitive use area:0
+concurrent DML operation:0
+network criterion:0
+nero digital option:0
+time mild chemical:0
+broad social structure:0
+CO-OP record:0
+subjective verb:0
+supply activity:0
+socio-educational program:0
+secondary education level:0
+marginal imputation method:0
+industry standard file format:0
+global heavy hitter:0
+OS X application:0
+high current, high power assembly:0
+animal gathering:0
+emergency:0
+expert technology partner:0
+video-sharing website:0
+load more reward:0
+computational effect:15
+CIM system functional area:0
+attached component:0
+porous support member:0
+mainstream operating system environment:0
+video feature:0
+external device:12
+group policy operating system:0
+SINOCES exhibitor:0
+short lifecycle product:0
+output optic:0
+logical value:0
+upstairs room:0
+legal paper:0
+pcscansupport higher-bandwidth sensor:0
+leader trait:0
+Prudent fiscal management:0
+key orthographic view:0
+paid derogatory account:0
+japanese consumer electronics firm:0
+online video sharing site:0
+native wild grape:0
+cave formation process:0
+membrane switch application:9
+iconic consumer tech product:0
+upgrade:0
+initially only labour-intensive process:0
+high end consumer electronics company:0
+medium portrayal:6
+inflatable:0
+novel skill:0
+festival service:0
+introduction search engine:0
+not-shown various load:0
+access technology:12
+short problem description:0
+limited degree technology resource:0
+specialist investigative procedure:0
+song:0
+constraint measurement:0
+type identity theorist:0
+management figure:0
+pre-wiring connection:0
+light generating device:0
+digital piano accessory:0
+input mean:0
+double byte language:0
+broad band internet connection:0
+ordinary pleading:0
+internet's richer multimedia capability:0
+abnormal situation:0
+database resource:0
+DVD burner:18
+GMMR favorite:0
+hidden obstacle:0
+redundant persistent storage device:0
+Time based work:0
+tech darling:0
+master piece:0
+initial frame sequence:0
+large festive occasion:0
+Predictive video codecs:0
+strong additive primary:0
+odd noise:0
+external incentive mechanism:0
+wall opening:0
+latest security enhancement:0
+non-price competition factor:0
+flavored isotonic drink:0
+musical influence:16
+must-have apps:19
+unimodal distribution:0
+tech giant:0
+Web-based boxes:0
+product-related attribute:0
+failure mode:5
+tangible trait:0
+nano feature:11
+residential and business telecommunication service:0
+business administration method:0
+organization-level, collective resource:0
+modern day online video system:0
+shared datum resource:0
+play multimedia file:0
+feather:0
+annotation:11
+INTRODUCTION digital document:0
+hosted element:0
+CPE setting:0
+dissimilar finger:0
+family negative pattern:0
+SOAP console configuration element:0
+spontaneous order:0
+academic pressure hot house:0
+famous company:0
+common myth:0
+complex sub-markets:0
+dominant group:0
+great growth stock:0
+non-emotional message:0
+summary word:0
+untouched matter:0
+top consumer electronic company:18
+CLR type:0
+dark colored clothes:0
+VFS characteristic:0
+driving style parameter:0
+kid party supply:0
+TFT-LCD supplier:0
+Normal friendly contact:0
+stationary computer:0
+UK consumer -cyclical:0
+inorganic optical material:0
+electronic or digital storage device:0
+solicited local and general symptom:0
+advanced domain:0
+dimension major TV manufacturer:0
+scanning instrument:0
+Excludes holder:0
+source selection:0
+tripod adaptable product:0
+oral fluid:0
+basic, low-end application:0
+singular calm facility:0
+cicadds inductive andcoinductive datum structure:0
+generic page:0
+generic collection:0
+microsoft office application:0
+smart cell phone:0
+reusable process asset:0
+slow-growing hedge:0
+redundant physical device:12
+extruder product:0
+streaming company:19
+predictable or lower expense:7
+keyboard special key:0
+digitizable product:6
+personalizing intranet feature:0
+program just datum file:11
+non-profit organization:0
+elegant feature:0
+passive strategy:0
+DRAM vendor:0
+water related measurement:0
+vile animal:0
+common known time division:0
+ERIVATIVES R ISK derivative:0
+leading electronic brand:0
+traditional digital marketing method channel:0
+statistical function:0
+OGIS operator:0
+prop:3
+post-design measure:0
+global computer network:0
+injury:0
+straight option:0
+school DJs:0
+user output device:0
+external esata enclosure:0
+type option:0
+shortcut numbered menu item:0
+high-density and large-capacity disk:0
+under-law document:0
+large fusion tag:3
+silicon rich material:0
+preschool activity:11
+big finger:0
+verbal scale:0
+classical geometric feature:0
+composite medium block:0
+blu-ray player manufacturer:0
+TV brand:18
+enjoy demonstration:0
+client's common file:0
+background mechanical wave:0
+prominent west coast festival:0
+tv's setting:0
+class A combustible:0
+hair accessory:0
+Postal Service equipment:0
+micro-environmental system:0
+size adjustment mechanism:0
+basic tool:14
+duelling experts:0
+copy option:0
+flex component:0
+bundled service plan:0
+building service function:0
+typical router function:0
+financial instrument:0
+repeated, vigorous movement:0
+vulnerable detainee:0
+flat panel television set:0
+fiducial facial landmark:0
+VARILOCK s core function:0
+software audio application:0
+un-needed distraction:0
+commercially available differential transmission cable:0
+high-speed differential channel:0
+competing communication service:0
+common application:0
+call:0
+system operation:7
+participant-specific factor:0
+paper:0
+usingqad.netui feature:0
+board specific package:0
+modeling macroscopic mechanical property:0
+education plan tool:0
+psychometric quality:0
+nearest safe location:0
+large automotive display:0
+output device:0
+periodic programming change:0
+abortion determinant:0
+long hair:0
+common poker term:0
+nonrecurring charge:7
+simple false stimulus:11
+managed infrastructure device:12
+addition:19
+key part:0
+syncing medium file:0
+web cam program:0
+static visibility activity:0
+telecommunication alternative:0
+variable transmission electrochromic device:0
+unchanging computer:0
+web site:4
+patient's environment:0
+interactive digital medium:0
+word processing program:0
+powerful adversary:0
+regular medium:0
+pressurized delivery system:0
+biometric identifier:0
+mobile control:0
+SNMP polling option:13
+installation charge:0
+bacterial surface protein:0
+unbounded network:0
+electronics equipment manufacturer:0
+software issue:0
+dual-format player:0
+twentieth century career theorist:0
+sound output unit:0
+sensitive electronics component:0
+interconnect system:0
+rental chain:0
+pro-teinfusionswith tag:0
+convenient time unit:0
+customisable image filter:0
+setup field name:0
+hard-wired performance standard:0
+external physical state:17
+jewelry party company:0
+east-asian value:0
+navigational command:0
+traditional stolen item:0
+clear signal:0
+historic regional centre:0
+enterprise search engine:0
+classical method:0
+easily present complex stimulus:0
+analog connection:0
+playback button:0
+non-television based programming provider:6
+bandwidth limited image:0
+indicative graphic:0
+relative multimedia:0
+co-signer:0
+below-median corruption country:0
+foolish idea:0
+videoconferencing system technological innovation:12
+derivative feature:0
+implementation diagram:0
+candidate work:0
+world's blue-chip consumer electronics brand:0
+bluetooth-enabled portable device:0
+spatial and directional term:0
+nonflammable mulch:0
+corporate vehicles-legal structure:0
+non-science area:0
+debris:0
+inherent activity:0
+controllable entity:0
+great component company:0
+Amoeba object:0
+video game system:0
+expensive traditional method:0
+hardcopy:0
+online video sharing community:0
+interface element:0
+cutaneous area:0
+anew system:0
+mechanical jig:0
+2D signal:11
+legal pleading:0
+traditional reference tool:0
+regulatory instruction:0
+construct:0
+affordable photography service:0
+peak time:0
+authorized application:0
+low temperature deposition technique:0
+SAS information:0
+graphical bit:0
+DCE device:12
+MS Office:0
+video screen object:0
+Non-interest net income:0
+supplementary communication facility:0
+home transaction:0
+vulnerable person:0
+crust color:0
+weather condition:0
+affordable smart phonesasian agecommunity site:0
+extremely profound relationship:0
+supplier incentive:10
+wireless local network system:0
+successive load:0
+identifiable indication:0
+non-tape format:0
+pre-defined style:0
+key:0
+analog type device:0
+non-executable statement:0
+backstage duty:0
+espn's competitor:19
+classical notion:0
+biographic and biometric information:0
+java technology's well-engineered modularization concept:0
+property value:0
+sports-style game:0
+it-enabled channel:0
+technical service:7
+park board expense:0
+non-book source:0
+software system resource:0
+college search criterion:0
+creative feature:0
+learner control:0
+department:7
+child virtue:0
+passive-3D TV 3D TV technology:0
+personal bond:0
+computer readable instruction:6
+asynchronous material:0
+multimedia content various digital media:6
+practical hurdle:0
+binary page:0
+high-strength FRP material:0
+preliminary stimulus:11
+rhetorical concern:0
+perceptory sense:0
+someone else's graphic file:0
+content module's predefined field:0
+non-gameplay element:0
+outside industry:0
+embodiment low power consumption device:0
+cowl:0
+incidental deliverables:0
+ready-reference source:0
+classic UGG product:0
+popular risk area:0
+digital medium sample:11
+politically conscious rapper:16
+personal belonging:1
+high-definition cable:0
+image make adjustment:0
+human resource subsystem:0
+professional plastic container:0
+mobile power source:0
+packet transport network:0
+homemade content:0
+so-called transcendent reality:0
+UT southwestern affiliate:0
+required time:0
+electric motor part:0
+innovative way user:0
+authentic computer product:0
+competing theoretical perspective:0
+medium player:4
+Ongoing feedback:0
+common datum separator:0
+earphone manufacturer:0
+Temperature-controlling equipment:0
+land transaction:0
+parents asset:0
+non-cash financial reward:0
+formal workplace:0
+well-established, high-volume handset producer:0
+narrative technique:2
+online networked resource:0
+common internet website:0
+emotion:0
+add-ons:12
+standardized size:0
+hardwood service:7
+edit 3D property:0
+skill:7
+clear result ballot-type activity:0
+coloured element:0
+CD ATIP information:0
+firefighter element:0
+delivery:10
+Sometimes white noise:0
+functional alarm room control:0
+Aninterconnection mechanism:0
+shadow parameter:0
+common telecommunication technology:0
+optical datum carrier:0
+identification information:11
+wedding utility:0
+popular blu-ray burner:0
+print indicia:0
+specialist product:0
+environmental surface sample:0
+traditional content sector:0
+oft-forbidden color:0
+video sharing provider:0
+financial incentive:15
+interior portion:0
+non-secure environment:0
+third party AVI codecs:0
+equally important feature:0
+commercial club:0
+preprogrammed message:0
+cause:0
+conventional sound system:0
+optically scannable information carrier:0
+HTTP app server:0
+OS software:0
+online radio service:0
+traditional customer engagement channel:0
+time-related number:0
+plastic card payment system:0
+basic equipment field:0
+online DVD rental site:19
+plain english word:0
+understandable trigger:0
+user-generated content service:0
+interactive graphical element:0
+social medium site:0
+room area calming everyday color:0
+photo lab:0
+Component s:0
+hd-compatible video output:0
+transparent solid:0
+SLR accessory:0
+american cultural mass product:0
+impersonal symbol:0
+creative setting:0
+text-heavy, long document:0
+colored pot:0
+web application static resource:0
+basic brush setting:0
+busy night:0
+skin exposed area:0
+mixed-gender occupation:0
+non-guaranteed benefit:0
+league:0
+introducing distraction:0
+mpeg4 video stream:0
+culturally authentic material:0
+samsung PN51D7000 channel:0
+big-ticket good:0
+rich format:0
+datum forwarding device:0
+non-signature element:0
+typical tape recorder operation:0
+ferroelectric electrode material:0
+localized state:0
+internet security option:0
+copyright copyrighted material:11
+physical quantity:0
+people-pleasing field:0
+transparent block:0
+striking arrangement:0
+mud-prone feature:0
+St Mary's kit:0
+synoptic-scale feature:0
+word processing software:0
+work-related text:0
+extremely powerful method:0
+clip art file:0
+non-consumable donation:0
+UK rival:0
+object's visual attribute:0
+complex adult issue:0
+common wireless-network implementation issue:0
+administration factor:0
+signal processing-intensive task:0
+social broadcasting service:0
+vudu competitor:19
+economic factor:17
+single defense layer:0
+hazardous liquid absorbent:0
+fundamental design pattern:0
+skilled weapon:0
+short stay:0
+User-contributed content:0
+online user behavior:0
+AV datum:6
+wireless kit:18
+life skill:11
+visual stimulant:0
+hotel service industry:0
+embryo handling method:0
+receiver:12
+stickers:0
+web part property:0
+project alternative:0
+elementary mathematic construct:1
+personal room:0
+single video stream:0
+ps3 support file format:0
+venusian theme:0
+uncovers element:0
+irrational factor:0
+storage device:0
+countless horse facility:0
+leading electronics manufacturer:0
+metaphysical state:0
+technological advance:0
+disturbance:0
+open, uncovered enticement:8
+Key asset information:0
+retail or commercial application:0
+non-factory installed equipment:0
+systemic vector:0
+brand Lcd Tv:0
+separable fastener element:0
+aftermarket exterior component:0
+frontline work:0
+stored medium file:0
+operator panel:0
+word ical process:6
+european liqueur wine:0
+superstar:0
+state information:11
+soft vinyl:0
+signal's main RF characteristic:0
+broad industry issue:0
+common text character:0
+image adjustment effect:0
+replacement part:12
+habit:0
+motion restrictive mechanism:0
+second phase material:0
+line-oriented command:0
+Wholesale High quality cosmetic s:0
+fundamental IT infrastructure:0
+obedience command:0
+actual usage situation:0
+dog's bedding need:0
+leasing costly infrastructure component:0
+commercial carpeting application:0
+programming language interpreter:0
+electricity-related product:0
+japanese and south korean company:0
+deferred expense:7
+large housekeeping surface:0
+common standard format:0
+drivers habit:0
+essential business system:0
+simple mass-market article:0
+artifact:11
+virtuemart's promotional tool:0
+common domain extension:0
+local management system:0
+fastener:0
+variable:7
+blockbuster:0
+inferior form:0
+disadvantaged plaintiff:0
+big chain:0
+image folder:0
+cell phone accessory:0
+cultural gatekeeper:0
+famous song:0
+output setting:0
+locale-specific convention:0
+generic meta-model management operation:0
+Non factual information:0
+convenience certain function:0
+standalone computer:0
+optical drive:0
+relational structure:0
+event social medium effort:0
+technologically-based tool:0
+solid waste:0
+senior function:0
+fruit:0
+ip-sensitive industry:0
+Profit-enhancing information:0
+key con-ceptsreferringto ontology resource:0
+FRP moulded item:1
+typical planning strategy:0
+user actuatable device:0
+digital video playback application:0
+Electronic or e-waste:0
+cific information:0
+penis enlarger device:0
+affective and emotive factor:0
+Electronic output:0
+traffic control device:0
+glossary A adapter device:0
+wifi security option:0
+technologically advanced audio technology:0
+event registration status value:0
+purpose web search engine:0
+hip hop artist:16
+unilateral transfer:0
+performance storage application:0
+power cue:0
+winter month:0
+cold month:0
+image change detection process system:0
+non-interactive product:6
+traditional 2-D surface parameter:0
+consumer-related issue:0
+traditional CIA bribe:0
+modern period marxist notion:0
+tv's attribute:0
+video composition technique:2
+static header:0
+computer interaction interface:0
+exciting distraction:0
+third-party hardware upgrade:0
+structural steel profile:0
+universal contingency:0
+paint popular spot:0
+social networking site:19
+opposite mode:0
+non-bank depositor:0
+clearly semantic relation:0
+visual aid:3
+video conferencing:0
+leading online ad platform:0
+applies agent:0
+window vista's core entertainment feature:6
+ong future installation information:13
+national voluntary agency:0
+famous brand:18
+VOIP technology:0
+pre-configure database setting:0
+nonporous solid support:0
+syllable name:0
+electrical fitting:0
+traditional approach:3
+flight phase:0
+large internetwork:0
+social website network:0
+user self-help option:0
+audiovisual document:0
+rotating electrical machine:0
+basic autocad object:0
+connected environment:0
+real-time content stream:0
+Snowmobile trail information:0
+project performance -metric:0
+tax:3
+audiovisual teaching aid:0
+proprietary operating system:0
+ceramic special piece:0
+standard video source:0
+video output:0
+practice oral exercise:0
+free internet phone service:0
+conjugation parameter:0
+open wooden fence style:0
+technical manufacturer:0
+robust insect:0
+communication component:12
+legal source:4
+collaborative project execution technique:0
+open, anonymous environment:0
+extra-functional property:0
+psychopathology measure:0
+High bandwidth mediums:0
+medium center device:0
+statistical quantity:0
+baseband network:0
+earring unusual model:14
+short matter:0
+popular format:0
+bed-time routine:0
+domestic demand theme:0
+indian express film:0
+external component:12
+overseas retail giant:0
+reasonable routine administrative procedure:0
+tubular crimpable orthodontic device:0
+emergent property:0
+tiny obstruction:0
+secondary and tertiary redundant service:0
+private digital asset:0
+red sweet wine:8
+image feature:0
+motoblur apps:0
+CPE device:12
+large and long-term infrastructure project:8
+OVERVIEW information technology:0
+thin client feature:0
+coming month premium video apps:4
+China brand consumer electronics:0
+ubiquitous technology:0
+half-width character:0
+ATM port resource:0
+organization equipment:0
+class:11
+sense:11
+subjective statement:0
+traditional roofi ng system:0
+environment:0
+unexpected noise:0
+age-appropriate sex education material:6
+external quality cost:0
+patentable work:0
+obstetric service:0
+inhospitable material:0
+non-digital block:0
+essential game design element:0
+advanced datum structure:0
+top gaming system:0
+non-traditional faculty member:0
+day-to-day servicing cost:0
+physical measure:3
+rule:0
+mean:7
+notification:0
+fuzy key phrase:0
+consumer record:0
+driver total:0
+security transaction:0
+clear business reason:0
+music site:0
+organ part:0
+MMS attachment:11
+convenience -metric:0
+in-home shopping channel:0
+ipod accessory:0
+simple technique:0
+bluetooth card manufacturer:0
+typical junk e-mail phrase:0
+actionscript term:0
+book:1
+perennial exhibitor:0
+user interface element:3
+teachers experience:0
+minor character:1
+identification signal:0
+permission action:0
+satanic characteristic:0
+private hospital cost:0
+abstract particular:0
+stabilising element:0
+ancillary offence:0
+PI idea noun:0
+party:15
+computer network:0
+required high-voltage connection:0
+casual clothes:0
+problem-solving strategy:0
+input non-pcm signal:0
+simple arithmetic tool:0
+ordinary household device:0
+offshore brand:0
+fundamental form control:0
+standby resource:0
+tall, linear flower:0
+tie color:0
+fiduciary appointee:0
+vitiating factor:0
+top online DVD rental service:0
+typical usability outcome measure:0
+nickname:0
+undoubted advantage:0
+field map area:0
+account credential:0
+eqplupment support issue:0
+network N:0
+compound measure:0
+button label:0
+conflicting mode:0
+Forefront Endpoint Protection information:0
+complex idea:1
+elementary knowledge piece:0
+product design constraint:0
+rival:18
+on-line text game:0
+QRIS award easily recognizable symbol:0
+street term:0
+natural feature:1
+japanese electronics producer:0
+asymmetrical service:0
+forensic trace:0
+large, logistics-bound organization:0
+news Versions:0
+effective entertainment program:6
+social marketing platform:0
+cvsfor subnational area:0
+force-applying component:0
+free photo editing software:0
+Fall arrest equipment:0
+pioneer brand:0
+factory packed accessory:9
+acral region:0
+liquid preparation:0
+local government:8
+traditional digital channel:0
+event condition:0
+nonfunctional requirement:0
+global command:0
+linker operation:0
+low resource:0
+Recommended Brand electronics:0
+countless new york city nightclub:0
+biometric signature:0
+key competitor information:0
+database interaction issue:0
+rate sensitive segment:0
+balanced, differential, serial connection:0
+common mass medium broadcast channel:0
+analog-input-based digital recorder:0
+game creation fundamental:0
+price-related field:0
+Gutter add-ons:0
+typically performance indicator:0
+detected object:0
+network element:12
+visual container component:0
+satellite television provider:0
+power load component:0
+IIS resource:0
+successful online music service:0
+pop culture source:0
+high end cell phone:0
+non-invoice related transaction:0
+indoor environmental element:0
+final reward:0
+LGA expense:0
+marketing requirement:0
+interchangeable neutral solid:0
+hand female attribute:0
+database administrative responsibility:7
+global domain:0
+carrier store:0
+multiservice edge device:0
+universal issue:0
+discussion group document:0
+consistent and ad-hoc additional repayment:0
+window presentation foundation visual effect:0
+multiaccess topologies:0
+big warehouse store:0
+traditional deposit account:0
+financial security:0
+cutting redundant capability:0
+rectangular target:0
+descriptive term:14
+bit-expensive option:0
+light-weighted network device:0
+vital training statistic:0
+quality format:0
+environmental issue:0
+background frill:0
+fuel cell accessory:0
+consumer network technology:0
+energy-giving fruit:0
+simple shape:1
+variable command:0
+rich medium:11
+broadcast-specific feature:0
+mock document:0
+non-weight-bearing bone:0
+programmable communication service:0
+front transitional space:0
+fabricated product:1
+human readable interpretation HRI character:0
+nontechnical stakeholder:0
+general-purp ose tool:0
+temporally relevant stimulus:0
+soft tissue:0
+long, cylindrical conductor:0
+human individual:0
+context-aware device:0
+bandwidth intensive video application:4
+reusable content asset:11
+trauma:0
+sObject record:0
+Surveying equipment:0
+geometry calculation:0
+growth revenue source:0
+public institution:15
+basic testing concept:0
+Europeans:0
+transformation:0
+digital television display technology:0
+Cricket clothing:0
+title transaction:0
+box:0
+online game:3
+graphical-based operating system:0
+single letter:0
+Integrating electronics:0
+work value:0
+verbal behavior:0
+initial DMVA control parameter:0
+successful big name:0
+intrinsic user32 control:0
+scheme procedure:0
+broad label:0
+domestic animal:0
+electronic access control:0
+budget-friendly lexus GX470 brand:0
+entertainment-related feature:0
+sensor:0
+key email marketing tool:0
+holiday time:0
+quality assessment finding:0
+overhead:8
+multi medium element:0
+retailing co-branded Nano merchandise:0
+basic buisness need:0
+empty adjective:0
+pre-dying method:0
+rich hero stereotype:0
+kindle rival:0
+diagnostic tool:0
+Environmental Group information:0
+software information:13
+continental scale key phenological variable:0
+routine cable jointing activity:0
+journalistic area:0
+Non-polluting EOUs:0
+contributing factor:0
+video rental company:19
+non-volume file system object:0
+Summer-type clothing:0
+big box store:0
+traditional competition factor:0
+translucent color:14
+vegetable:0
+newspaper:0
+antiperspirant product:0
+first-tier technology:0
+communication text:0
+gastrointestinal side effect:0
+Portable DSE:0
+SNMP-manageable device:0
+envelope stuffers information:0
+modern day's distraction:0
+computer resellers:0
+satellite TV company:0
+introduction synchronous language:0
+exciting technology innovation:0
+anti-terrorism technology:0
+private, internal activity:0
+creature:1
+social medium widgets:0
+internet-related term:0
+streamlined projectile:0
+auxiliary solution:0
+search engine:0
+P2P mobile messaging channel:0
+absolute adjective:0
+stat:0
+peripheral area:0
+maintenance upgrade:0
+private information:0
+generic usage word:0
+Uncontested and well-known factual information:0
+authorized demonstration:0
+fixed pixel display:0
+legacy hardware switch device:0
+non-programmatic activity:0
+specialist document:0
+merchant-defined attribute:0
+pricing constraint:0
+PAM part:0
+flash memory supplier:0
+supportive therapy:0
+contemporary term:0
+consumer -durable maker:18
+digital electronics system:0
+beautiful holiday center:0
+plasma TV manufacturer:0
+self feeling:0
+polymer coated information storage device:0
+converted form:0
+elicit personality trait:0
+low volt option:0
+custom incentive:0
+social technologies:0
+portrait scenario:0
+composite television system:0
+excellent office skill:0
+fuzy word:8
+basic body part:0
+surround format:0
+activity & opportunity:6
+Facebook's homegrown apps:0
+scene mode:6
+essential technology:0
+hard-standing area:0
+OVI map V3 datum:0
+U.S. security agency:0
+plasma company:18
+web favorite:0
+ancient maya feature:0
+example smaller unit:0
+synthesis task:0
+normal library reference service:0
+strong stimulation:0
+three-dimensional form:1
+non-real time storage need:0
+relative anatomical direction:0
+connection kit:0
+innovation:12
+inexpensive munition:0
+external role:0
+revenue:0
+microsoft application:0
+first non-text component:0
+full rpg element:0
+locking away cultural item:11
+powerful and sophisticated search engine:0
+gastrointestinal sign:0
+user readiness function:0
+PSP memory card store datum:6
+red graphic:0
+salon service:0
+mention big-ticket and hot item:0
+lower-level item:0
+club store:0
+business document:3
+high tech knowledge-based industry:6
+comfortable environment:0
+large object type:0
+compression mean:0
+pearl characteristic:0
+core oracle solaris service:0
+electrical junction device:0
+resonant characteristic:0
+mainstream audiophile magazine:0
+Museum information:0
+Input transaction information:0
+metaprogramming and composable programming abstraction:0
+heroes:0
+passive channel:0
+standard benchmark:0
+third-party web site visitor:0
+DEA efficiency measure:0
+customer-related policy:0
+time casino favorite:0
+field-based employee:0
+modern information network:0
+spatial signal word:0
+poetry-writing tool:0
+resistant variety:0
+today's complex transaction:0
+european charm system:0
+quantity:1
+standard measuring criterion:0
+microsoft window function:0
+eyeball sensation:0
+process condition:0
+written material online:0
+location-scale family:0
+knowledge worker person:0
+font font attribute:0
+crowded place:0
+distinct entry feature:0
+collateralized debt:0
+helpful shopping information:0
+Artificial wealth:0
+video setting:6
+wide range financial tool:0
+euphemism:0
+networked home theater device:0
+comparative language:0
+home entertainment:0
+copyright-based creative industry:6
+actual multimedia object:0
+traditional broadcast station:0
+niche product:0
+short life-cycle product:0
+standard demand factor:0
+endless entertainment possibility:6
+fire extinguisher information:0
+rich conversion option:0
+voice responsive component:0
+excellent feature:0
+latest communication interface port:0
+physical system change:0
+simple user interface message:0
+analysis specification:0
+cable property:0
+ABPL currently source part:0
+hefty file:0
+mental and emotional process:0
+motor condition:0
+theoretic construct:0
+product identification information:0
+textual and non-textual feature:0
+unobserved heterogeneity:0
+traditional medium:7
+barrier-type magic:0
+flat adverb:0
+severa downloadable apps:19
+sophisticated term:0
+essential oil:0
+world famous artist:0
+great glass company:0
+conventional polymer:0
+metal:0
+mainstream function:0
+large industry manufacturer:0
+entertainment content file:0
+matsushita competitor:0
+external audio input source:0
+black and white horror movie:0
+card expansion card:0
+separately packed accessory:0
+mass market store:0
+shroomcity announcement:0
+grammatical notion:0
+traditive work:0
+bose product:0
+benchmark:0
+rectal symptom:0
+building's exterior component:0
+proper noun:15
+bonus amenity:0
+television recording device:19
+storage type device:0
+technical standard optical disc:0
+electronic communication source:0
+civil case opening document:0
+Sony subbrands:0
+deep phylogenetic level:0
+MFP status:0
+discrete control application:0
+standard remote control feature:0
+PST file object:0
+color effect:0
+popular ZEN format:0
+camout's realistic setting:0
+programming construct:0
+fact big name:0
+transaction instrument:0
+Data-sensitive equipment:0
+blogs:0
+content stream:0
+starry practice area:0
+electrical appliance:0
+embellishment:1
+hyperbolic term:0
+bright color:8
+external capital source:0
+Flexible consumer electronics:0
+casino table game:0
+preview video file:0
+web graphic element:0
+topical product:0
+sacred reality:0
+cool, damp place:0
+celebration:0
+Internet interface device:12
+negative label:5
+automotive study course:0
+electronics:9
+non fibrous food:0
+widgets:3
+industry major player:0
+biggest japanese organization:0
+self-centered goal:0
+non-food outing:6
+start-up small business owner:0
+high end department store brand:0
+primitive entity:0
+formal education system:0
+quick access control:0
+asian tech stock:0
+full USB host:0
+non-economic award:0
+iquid product:0
+first, unreliable multicast application:0
+estimated team expense:0
+ohter feature:11
+lotus note:11
+critical feature:0
+non-server class OS:0
+clear, very simple issue:0
+captive utility:8
+hobby:3
+ugg's iconic boot:0
+frequent social function:0
+high-dpi asset:0
+big video site:4
+colored stick:0
+wildlife-based activity:3
+CMS datum:0
+XHTML tag:0
+consecutive card:0
+spatial limitation:0
+powerful visual learning aid:0
+hard-code high-level abstraction:0
+low-level, hardware specific code:0
+large multi-site customer:0
+knowledge sharing activity:0
+classic travel game:0
+user-interface control:0
+unjust factor:0
+network apparatus:0
+nuisance ordinance violation:0
+great pictorial magazine:0
+OS process:0
+dance music genre:0
+embossed mark:0
+disinfect common use appliance:0
+built-in app:0
+expensive rival:0
+intimate breakfast venue:0
+nonrevolving balance:0
+sensitive form field:0
+fully configurable standard template:0
+above-mentioned defect:0
+stalwart cable television company:19
+Spanning technologies:0
+required work time:0
+nonperiodic structure:0
+media-streaming website:4
+project's special effect:0
+afraid incredible medium channel:4
+secondary membership benefit:0
+human factors issue:0
+spatial reference:0
+fundamental quantity of life benefit:0
+impersonal term:0
+first name:0
+gadget:9
+deteriorated part:0
+bottleneck QoSconstraints:0
+collective noun:0
+leave source:0
+common HAT feature:0
+credit rating:0
+small broken bone injury:0
+public, anonymous place:0
+homemade christmas decoration:0
+mediated embodiment:0
+extremist political group:0
+complex feeling:0
+Attorney work product:0
+dwelling property:0
+assembly property:0
+traditional differentiators:0
+big emotion:0
+performance dog:0
+infrastructure costs-elements:0
+electrical excitation source:0
+initial known variable:0
+user-input peripheral:0
+introduction theme:0
+secured purchase:0
+standard heading:0
+organic compound:1
+environmental problem indicator:0
+second, evaluation tool:0
+heartwarming factor:0
+conscious cognitive process:0
+web-page component:0
+coordination rule:0
+inserting resource:0
+subsurface enclosure:0
+child-care factor:0
+malicious medium file:11
+high defintion format:0
+reputable magazine:0
+peered AWT component:0
+winged u-shaped metal post:0
+trade-related transaction:0
+severe service valve trim part:0
+quality watwer treatment:0
+rewire client application:0
+communication sub-link security feature:0
+user-friendly feature:0
+brain function:11
+accessible aspect:0
+funeral-related service:0
+informational header field:0
+datum environment component:0
+top quality classical aid:0
+comedy assorted HD video format:0
+intermediate write expository composition:0
+block type device:0
+lamp development:0
+high-contrast color scheme:0
+disciplinary representation:0
+touch drawing tool:0
+mood:0
+count system control:0
+image:2
+system call:0
+non-price factor:0
+administrative barrier:0
+apple's rival:0
+typical cable:0
+filter support:0
+rectangular space:0
+geodetic control marker:0
+terrible symptom:0
+attached premise:0
+external output equipment:0
+morgan's high-profile client:0
+laptop medium file:0
+ABSTRACT tropical forest floor characteristic:0
+nonconsumable donation:0
+gift:8
+personality part:0
+perceived effect:0
+code-based literacy method:0
+preventative maintenance tool:0
+hydrogen source:0
+evaluation paper:0
+customer input:0
+brennanand schwartzvalue interdependent option:0
+base descriptors:0
+historical skill:0
+automotive interior safety component:0
+latest feature:0
+shared network system:0
+non-primary reflection event:0
+CNTF related documentation:0
+first, intermodal alternative:0
+Road debris:0
+automotive body part:0
+operator:19
+official opening day activity:0
+picture area:0
+praiseworthy state:0
+quality assurance -metric:0
+ITIL process:0
+position datum change:0
+external computing device:0
+long month:0
+roll mode:0
+Medication related information:0
+new-standard optical disc:0
+tech company:19
+traditional physician-based parameter:0
+teacher input:0
+positive emotion:0
+pick-and-place task:0
+popular everyday product:0
+information presentation unit:0
+microsoft office program:0
+flavor:8
+relational unit:0
+special-purpose paragraph:0
+non-traditional art material:0
+nation's biggest firm:0
+Audiovisual modalities:0
+traditional central measure:0
+proper aspect ratio:0
+amp:0
+peculiar reaction:0
+PA application:0
+sensation:0
+basic disease:0
+computer additional functionality:0
+FEC scheme:0
+OCFS2 operation:0
+discrete phenomenon:0
+artificial lure:0
+active nanotechnological system:0
+over-the-counter meal replacement:0
+system message:0
+dif-ferentkindsof role:0
+basic skill training:0
+medium file:11
+numerical value:0
+process mold natural impulse:0
+bright electronic device:0
+network device configuration report:0
+nice model forf:0
+requirement:7
+video apps:19
+consumer-specific consideration:0
+card poker hand:0
+original creative material:0
+profit extraction technique:0
+digital AV component:0
+television manufacturer:18
+sale price everything:0
+color:14
+web mail folder:0
+growth asset:0
+academic objective:0
+planned space-based test:0
+flash-based site:4
+subliterary work:0
+small room:0
+scalable compression algorithm:0
+telecommunication network:0
+performance payment:0
+information good:6
+wheel repair:0
+environmental condition:0
+basic statistic:3
+meaningless and overused adjective:0
+linear idea:0
+DVD-Video information:0
+one-way mass medium technology:0
+button:7
+mundane skill:0
+stock trading function:0
+content-based app:4
+standard known web application:0
+complex manufacturing project:0
+standard cash ratio:0
+university's academic support service:0
+tory paper:0
+typical window operation:0
+listening source:0
+clearing device:0
+diversity management product:0
+day title:0
+SNMP service property:0
+high-intensity technique:0
+web application:0
+bottom line magnesium rich vegetable:0
+higher-density residential property development:0
+one-word sentence:0
+expert:0
+well-recieved newcomer:0
+storage system component:0
+domain discussion:0
+customary formulation:0
+english raw material:0
+flat class:0
+simple bathroom furniture addition:0
+surging interest set-top medium boxes:0
+precise search criterion:0
+offline medium channel:0
+plasma display maker:0
+social medium bonus feature:0
+small punctuation mark:0
+photography setting:0
+natural material:1
+user-created content:0
+internet company:19
+korean major:18
+non-track information:0
+professionally-designed look:0
+desktop-specific feature:0
+route effect:0
+separate venue:0
+top brand:18
+superior communication system:0
+simple judgment statement:0
+fan-engagement feature:0
+time frame:0
+supplementary charge:0
+lighthearted publication:0
+subjective disorder:0
+android tablet vendor:0
+car stereo component:0
+laptop's device:0
+personality quality:0
+removable part:3
+hardware resource:8
+helpful statistic:0
+judgmental reaction:0
+award-winning song:0
+sociopsychological factor:0
+tournament information:0
+virtualization parameter:0
+truth value:0
+online community:0
+content capture aspect:0
+functional , logical entity:0
+threat characteristic:0
+large file:6
+fortified wine:8
+basic control device:9
+XSL technique:0
+academic or personnel decision:17
+datum base maintenance feature:0
+recreational activity:11
+household nonfinancial asset:0
+out-of-the-box best practice:0
+adjunctive aid:0
+group's internal business purpose:0
+header graphic:0
+electrically-induced coherent graphene device:0
+basic trigger control:0
+streaming security:0
+continuous model:0
+large capacity optical disc:0
+accommodating service:0
+file asset:0
+basic datum manipulation:0
+pedslink training tool:0
+standard omnis menu:0
+testimonial aid:0
+medium disc:0
+radiation sensitive device:0
+key theme:0
+minor radio malfunction:5
+vulnerable population:0
+progressive technical development:0
+esoteric skill:0
+sync medium file:11
+red animal:0
+alluring quality:0
+Techno-Texting-Terms:0
+high-use time:0
+higher-type action:0
+top consumer electronics giant:0
+IBM utility program:0
+traditional distribution network:0
+cheap chinese-made good:0
+basic derivative:0
+kids board game:0
+ancillary office support function:0
+challenging geometry:0
+contaminant:0
+sophisticated functionality:0
+normal HTML tag:0
+driver autodetects CRT2 output device:0
+registered authorised user:0
+language construct:0
+insulated electrical conductor:0
+semiconductor memory device input signal:0
+biometric feature:0
+content industry:11
+narrative account:0
+suggested selling technique:0
+entertainment purchase:6
+row-based mechanism:0
+thread construct:0
+surface contaminant:0
+non traditional art material:0
+men's magazine:0
+carbon-carbon cross-coupling reaction:0
+complete network interface:12
+digital good:6
+traditional computing system:0
+PC graphic:0
+bright colored bag:0
+scratch:0
+basic command:0
+top TV maker:18
+video store:0
+rap artist:16
+settlement:0
+sweetener:0
+mature marker:3
+metering value:0
+self-interest variable:0
+audio-visual and multimedia aid:0
+biometrics:0
+linear fluvial or tidal water:0
+weapon:0
+good search engine:0
+popular web format:0
+zoo information:0
+ANGEL internet video site:0
+advanced teaching material:0
+redundant and hot swappable component:0
+business inquiry:0
+clutter-free gift:0
+institutional framework condition:0
+account execution factor:0
+nonwork time:0
+core operation staff:0
+customer-specific arrangement:0
+young, well-proportioned plant:0
+layout graphic:0
+water feature:0
+mathematical and spatial concept:0
+topical treatment:0
+blood-bank procedure:0
+popular audio equipment manufacturer:0
+traditional table game favorite:0
+scheduled SQL server agent activity:0
+touch-sensitive android shortcut:0
+graphical element:14
+numbered menu item:0
+physical appearance:0
+structural heterogeneity:0
+vehicle information:7
+signal:14
+portable structure:0
+analog audio:0
+administrative user:0
+hand:0
+popular set design:0
+user-selectable picture mode:0
+child feeling word:0
+reliable wireless home theater system:0
+interactive video game:0
+popular search engine:0
+defense:0
+icon:1
+south korean brand:18
+set operation:0
+P2P VoIP software:0
+anticipated emotion:0
+provider:19
+video site:4
+BMW regular maintenance stuff:0
+trace metal:0
+car rental company:0
+Upper extremity motor impairment:0
+electrodisplay device:0
+warehouse store:0
+pre-built user interface component:0
+product attribute:0
+respected hi-fi brand:0
+online shop selling event accessory:0
+digital sound format:0
+high concentration segment:0
+table game:0
+neuro-cognitive ability:0
+test:0
+inexpensive datum quality improvement action:0
+campaigns performance statistic:0
+mediaplayer method:0
+RMAN command:0
+course:3
+topflight philosophy journal:0
+page:4
+HDMI display:0
+basic voting information:0
+chiropractic technique:0
+overused, vague adjective:0
+command-line operation:0
+personal file:11
+transport mediums:0
+art:11
+structured practice activity:0
+common computer resource:6
+derivable information:0
+Cable Original A program:6
+personal information:17
+astringent citrus:0
+meta-tag information:0
+juvenile setting:0
+CONCLUSION Conservative treatment:0
+valuable study aid:0
+overly generic term:11
+recess dimension:0
+movie related offering:0
+vanilla option:0
+uploading medium:0
+prospect-based emotion:0
+mode:9
+electronic channel:0
+economically valuable human activity:0
+multinational renowned brand:0
+electromagnetic machine:0
+basic computer security requirement:0
+latin america certain element:0
+required signal:0
+accurate document:0
+career theorist:0
+style-obsessed company:0
+embedded medium file:0
+trace setting:0
+high sensible-load job:0
+3D web application:0
+ITprofessionals:0
+in-game attribute:0
+spatio-temporal feature:0
+emerging technology:0
+insurance policy:0
+attack:0
+accessible codecs:0
+content sharing:0
+shop:0
+drill-down option:0
+local computer resource:0
+citrus fruit:8
+primitive term:0
+palladium-catalyzed cross-coupling process:0
+edge support tool:9
+DVR device:0
+web user agent:0
+age swap movie:0
+fuzzy variable:0
+linguistic value:0
+shoe:0
+sensitive individual noise receptor:0
+competitively sensitive information:0
+networking device:12
+Sonyproducts:0
+great whale:0
+critical game system:0
+apps:19
+red icon:0
+blood relative:0
+credit error:0
+yard:0
+Lowintensity transport infrastructure:0
+cost-saving training option:0
+streaming portal:0
+traditional disaster management effort:0
+End effectors:0
+non-autographed paper memorabilia:0
+yahoo icon:0
+local source:0
+representation term:0
+special-case pattern:0
+junk image:0
+medium element:11
+3G support service:0
+hard compact material:0
+chip production cost:0
+debt instrument:0
+outside asset:0
+broadcast satellite operator:0
+original manufacture hard copy:0
+multimedia:11
+coin name:0
+inherent cue:0
+mass-market asset:0
+technology electronic medium:0
+stable attribution:0
+great design:1
+run-of-the-mill stuff:0
+conventional performance venue:0
+key information area:0
+direct3d object:2
+deer item:0
+evolved mechanism:0
+topographic factor:0
+preset shape:0
+cultural activity:11
+free internet radio service:0
+non-albino breed:0
+designated retailing space:0
+unnecessary telecommunication expense:0
+high humidity application:0
+graphical link:0
+show production:6
+specifi c sub-populations:0
+serial stateless device:0
+role:7
+flexible outer surface:0
+trick:0
+public record:15
+electronic device:12
+cluster input:0
+essential:3
+traditional fielding statistic:0
+texture:1
+standard operational control:0
+pulldown menu:0
+prescribed condition:0
+distractive signal:0
+e.g. behavioural pattern:0
+common movie format:0
+monetary amount:0
+fee:3
+in-flight passenger service:6
+deregulated consumer:0
+typical continuous tone coder:0
+IP flow system:0
+mattress specialist:0
+othernetworking method:0
+ninja-style weapon:0
+squash critter:0
+literary element:0
+Third-party UIs:0
+TV brand vendor:0
+effective leadership skill:0
+P-2.2 structural member:0
+multi platform:0
+abstract surface-feeding seabird:16
+photo management program:0
+food-use related incubator program:0
+interference characteristic:0
+preprinted key payment term:0
+flagged transaction:0
+die-cut polyimide part:0
+symbolic artifact:0
+aggre-gationoperators:0
+economically sensitive sector:0
+obsolete unit:0
+sentimental or quirky element:0
+unforeseen technical difficulties:0
+injection penetration:0
+scented basil:0
+actual observation:0
+news point:0
+year discount retailer:0
+broad-based search engine:0
+platform specific area:0
+FM sector:0
+video call:0
+high definition capable input:0
+accommodation part:0
+online veoh video clip:0
+Key network functionalities:0
+latest slumber party new:0
+suitable transparent or translucent material:0
+entry various file format:0
+gaming piece:0
+sudden noise:0
+programmable dyeing parameter:0
+jumbo retailer:0
+schedule conflict:0
+optionally various parameter:0
+PROCV2 process term:0
+authorization activity:0
+information security technique:0
+commercial food:0
+immaterial formal matter:0
+money bill:0
+communication theory term:0
+international LCD manufacturer:0
+address basic GIS operation:0
+customer-related form:0
+top-tiered plasma television:0
+calm soothing color:0
+network protection principle:0
+turbine response simulation software:0
+basic surface consideration:0
+monthly theme event:0
+popular brand IP camera:0
+next-generation standard:0
+modem functionality:0
+germanic-influenced word:0
+equivalency sport:0
+flight change:0
+third-party facility:0
+industrial workplace:0
+internet carrier:19
+Sometimes leather clothing:0
+description logic system:0
+server administrative task:0
+pre-defined label:0
+classical reaction:0
+bifurcating autoregressive model:0
+basic player function:0
+technological conglomerate:0
+confidential information:0
+information safeguard:0
+recovery-related file:0
+account status:0
+house basic information:0
+ECR manufacturer:0
+presentation file type:0
+cheap, complex device:0
+food source:1
+GW channel resource:0
+label:5
+display:3
+sensitive material quality:0
+secondary, underlying business process:0
+respected veteran act:16
+Internet telephony:0
+based tv:0
+benefit program:0
+train sound:0
+traditional desktop management cost measure:0
+room:0
+typical decision:0
+envisageable pharmaceutical form:0
+local precepting authority:0
+conventional composite:0
+large traditional broadcast supplier:0
+office supply:6
+stiffener component:0
+classical topic:0
+waistband pocket store small item:0
+conventional casino activity:0
+equity security:0
+wireless:0
+Furtheradjustments:0
+standard relational database operation:0
+web-based image:0
+module control mode:0
+linear instrument:0
+utility facility:0
+population:0
+official IHW motivational tool:0
+library's resource:0
+design basic:0
+dog basic obedience command:0
+cable broadband provider:0
+convention special information:0
+performance-based compensation:0
+american girl book:0
+websphere MQ object:0
+club warehouse:0
+required check:0
+multimedia element:11
+end-user-focused element:0
+light fur:0
+testing command:0
+circuit constant:0
+modern audio-visual mean:0
+remote power management function:0
+unsupervised environment:0
+derivative investment instrument:0
+defensive quality:0
+universalist, monist concept:0
+predistortion technique:0
+DAID component:0
+traditional early topic:0
+improved ruby server:0
+common communication connection:0
+tick mark:0
+hooking supply:0
+video rental franchise:0
+conventional ground water treatment technology:0
+helper total:0
+volume business:0
+machine function:0
+built-in grammar:0
+marvelous name:0
+basic watermarking procedure:0
+domain extension:0
+real spiritual issue:0
+non-linguistics mean:0
+gothic device:0
+advanced object-oriented feature:0
+factual document:0
+value-added intellectual activity:0
+small coin:0
+pollutant:0
+e-mail system security feature:0
+payment card:0
+child name:0
+today physical barrier:0
+process term:0
+speed line:0
+self-induced sleep technique:0
+user-process resource limit:0
+TV set manufacturer:18
+small technological object:0
+concept alternative:0
+mediums:7
+scavenging system:0
+video file:6
+U.S. only service:0
+traffic-generating technology:0
+medium entertainment unit:0
+already-sharp, high-resolution source:0
+township duty:0
+traditional production factor:0
+basic medium need:0
+peripheral maker:0
+unnecessary remedial action:0
+shut-off mean:0
+video social network:0
+moa unit:0
+Starting froma detection point:0
+low-specific-activity waste:0
+politically difficult reform:0
+large corporate owner:0
+RF performance:0
+science idea:0
+cool document:0
+court document:0
+fitting parameter:0
+pollutant metal:0
+premise licensee:0
+swatch option:0
+Web user information:0
+high spending season:0
+non-breaker multi-outlet device:0
+mass superstore:0
+basically only simple character:0
+club:3
+crossover industries:0
+clue:0
+telephone network interface:0
+content insurance policy item:0
+organic bean:0
+flash action object:0
+nonfinancial business:0
+digital-based electronic equipment:0
+juristic person:0
+risk attribute:0
+attitudinal resource:0
+water transport facility:0
+city record:0
+contact information:15
+word boundary:0
+Bilingual literacy:0
+customer-defined service mode:0
+loop component:8
+simple quantitative method:0
+streaming service:19
+divine attribute:0
+meaning -metric:0
+audio visual presentation equipment:0
+occupation:7
+external high-def source:0
+obstructive type symptom:5
+exchange contract:0
+url-encoded character:0
+dierent operating system:0
+IRS department:0
+peripheral:12
+conducting electrode:0
+datum communication signal:0
+enclosure furniture:0
+multitimbral instrument:0
+console:0
+humorous material:6
+group B metal:0
+480p signal:0
+process resource:0
+nonfinancial factor:0
+wireless internet feature:0
+layer-3 device:12
+multimedia result:11
+scale:0
+aggregate berry:0
+expensive fuel source:0
+breathable and comfortable clothing:0
+event-driven product:0
+increasingly TV manufacturer:0
+rival mobile retailer:0
+white and bright striking color:0
+product invention:0
+Delivered furniture:0
+informational device:0
+small scale extension:0
+complex medium:0
+skill-based error:0
+typical prefix:0
+consumption unit:0
+flash gadget option:0
+optical measuring machine:0
+forum textual corpus:0
+high quality format:0
+google's most popular product:0
+entertainment:6
+lifestyle publishing category:0
+basic emotion:0
+audiovisual material:11
+single tier database:0
+uncommon extension:0
+BDA member:0
+geologic structure:0
+parent record:0
+tone sequence:0
+best market condition:0
+peaceful action:0
+processing genre:0
+aforementioned connectivity tool:0
+asynchronous UNIX system call:0
+style interface element:0
+big car audio system brand:0
+remoting property:0
+numerical formula:0
+standard outlook form command:0
+SBS component:0
+under-floor obstruction:0
+torah need:0
+wireless capable device:0
+easily removable plastic fitting:0
+nontraditional, price-driven retailer:0
+statistical information:0
+RV part:0
+setup move:0
+plume dynamic:0
+separate project room facility:0
+analog extension:0
+dark color:0
+plate type furniture:0
+reel-type game:0
+pre-loaded content apps:0
+iPad information:0
+student list family title:0
+puzzle accessory:0
+critical requirement:7
+sale service:7
+non-taste-dependent product:6
+opposite flavor:8
+handmade or purchased item:0
+digital communication component:0
+employee attendance rating level:0
+sortable stat:0
+public place:0
+international format:0
+high quality grade:0
+Resource A physical entity:0
+B. word:0
+medium les:6
+common backup method:0
+snack convenience food:0
+endearing trait:0
+single sensor module:0
+tissue:0
+application-specific electronic device:0
+building characteristic:0
+calorie term:0
+routine readscurrent operating condition:0
+non-combination medical product:0
+page printer:0
+partly related source:0
+safety mark:0
+drastic time:0
+visible or tangible factor:0
+valuable commercial and recreational activity:0
+ubiquitous medium:0
+StarTeamitems:0
+traditional digital datum protection technique:0
+TREX search option:0
+extruded article:0
+pre-set picture setting:0
+administered JMS object:0
+low level video indexing method:0
+adult male:0
+basic CD control:0
+excellent beginner information:0
+plastic container:0
+closely related class:0
+non-english alphabet:0
+standard commodity network:0
+text display control:0
+standard fighting-game mode:0
+intangible intrusion:0
+digital computer output:0
+live-cd distros:0
+search algorithm:0
+online video distributor:19
+bit-oriented optical memory:0
+largest whale:0
+collectible part:0
+NET PLACEMENT potential travel corridor:0
+programming language code:0
+educational stuff:0
+inchoate offence:0
+manager file:0
+derivative:6
+electrically-operated mean:0
+embankment foundation improvement:0
+industry leader:18
+pop format:0
+high-density disk:0
+extensive communication possibility:0
+subtle magic:0
+health ailment:0
+third entity:0
+obligation debt instrument:0
+resolution video source:0
+plain text file:0
+manually change setting:0
+hot or cold spot:0
+Hangheavyitems:0
+sugar substitute:0
+area clerical duty:0
+general-purpose network:0
+movie box office bonanza:0
+streaming option:19
+well-received newcomer:0
+fourth-generation hypermedia feature:0
+premium USB can preload datum:0
+key AT datum:0
+financial planning product:0
+performing environment:0
+audio-video equipment:0
+collegiate university:0
+datum connector:0
+emerging mobile commerce transaction:0
+owner perk:0
+prone surface:0
+on-demand delivery experience:0
+content piece:0
+determination element:0
+flexible connection method:0
+non system file:6
+unneeded pci card:0
+protocol:0
+scope mass medium entity:0
+highly-valuable woodworking project:0
+complex tax situation:0
+wall ornament:0
+initialisms:0
+adult:0
+computer upgrade & accessory:0
+lifespan many manufacturer:18
+story element:2
+back-end file:0
+conventional ICTs:0
+creative zone shooting mode:0
+face-to-face lodgement priority document:0
+popular tag:3
+research technical management need:0
+safeguarding dwelling component:0
+botanical, environmental and conservation organization:0
+non-metric unit:0
+externally input information:0
+acceptable situation:0
+premium chinese tea:0
+surface:3
+slang term:1
+BS issue:0
+host entity:0
+Unfavorable credit score:0
+shared resource:3
+non- web technology:0
+cultural and non-formal activity:0
+popular vacation time:0
+internet transport provider:0
+external stimulant:0
+WS record:0
+internet distribution firm:19
+displacement value:0
+technical document:6
+industry:8
+image production apparatus:0
+less-used file:0
+halloween-themed product:0
+execution document:0
+single emulsion layer photographic material:0
+simple, standard management analysis technique:0
+distraction celebratory item:0
+annual plate type:0
+active si-compatible component:0
+lot difference:0
+endpoint:12
+functional, logical entity:0
+year platform:0
+detailed testing procedure:0
+ITC development:0
+unlimited keyword:0
+datastage object:0
+server resource:0
+free modifier key name:0
+conspicuous element:0
+leading conglomerate:18
+support material:6
+secondary ignition component:0
+Public WANs:0
+cat new:0
+X-10 appliance:0
+core infrastructure activity:0
+export style attribute:0
+tooldbar button:0
+non-print information system:0
+competitive extra:0
+lot comedy movie:0
+context issue:0
+trusted reference:0
+big japanese consumer electronic company:0
+quintessentially american metaphor:0
+assessment information:0
+online acronym:0
+bidder characteristic:0
+fixating mean:0
+singapore's externally-oriented sector:0
+non-wooden part:0
+symmetric error distribution:0
+frequency adjective:0
+heat setting:0
+classical pictorial element:0
+negative meaning:0
+rival ereader manufacturer:0
+kid s party supply:0
+management representative:0
+conventional high-voltage device:0
+ACIS entity:0
+corporate computing asset:0
+audit point:12
+low month:0
+instrumental value:0
+joint fixed expense:0
+semiconductor component:0
+property search category:0
+youth group:11
+arrangement water movement:0
+psychosocial response:0
+electrode surface property:0
+historical firewall stat:0
+unforeseen cost:0
+measurement module:0
+macro-related factor:0
+PeopleSoft PeopleTools functionality:0
+achievement value:0
+percent access value-added feature:0
+online DVD service:19
+peak trading night:0
+backup file option:0
+critical, local region:0
+nonprintable item:0
+differing experimental condition:0
+famous semiconductor supplier:0
+state:0
+analog record:0
+urther hit:0
+evanescence song:0
+disadvantage:0
+space whitespace character:0
+magazine:0
+now-famous video site:0
+digitized product:6
+high speed internet connection:0
+security-related datum stream:0
+global company:18
+conceptual and informational topic:0
+conventional loan base loan term:0
+glass mother substrate:0
+proper university:0
+aggregate grouping:0
+clark's extensive research facility:0
+citibankhas promotion:0
+memory access instruction:0
+pro-poor development policy:0
+in-screen and player-related application:0
+smart team:0
+disc-based game:0
+social network:0
+vital parental function:0
+simple story convention:0
+value-added, interactive feature:0
+sequential presentation:0
+special:11
+access file management task:0
+fundamental:13
+shallow geothermal system:0
+conventional pickup setting:0
+arising mobile phone expense:0
+dry, rough or crunchy food:0
+benefit:17
+real environmental improvement:0
+standardized function:2
+essential and vital technological element:0
+high gross margin item:0
+digital product:6
+concrete construction specification:0
+WG activity:0
+unsociable hour:0
+phone carrier issue:0
+optical medium:0
+level result s statement:0
+traditional HCI device:0
+programming fundamental:0
+clinical end point:0
+external environment aspect:0
+environment demand factor:0
+LMI interface accessory:0
+set permission:0
+static or non-configurable pin:0
+interactive and sensory stimulus:0
+crosstalk effect:0
+germy area:0
+multimedia resource:11
+number:5
+on-board communication peripheral:0
+power supply:0
+everyday activity:11
+functionalized solid phase:0
+video clip solution:0
+citrus fruit flavor:0
+non-real bit:0
+precious personal file:0
+sometimes reward:0
+wearable GPS device:0
+conventional interface technology:0
+computer:6
+therapist's personal attribute:0
+auxiliary and supplementary component:0
+reliable and responsive resource:0
+exact amount:0
+big electrical appliance:0
+packet-based communication network:0
+fax machine:0
+linear risk management instrument:0
+division:7
+structural pattern:0
+technical information:13
+converter:0
+ground room:0
+electrical article:0
+navigation system navigational aid:0
+non-node product:0
+remote Bluetooth device:0
+standard mechanical refining mean:0
+teleplay's IVR application:0
+standing room:0
+basic VCR operation:0
+technical revolution:0
+firm:18
+logical drive property:0
+periodic company announcement:0
+USB host:0
+equant managed service:0
+instrument particular command:0
+fundamental performance characteristic:0
+japanese company:18
+unexpected high expense:0
+retirement saving plan:0
+high spatial resolution image:0
+typewriter accessory:0
+captioned component:0
+suitable actor:0
+energy capacity contract:0
+basic datum value:0
+non-cash advantage:0
+modifying direct access medium:0
+common network fault:0
+cost-effective barcode product:0
+transportation sub-sectors:0
+specialist technical resource:0
+traditional suspect:0
+quantitative -metric text article:0
+traditional headquarters function:0
+traditional objection:0
+DVD source option:0
+continence aid:0
+small indoor space:0
+renowned architecture journal:0
+hazardous material:0
+moveable piece:0
+episodes content:11
+glorified national heroes:0
+calming yin color:0
+noncomparable service:0
+browser's symbol:0
+clinically available marker:0
+basic computer building block:0
+vague, subjective term:0
+vector geographic feature:0
+datastreams:0
+community response:0
+conventional radio measurement:0
+performance-related variable:0
+ruler unit:0
+luminescent transition metal complex:0
+AI department:0
+verbal term:0
+effect processing:0
+byword:0
+menus:0
+childrens group:0
+korea's case sector:0
+second, higher ticket good:0
+wholesale warehouse:0
+intangible:6
+NAAG format:6
+motherboard design recommendation:0
+quality control sample:0
+matching option:0
+payment option:0
+agency communication:0
+mirror option:0
+joomla extension:0
+high-value niche market:9
+popular brand:18
+fraction:0
+visual identity:0
+riemannian object:0
+external load-balancing mechanism:12
+traditional home networking technology:0
+solid waste disposal service:0
+memory aid:11
+key loan feature:0
+regular supplier bill:0
+natural or instinctive barrier:0
+integrated tourism complex project:0
+non-shipped product:0
+qos parameter:0
+digital format:11
+incompressible substance:0
+intermediate weight:0
+meta-model element:0
+directional reference:0
+external quantity:0
+cognitive function:0
+Routine periodic servicing:0
+hilarious label instruction:0
+operation:7
+rising internet star:0
+proposer's general information publication:0
+stool form:0
+superficial technique:0
+walmart's sustainability effort:0
+low-level concern:0
+vehicle performance characteristic:0
+so-called generic or global name:0
+split workweek shift:0
+Management A host computer:0
+medium format:7
+routine scheduled maintenance action:0
+increasingly more entertainment device:0
+technology-driven commerce channel:0
+small contact surface:0
+Default gateway A device:12
+low light area:0
+internet-based medium:0
+novel:0
+non interactive accompaniment recording:0
+pop-culture interest:6
+material imperfection:0
+outstanding creative achievement:0
+personal computer:0
+aggregating dimension:0
+heavy metal:0
+huge luxury:0
+hit location:0
+directional or positional term:0
+derivative commodity instrument:0
+symptom provisioning operation:0
+noble life purpose:0
+primitive CEA-931-C command:0
+full featured application:0
+EVENTDATA return information:0
+simple directional symbol:0
+overlake village utility:0
+short copy:0
+framework additional criterion:0
+hair service:0
+on-line, electronically transmitted material:0
+health care provider information:0
+beautiful graphic:0
+required category:0
+affordable laptop repair:0
+good analytical tool:0
+1970s work:0
+solid or semisolid material:0
+fusion tag:3
+merchant account provider:0
+IVI-C function:0
+Info Additional information:0
+location:8
+illustration:3
+proprietary or sensitive competitive issue:0
+strategic support agency:0
+booth equipment:0
+electronic audiovisual composition element:0
+intra-organisational method:0
+world's most coveted brand:0
+clearance diagram trackside structure:0
+Relaxin agonists:0
+computing entity:0
+microscopic quantum phenomenon:0
+negotiable instrument:0
+movie setting:0
+music service:0
+fighting song:0
+multimedia controls:0
+out-of-box interconnects:0
+negative factor:0
+fruit juice brand:0
+electronic creation:6
+background noise:11
+superb camera capability:0
+time-critical datum service:0
+regional screen agency:0
+in-hotel benefit:0
+habitat's shop-fitting trick:0
+person first, critical element:0
+shared purpose:0
+upfront indicator:0
+small world creature:0
+embodiment:0
+repository will store new-media object:0
+useless attribute:0
+company's high-margin product:0
+visual and verbal complexity:0
+downside here business line:0
+mouse brand:0
+fixture:3
+Maintenance Routine periodic servicing:0
+scientific or technical material:0
+network:19
+convenient pressing device:0
+network infrastructure element:12
+NAS item:0
+high-cap operator:0
+government proceeding:0
+MIDI input:0
+modern day's business supply:0
+legitimising teachers feeling:0
+driver:0
+helbreath file:0
+pretty flowered word:0
+peak season:0
+required platform condition:0
+profile folder:0
+non-combustion waste:0
+complete or longer work:0
+modifier key:0
+simple user interface element:0
+fiber rope property:0
+adult medium content:0
+reusable code:0
+nontraditional contracting provision:0
+second, cell resource:0
+payment method option:0
+small, congested area:0
+ongoing offer:0
+good BD player:0
+non-drm video file:0
+present-day adjective:0
+component part:1
+annual incentive:0
+dubitative verb:0
+Non-living ground cover:0
+common home platform:0
+log format:0
+basic photographic requirement:0
+preferred beer:0
+quantitative metricstext article:0
+non-interactive accompaniment recording:0
+high-speed datum transmission solution:0
+taste-bud mediated quality:8
+portable electronics equipment:0
+part-time or occasional work:0
+busy society:0
+culturally specific component:0
+mode Additional information:0
+information exchange point:0
+end user action:0
+prevalent similarity measure:0
+sentimental file:0
+wave processor:0
+geometry primitive:0
+drawback:7
+in-person transaction:0
+digital right management protected content:11
+B8 object:0
+common action:0
+internet distributor:19
+festival:0
+shorthand abbreviation:0
+projectile:0
+technical advance:12
+appliance:12
+electrical trade function:7
+power wire:0
+self-organizing plasma structure:0
+strange place:9
+standard annual cost:0
+credit factor:0
+intense sensation:0
+behavioral device:0
+First, variable information:0
+management control measure:0
+business service:7
+language feature:15
+zenworks object:0
+open record form:0
+electronically readable medium:0
+power source:0
+elementary datum structure:3
+ITSM record:0
+home food preparation technique:0
+business-level object:0
+formed fiber container:0
+application input:0
+exposed skin surface:0
+deprecated datum type:0
+professional training aid:0
+size:10
+simple literary term:0
+computer datum appliance:12
+directional term:0
+user contribution:0
+artistic digital content:11
+wired broadband technology:0
+cellular system diversity reception technique:0
+colt model:0
+TV manufacturer:18
+maturational process:0
+pre-set comment:0
+detailed trading information:0
+abnormal site condition:0
+facility:8
+impor-tantaspects:0
+Online telephony:0
+impurity-doped layer:0
+surround SCM datum:0
+electronics manufacturer:18
+toe style:0
+supportive measure:0
+perimeter security device:0
+sfwa's members-only document:0
+high-starch, low-nutrition snack:0
+cultural and medium influence:6
+fish habitat component:0
+crunchy abrasive food:0
+positional reference:0
+resort's activity:0
+dynamometer reading:0
+decent, better quality brand:0
+normal household noise:0
+famous single:0
+earth production value:0
+basic right:17
+trademark name:0
+electromagnetic wave:0
+product training class:0
+headted press:0
+archetypal image:0
+electronic safeguard:0
+formica's established product:0
+established men's magazine:0
+file:11
+user sensory interface:0
+compostable bioplastic product:0
+flea treatment:0
+social support network:0
+smartkem's target customer:0
+consumer electronics player:18
+debt security:0
+loose and hinged element:0
+brewery item:0
+coating cost element:0
+container:1
+geometrical primitive:1
+abnormal occurrence:0
+decorative food product:0
+order geometry:0
+private space:0
+header element:0
+inconsequential aspect:0
+dynamic text information:0
+car rental agency:0
+remote system explorer resource:0
+VBA reserved word:0
+freeware new WLAN hacking tool:6
+accessing entertainment site:6
+emerging content-delivery technology:0
+name brand:18
+over-used vague noun:0
+rare case additional charge:0
+Enclosure A structure:0
+non-porous, hard surface:0
+WSFC cluster resource:0
+DVRs:0
+strong attitude word:0
+popular electronics giant:0
+utilizing discussion board:0
+chemical test:0
+Summer clothing:0
+dependable company:0
+featuring specific property:0
+traditional security device:0
+advertiser:19
+window operational function:0
+rk s:0
+western environmentalist technique:0
+optically transparent mean:0
+port statistic counter:0
+race:0
+future-oriented industry:0
+rodent harborage:0
+traditional name:0
+Official's PERSONAL Information:0
+work:7
+supported part:0
+continuous-media application:0
+outdoor physical fitness area:0
+latest blu-ray disc feature:0
+causative verb lexical item:0
+foundational skill:0
+walking aid:0
+free printable personal form:0
+strategic business service:0
+operational-management role:0
+detailed user interface design requirement:0
+developmental element:0
+organizational level:1
+basic list manipulation function:0
+premium LCD TV brand:18
+photo information:0
+content provider:4
+plug-in memory device:0
+family name:0
+habitat-related issue:0
+datum communication equipment:12
+officer:0
+well-placed visual prop:0
+routable protocol:0
+Organisations:0
+deduction:15
+attacker sensitive private information:0
+social medium distribution system:0
+erroneus file:0
+passive 3D TV:18
+video service:19
+broad traditional functionality:0
+alignment command:0
+publication:0
+contemporary management theory:0
+static-causing surface:0
+modern connection:0
+topological aspect:0
+UML infrastructure basic concept:0
+channel:19
+desirable natural feature:0
+serious injury:0
+contemporary club genre:0
+standard user statistic:0
+key vehicle component:0
+neat, green hedge:0
+transaction-related activity:0
+low level code:0
+Safe-havens:0
+south korea's largest conglomerate:0
+student's lunch status:0
+summoner aspect:0
+classical electronic assessment:0
+low cost task:0
+grinder abrasive:0
+electrical component:0
+city's recreational and cultural offering:0
+video:19
+not-yet-proven advanced technology:0
+dragging readily understandable flowchart symbol:0
+traditional key performance indicator:0
+one-off add-ons:0
+ant-related topic:6
+HPC feature:9
+corresponding equivalent analog:0
+widely-used utility function:0
+growth portfolio:0
+innovative building design:10
+opposite category:0
+REFUND SCHEDULE various expense:0
+USB condition:0
+demographic characteristic:0
+computer user interface:0
+punctuation mark:0
+geographic entity:0
+strong natural support:0
+cyclical growth sector:0
+faculty:3
+plasma maker:0
+simple number concept:0
+postoperative negative behavioral change:0
+geological discontinuity:0
+participation closely related class:0
+electrical and mechanical device:0
+domestic famous window ISP:0
+solid content:0
+currency:0
+conceptual entity:15
+digital service provider:19
+commercialized holiday:0
+graphical component:11
+Q. on traditional holiday:0
+copyright-infringing material:6
+publicity gimmick:0
+affordable exhaust manifold selection:0
+continuous tone original:0
+absolute time unit:0
+home's many selling point:0
+sign-on information:0
+fractionation device:0
+liquid crystal touch panel:0
+independent format:0
+CUI element:0
+basic abacus term:14
+serial item cover non-serial interface:0
+authority figure:0
+ad-supported web video service:0
+house interior design:0
+vx37l's basic function:0
+deferred cost:0
+typical IT product:0
+core financial strength:0
+pre-recorded content:0
+unobserved individual characteristic:0
+peoples copyright work:0
+multi-sensor information:0
+field in datastage function:0
+accurate product's information:0
+quality attribute:0
+ore info:0
+software:0
+core silverlight feature:0
+printer operation message:0
+white noise:11
+critical information:3
+viral-like symptom:0
+surf zone characteristic:0
+secured item:0
+Auxiliary ventilation:0
+Excessive Noise Noisy equipment:0
+water term:0
+down-hole electrical component:0
+medium text message:0
+noncash payment:0
+code:0
+global datum structure:0
+uniform title:0
+critical externalities:0
+charitable fund raising event:0
+stone age programming language:0
+defensive self-presentational tactic:0
+digital advertising tactic:0
+bill:0
+Microplatforms:0
+sd card capable device:0
+established team:0
+key fibre channel functional capability:0
+inadequate living condition:0
+codeigniter development method:0
+consumer electronics industry giant:0
+crawler-based search engine:0
+school supply:0
+digital cable:0
+highly-respected specialty:0
+climatic condition:0
+evel result statement:0
+decoration:1
+cable:0
+below-ground area:0
+C. security:0
+water source:10
+traditional celtic theme:0
+family member:0
+Runtimedetails:0
+second computer:0
+exporing theme:0
+non-noxious stimulus:0
+cementing plug:0
+corporate EADS training program:0
+Picture material:0
+clear warning:0
+statutory record:0
+play aspect:0
+heated press:0
+packaging material:0
+big telecommunication company:0
+bold graphic:0
+two-dimensional signal:11
+nonworking part:0
+Size language:0
+big box-office hit:0
+one-dimensional contact:0
+embedded client application environment:0
+exclusive after-sale service:7
+fishing rod component:0
+work-related source:0
+pre-loaded content:0
+format resource:0
+logical content:0
+monetary unit:0
+well-used image:0
+shoot:0
+less-recognizable brand:0
+re-use website:0
+porn venue:6
+heading:10
+underground label:0
+limo model:0
+ordinary revenue:0
+board game:6
+pet command:0
+interactants experience:0
+Casual comfortable clothing:0
+fast-paced graphical application:0
+Patient-derived material:0
+high voltage circuit element:0
+entree:0
+primitive:1
+rapidly-emerging technology:0
+resolution format:0
+non-document file:0
+capital good:1
+formal unit:0
+CS asset:0
+reader less solution:0
+protective clothing:0
+tariff change:0
+development tailor system:0
+intellectual property donation:11
+datum relay device:0
+popular TLDs:0
+private or public communication network:0
+natural water flow system:0
+withdrawal symptom:0
+Practical test equipment information:0
+key on-pack driver:0
+section heading:0
+identifiers:17
+defect:0
+traditional offline medium:0
+intermediate organization type:0
+adult ministry:0
+trick mode command:0
+security role:0
+underlying delivery issue:0
+day new modern technology:0
+time unit:0
+lady clothing:0
+retail store:0
+open-ended collective investment scheme:0
+key literary technique:2
+small scale construction:0
+native facebook function:0
+audible distress signal:0
+marine product:0
+server information:8
+solid co-signer:0
+man-made and natural reason:0
+global web site:0
+vendor term:0
+popular video format:0
+lovely SQ item:0
+unnecessary or inappropriate information:0
+name-brand LCD TVs:0
+incumbent wireless device:0
+consumer finance magazine:0
+interspecific relationship:0
+linguistic performance:0
+monetary product:0
+offsite highway work:0
+adjunct service:0
+audio connection device:0
+centralized apparatus:15
+cool effect:0
+informal interpersonal variable:0
+year more manufacturer:0
+boxes:0
+big consumer web site:0
+improved communication system:0
+digital entertainment company:19
+mid-bandwidth application:0
+co-op information:0
+great flavor:0
+visual identification attribute:10
+rail infrastructure asset:0
+traditional roofing system:0
+agent interaction topologies:0
+generally conventional component:0
+home theater manufacturer:0
+vital board document:0
+M&S stock brand:0
+Speech dysfunction:0
+base stat:0
+sentence form:0
+negative adjective:0
+designer issue:0
+undoubtedly 3D theatrical event:0
+microenvironmental system:0
+equipment:12
+brand new creature:0
+anticipated treatment:0
+member B:0
+wireless-ready mobile PC:0
+simplistic task:0
+normal function:0
+error control method:0
+interest:11
+android device:18
+transaction oversight committee:0
+personality trait:0
+cockroach entry point:0
+uncertain quantity:0
+latest IOS version:0
+modern datum network:0
+IDPA related activity:0
+tie-down connection member:0
+B. equipment component:0
+audio production service:0
+sonic's competitor:0
+online TV programming portal:4
+remap modifier:0
+european style bead charm bracelet:0
+shattered galaxy option:0
+competition weight lifting event:0
+Longswords:0
+drilling expense:0
+employee's attendance item:0
+inherently descriptive element:0
+chilifresh feature:0
+user action:0
+soil property:0
+High fashion:0
+built-in column:0
+wireless application area:0
+set-top boxes:0
+graphic:1
+motorola's flexsuite protocol:0
+ladies footwear:0
+operating system user interface element:0
+urinary or bowel symptom:0
+regular driver deduction:0
+air traffic facility:0
+trade execution priority:0
+audio& video format:0
+conventional accessaries:0
+computer security measure:0
+conventional mechanical deblinding system:0
+collapsible graphic artifact:0
+clearly product:0
+extreme haircut:0
+unit-driven product line:0
+contraband exhibit:0
+Environmental stressors:0
+real-time entertainment service:19
+fitting:0
+debt deduction:0
+engine operating value:0
+feeling:17
+member R:0
+normal fishing rule:0
+cultural accessory:0
+successful test result:0
+AL team:0
+year major retailer:0
+synonym:10
+normal measurement:0
+fast regulation resource:0
+equity derivative:0
+EDID information:0
+broadband connection:19
+western country:0
+low level scheduler operation:0
+positive feeling:0
+jewellery related service:0
+intellectual property right:6
+preservation method:0
+perimeter-based defense:0
+apple's direct channel:0
+chemically stable metal:0
+tight culture:0
+comparatively large electronic device:0
+message output device:0
+explanation:0
+traditional video coding technique:0
+business related value:0
+internet-based content provider:0
+democratic learning principle:0
+permanent and distinctive mark:0
+spinal disorder:0
+mechanistic-sounding term:0
+regular interest:6
+video source:19
+safety outcome:0
+microsoft excel list file:0
+digital source:0
+mapbasic language keyword:0
+console gaming machine:0
+gravel river bed-forms:0
+setting:8
+section character issue:0
+peer-to-peer message:0
+Low-level and critical software:0
+classic movie:0
+reasonable time unit:0
+experiential aspect:0
+hard disk drive vendor:0
+audio-visual content:6
+categorematic expression:0
+system-type class:0
+query processor operation:0
+time-qualified triggering function:0
+bold navigation aid:0
+cross-cutting area:0
+Business contact information:0
+job scheduling system:0
+video rate application:0
+Computer Science A symbol:0
+non-functional requirement:7
+shooting mode:2
+3-D movie:0
+MQSeriesobjects:0
+consumer product:0
+control variable:0
+bootable drive bay:0
+ZENEC program component:0
+waste management plan cover area:0
+admin server:0
+sport league:0
+common TLDs:0
+good feature:9
+copyoperation various database operation:0
+Irish NGOs:0
+corporation:18
+programming paradigm:0
+input device:12
+income:0
+VCR control:0
+complex color pattern:0
+relaxation technique:5
+TV episode:0
+common name:1
+mixed application flow:0
+platform:4
+critical spec:0
+statistical tool:3
+embarrassing personal item:0
+hard skill:0
+persistent hydrographic feature:0
+first mathematical concept:0
+ignition part:0
+non-biodefense intramural facility project:0
+spreadsheet term:0
+unfavorable hygienic condition:0
+measurable and observable property:0
+limited physical resource:0
+participant:0
+seemingly common activity:0
+port:8
+basic picture control:0
+discovery metadata:0
+tax non-income tax:0
+living host:1
+generation name:0
+dedicated data-only mobile broadband device:0
+datum center work process:0
+charging electrical appliance:0
+in-game artwork:0
+Fur further information:0
+poultry researcher:0
+Evaluative information:0
+sometimes also storage device:0
+service-configuration information:0
+traffic generator model datum source:0
+module:7
+optional external sensor:0
+network's expense:0
+jpeg graphic:0
+earning item:0
+folder:2
+hip-hop press outlet:0
+medium place:0
+contention-based network:0
+datum model entity:0
+country's largest-circulation periodical:0
+victorian moral system characteristic:0
+conventional human computer interaction technique:0
+object command:0
+computer game system:0
+AMD processor-based product feature:0
+granularity:3
+life's biggest hurdle:0
+expository composition:0
+school's main contact information:0
+perjorative term:0
+mcgraw-hill's medium asset:0
+complex database program:0
+limitation:17
+membership benefit:0
+standard CD operational command:0
+vague or generic term:0
+season:0
+good moral value:0
+neutral color:14
+20th century spin-off american game:0
+wholesale high quality cosmetic:0
+adverse side effect:0
+popular new format:0
+video chain:0
+minor issue:11
+presentday adjective:0
+basic number theory topic:0
+tillage tool:0
+high-value multimedia content:0
+non-hierarchical notion:0
+habitable room:0
+general-purpose design pattern:0
+MMORPG:0
+expansion connector:0
+company infrastructure:0
+separate term:0
+physical symptom:0
+inline element:11
+developed country:0
+sample used term:0
+visual or audio aid:11
+google's owned site:0
+coin:0
+legislative and administrative measure:0
+treatment-related unspecific effect:0
+large company:18
+personal communication:0
+electrical connector:0
+personalization:0
+EDB file object:0
+non-personal information:15
+modern compression standard:0
+memory block operation:0
+reticalaspects:0
+cool architectural-like stuff:0
+stock recruitment supply:0
+video extension:0
+authorized land-based facility:0
+generic style:0
+nearest local hardware store:0
+local geographical environment:0
+energy storage:0
+non-toxic cleaning agent:0
+down-to-earth technical parameter:0
+bargain book shop:0
+non linux-omap sub system:0
+origin edge information:0
+concerning modern communication technology:0
+feline organ:0
+communication network:7
+tax-favored higher education program:0
+stresslike emotional reaction:0
+non-traditional revenue stream:0
+mid-ranged label:0
+prototypical and state-of-the-art algorithm:0
+copy utility:0
+south african medium:0
+Flash template theme s:0
+time controlled output:0
+brands television:18
+airspace segregation method:0
+fixed storage facility:0
+regular communication guideline:14
+hierarchal relationship:0
+ophthalmic article:0
+predefined location:0
+consumer purchase record:0
+solid motif:0
+big-box company:0
+massive corpora:0
+Derivative A financial security:0
+microsoft office:0
+social medium platform:0
+network service device:12
+DVD mailing service:0
+outgoings:7
+kindle competitor:0
+time different individual:0
+community feature:0
+sample SESM web component:0
+standard menu option:0
+Auxiliary and supplemen-tarycomponents:0
+case biological target substance:0
+communication device:12
+electrical connection component:0
+in-game issue:0
+studio:0
+modern feature:15
+base domain service:0
+ARP table:0
+HARI approved product:0
+camcorder company:0
+complex penalty structure:0
+consonant chord:0
+full-service supplier:0
+online credential:0
+inherent cost:0
+popular name:19
+non-U.S. corporation:0
+progress message:0
+grantee performance information:0
+rich multimedia application:0
+echoic word:0
+reward:6
+video rental chain:0
+credit issue:0
+non-traditional requirement:0
+audible stimulus:11
+non-structured language:0
+online video sharing web:4
+PC environment:0
+typical business aspect:0
+definite ground reference:0
+student friendly delivery option:0
+fine-tune parameter:0
+microcomputer operating system:0
+digital need:0
+clothing:0
+burning information:0
+mid-level officer:0
+unparalleled misery:0
+wifi security protocol:0
+odd-number month:0
+non-vocal response:0
+commercial monitor manufacturer:0
+image's metadata:0
+back-to-back lengthy appointment:0
+communication network device:12
+many-particle system:0
+engaging context:0
+manufacturing apparatuses:0
+specialty jumper:0
+functionality:12
+graphic element:11
+traditional herbal practice:0
+hot ographic item:0
+aggregate function:0
+javascript keyword:0
+generic hub portal service:0
+large gauge jewelry:0
+high datum rate network form:0
+geological feature:0
+funding source:15
+photo processing center:0
+potential inter-provider difference:0
+management value:0
+standard set operator:0
+Dark eyeliner:0
+abundant service access interface:0
+decorative structural product:0
+tool bar icon:0
+barrier:1
+table entry:0
+edastart option:0
+influential hip-hop MCs:0
+plug-in component:0
+basic telephony function:0
+player board game:0
+quickbooks inventory management feature:0
+fairly straightforward derivative:0
+QC information:0
+cloud-based consumer application:0
+Hiring information:0
+Higher-level staff:0
+traditional pocket knife:0
+coal deposit geological structure:0
+basic topological measure:0
+forbusiness inquiry:0
+SSL parameter:13
+preferred search engine:0
+key content producer:0
+demarcation line:0
+impressive brand:0
+sensitive feature:0
+series:0
+quality grade:0
+peak period:0
+punishment:0
+cartoon studio:0
+temporal expression:0
+mutually exclusive product:0
+non-conditional branch instruction:0
+radio function:0
+countless abstract noun:0
+Emphasizing articulates:0
+principle:0
+clinical category:0
+secondary error:0
+claimant's subjective complaint:0
+memorable and console-exclusive game:0
+unexplained term:0
+stock release document:0
+world-renowned artist:0
+knife company:0
+window server administration task:0
+generally electronic equipment:0
+classic casino game:0
+constraint-based algorithm:0
+permeable and natural surface:0
+wonderful restaurant:0
+livestock service:0
+premium online video service:0
+wedding accessory:1
+capital ratio:0
+Networked end-systems:0
+streaming online service:0
+student recruitment document:0
+greek state:0
+basic database connection parameter:0
+phrase:3
+prepared eatable:0
+modern encryption standard:0
+computer technology need:0
+hard disk store information:0
+online DVD rental service:19
+non-trained interpreter:0
+heat-producing equipment:0
+operational stress:0
+structure-level VHDL feature:0
+summer wear:0
+personal property:0
+double-byte language:0
+high-speed datum link:0
+busy time:0
+essential icon:0
+electronics player:18
+information location tool:0
+traditional consumer electronics company:0
+cognitive factor:0
+boatyard activity:0
+basic demographic descriptors:0
+non-perspective orthogonal view:0
+large general merchandise store:0
+science target:0
+popular video game system:0
+time waster:0
+xenobiotics:0
+postharvest preservation treatment:0
+simple stand-alone static resource:0
+mineral:0
+audio&video format:0
+financial information:0
+front spring end:0
+existent entity:0
+end computer:0
+Passenger-specific information:0
+acronym:0
+audio signal output:0
+third-party codecs:0
+third party:0
+traditionally separate banking product:0
+access-control measure:0
+underground shelter:0
+key format:0
+australian commercial entity:0
+imperfection:0
+minimum HTML:0
+diluent directing structure:0
+micro-blogging service:0
+internet video site:4
+top-level -metric:0
+signal output:0
+relative term:10
+comprehensive information tool:0
+misstep:0
+CallableElements:0
+spatial development:0
+return library information:0
+basic skill:0
+busbar configuration:0
+leading mobile phone producer:0
+first-degree relative:0
+covered category:0
+mind different aspect:0
+content-critical industry:0
+recorder information:0
+comic book information:0
+mechanical part:0
+onsite need:0
+supermarket tabloid:0
+non IBM PC type computer:0
+locked-up network device:0
+non-button control:0
+normative instrument:0
+telecommunication service:0
+freeform annotation:0
+prose text:0
+extracurricular activity:11
+punctuation:0
+polyurethane component:0
+sensitive electric equipment:0
+private operator:0
+online radio site:0
+lead factor:0
+Intensive labor subsectors:0
+connectionless network architecture:0
+advanced M2M endpoint:0
+perk:0
+elastic polymer liquid:0
+supreme court case:0
+compatible computer operating system window:0
+common milling machine:0
+typical LDAP object:0
+strong inner sound:0
+music apps:0
+text feature:3
+cognitive and motivational factor:0
+attention-diverting object:0
+data-mining analysis:0
+application behavior:0
+generation TV service:0
+qualitative feature:0
+vagae statement:10
+inventory:0
+operating expense:7
+latest blu-ray movie:0
+traffic control:0
+direct-action protest:0
+microsoft window basic:0
+evolutionary operator:0
+architectural feature:10
+transparent or translucent polymer:0
+simulated peripheral device:0
+adb's core administrative document:0
+s-video display:0
+business courtesy:0
+parents resource:6
+Embedded software:0
+student:0
+motion-based controller:0
+standard android shortcut:0
+computer programming instruction:0
+standard aggregate function:0
+employee's calculated item:0
+brand guideline:0
+remote team member:0
+definitive specification:0
+fundamental wireless channel impairment:0
+transactional information:0
+creative zone mode:0
+riparian enhancement project:7
+truevisions own advertisement:0
+information rich method:0
+traditional AV output:0
+weight:0
+manual character input device:0
+format medium:0
+account situational factor:0
+common input parameter:0
+bose sounddock system function:0
+research-based information:0
+centralised action:0
+toy:1
+expensive high-bandwidth connection:0
+bonus information:0
+outboard amp:0
+civil maintenance service:0
+microblogging service:0
+optically sensitive material:0
+casino-style gaming table:0
+environmental enrichment:0
+catalytic and electrochemical application:0
+earth resource satellite:0
+easy DIY dream interpretation tool:0
+high-side fault-interrupting device:0
+development condition:0
+real estate transaction:0
+CMC property:0
+site's interactive feature:0
+playon channel:4
+wired network:0
+aggregate:15
+animal waste structure:0
+vital personal attribute:0
+workspace profile:0
+world model action:0
+anti-miscegenation case:0
+standard contract exception:0
+required search term:0
+debug interface command:0
+Plant low specificity lectins:0
+batch-style process:0
+human emotional trait:0
+computer-assisted remote hunting facility:0
+chinese import product:0
+window application resource:11
+regional economic aggregate:0
+client additional service:0
+interfacinganalog device:0
+expansion card:12
+regulatory information:0
+small detail texture:0
+traffic anomaly:0
+world's largest technology leader:0
+financially challenging market:0
+foreigners face:0
+leverage purely software attestation system:0
+trust qualification:0
+technical support employee:0
+common hair task:0
+electrical service component:0
+maintenance operation:0
+traditional investing strategy:0
+affective consequence:0
+reaction:0
+catchword:0
+professional engagement:0
+cooperative refinement:0
+administrative agency:0
+version:0
+WAN architecture:0
+nowadays comfort:0
+work design method:0
+internet search engine:0
+submission ofcase-related material:0
+gate controller brand:0
+axis method:0
+offer filter:0
+website search engine:0
+unprotectible element:0
+colloquial term:0
+valuable:3
+timestamp time component:0
+fashionable and ethnic watch:0
+versatile mounting solution:0
+casual game:0
+everyday weapon:0
+popular video file:0
+panel method:0
+free internet phone system:0
+password:0
+impact:17
+formal and informal resource:0
+time-honored architectural convention:0
+Disposition information:0
+power:0
+interlaced display:0
+recognized sender:0
+popular cellular service provider:0
+host processing system:0
+fatty coffee creamer:0
+local paper:0
+shape:1
+visual merchandising tool:0
+PBX feature:0
+strapping machine equipment need:0
+domain-specic formatting cue:0
+market:6
+site factor:0
+home improvement store:0
+pest:0
+acoustical treatment:0
+doctrine:0
+robust construction segment:0
+fuel filter:0
+cohort:0
+digital freebie:6
+gadget's feature:8
+television distributor:19
+Geo-tagged trip information:0
+two-tone sequence:0
+second VGA device:0
+online social networking:0
+context menu:0
+standard effect:0
+exciting topic:1
+sketch entity:0
+weekend night:0
+supplemental electronic learning resource:6
+Rlevelfunctions:0
+I.T. infrastructure cost:0
+basic interactive measurement:0
+medical device:8

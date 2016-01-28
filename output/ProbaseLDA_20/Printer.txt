@@ -1,0 +1,21 @@
+hp	print	ink	cartridge	epson	page	canon	easy	wireless	review	
+scanner	memory	card	connection	performance	usb	reliability	folder	slower	camera	
+computer	router	usb	scanner	wireless	camera	cable	door	laptop	network	
+ink	black	cartridge	white	head	color	print	button	magenta	stock	
+paper	tray	jam	photo	feed	regular	plastic	plain	glossy	feeder	
+setting	solution	tone	beginning	dark	mixed	worth	crappy	happier	event	
+replacement	part	installation	cleaning	wide	utility	shipping	repair	recent	saver	
+machine	real	person	separate	huge	photography	witch	thousand	favor	superb	
+star	line	point	bottom	edge	present	form	supplies	layout	eprint	
+kind	wrong	guess	loyal	ideal	dont	brother	supplies	pro	worse	
+support	model	tech	sale	media	phone	technical	maintenance	advice	cycle	
+printing	fax	copy	machine	quick	mode	capability	electronics	stay	construction	
+cheap	convenient	drawback	luck	affordable	highest	fancy	occasional	thin	favorite	
+cost	poor	decent	ready	water	crazy	diagnostic	stupid	trick	novice	
+photo	price	picture	document	money	image	print	camera	address	feeder	
+manual	software	automatic	capability	instruction	feed	identical	complex	regular	standby	
+toner	duplex	envelope	touch	noise	screen	complete	sound	fair	environment	
+color	print	text	size	ink	image	laser	graphic	inexpensive	speed	
+scanning	copying	printing	research	everyday	intuitive	faxing	easy	communication	interface	
+customer	home	service	client	relative	expert	representative	worst	occasional	airprint	
+average coherence	-1325.0414700235783

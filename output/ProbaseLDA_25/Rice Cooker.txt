@@ -1,0 +1,26 @@
+cup	easy	pot	water	lid	clean	review	bowl	steam	minute	
+money	pot	spoon	worth	stick	bag	book	spatula	present	crock	
+aroma	taste	flavor	smell	texture	performance	digital	consistency	worst	worth	
+brown	white	button	black	stove	decker	kitchen	setting	red	dishwasher	
+steel	oats	stainless	cut	china	oatmeal	larger	medium	home	investment	
+bottom	side	top	line	dish	lower	front	past	worth	zojirushus	
+glad	asian	chinese	japanese	everytime	careful	indian	typical	korean	veggy	
+small	large	huge	size	amount	higher	sb	multiple	ton	correct	
+water	cup	uncooked	egg	oil	broth	soup	ratio	salt	butter	
+half	cup	hour	larger	method	raw	quiet	hurry	basmatus	longer	
+home	house	room	restaurant	apartment	dorm	term	office	bigger	mother	
+warm	hour	heavy	feature	paper	function	towel	timer	fair	question	
+cheap	convenient	everyday	ease	decent	fancy	serving	finish	larger	affordable	
+brown	light	white	cord	minute	rest	retractable	grain	wild	heat	
+surface	scratch	overnight	pro	separate	flaw	ultimate	worth	fill	cheaper	
+ultimate	veggy	previous	worst	national	national	national	national	national	national	
+happier	worth	impressed	past	national	national	national	national	national	national	
+larger	similar	oats	national	national	national	national	national	national	national	
+harder	pro	bigger	worth	today	previous	plenty	national	national	national	
+onion	bigger	veggy	impressed	longer	mother	happier	national	national	national	
+worth	plunge	cheaper	zojirushus	typical	worst	browned	national	national	national	
+zojirushus	cheaper	plenty	smallest	worst	national	national	national	national	national	
+worth	previous	today	smallest	worst	national	national	national	national	national	
+larger	bigger	worth	additional	helpful	pro	cheaper	longer	frozen	national	
+easier	mushy	worth	additional	similar	past	basmatus	national	national	national	
+average coherence	-903.8678535300572

@@ -1,0 +1,11 @@
+picture	cable	screen	channel	sound	antenna	remote	video	box	dvd	
+home	bedroom	room	kitchen	living	pc	portable	theater	library	crt	
+size	assembly	location	sync	reasonable	finish	slim	connectivity	adjustable	ups	
+wall	foot	back	window	eye	arm	hole	case	head	stud	
+customer	option	service	purchase	sale	future	christmas	support	rebate	addition	
+picture	video	image	sound	music	sd	photo	card	multiple	latest	
+feature	replaytv	commercial	preset	caption	rich	previous	newer	happier	impressed	
+money	camera	battery	key	glass	bass	watch	screw	rechargeable	washer	
+city	circuit	india	grand	chicago	pleasant	uk	mark	avi	wega	
+price	model	antenna	electronics	manufacturer	limited	technology	retail	construction	retailer	
+average coherence	-1274.7358504278438

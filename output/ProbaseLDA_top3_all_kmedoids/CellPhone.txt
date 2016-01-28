@@ -1,0 +1,16 @@
+case	screen	battery	call	device	price	easy	feature	cable	review	
+ear	hand	finger	foot	head	eye	impossible	hook	internal	field	
+headset	charger	headphone	speaker	computer	usb	sound	earbud	speakerphone	stereo	
+video	voice	picture	card	camera	sound	photo	micro	sd	audio	
+car	home	house	gym	equipment	building	machine	gadget	screwdriver	round	
+iphone	money	email	app	android	sprint	smartphone	internet	ipad	laptop	
+package	captivate	static	vibrant	past	impressed	worth	doesnt	junk	pre	
+memory	customer	seller	pc	service	card	buyer	vendor	portable	official	
+keyboard	stylus	plastic	head	touchscreen	pen	easier	tip	neck	key	
+setting	delivery	call	bulky	incoming	favorite	tone	country	resolution	guy	
+music	touch	sound	software	game	number	wrong	option	ipod	radio	
+operation	media	tool	code	sort	mm	push	playback	player	^	
+noise	dust	clean	secure	run	bubble	stick	garbage	rock	motorolum	
+camera	antenna	slim	spot	flash	bass	inside	logo	audiophile	motorolum	
+button	life	battery	long	star	decent	oem	address	luck	language	
+average coherence	-1215.3182432725882

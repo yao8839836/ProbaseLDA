@@ -1,0 +1,11 @@
+map	screen	gps	easy	road	route	device	software	direction	traffic	
+speed	elevation	weather	tree	biggest	mph	accurate	difficulty	aspect	easiest	
+version	bulky	fastest	nav	software	decent	wide	system	newer	prompt	
+case	small	charger	printer	cover	battery	car	optional	present	startup	
+sale	cigarette	lighter	complete	additional	worth	stress	car	rain	tight	
+mile	foot	hour	inch	trip	ton	yard	san	dozen	pod	
+map	card	sd	picture	electronic	question	slot	answer	result	motonav	
+tomtom	interchange	mapquest	forum	additional	streetpilot	unlock	today	unable	rino	
+glad	seconds	california	bag	dead	florida	careful	dc	texas	worth	
+feature	suction	ease	traffic	cup	newer	regular	unlock	alternate	additional	
+average coherence	-1247.4151959866417

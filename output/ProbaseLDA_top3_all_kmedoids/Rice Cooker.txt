@@ -1,0 +1,16 @@
+cup	easy	small	minute	clean	review	timer	steamer	bottom	steam	
+recipe	price	cookbook	book	ultimate	polenta	worth	worse	larger	easier	
+machine	steel	plastic	stainless	oats	restaurant	stick	correct	paper	aluminum	
+setting	stuff	cleaning	warm	beginning	middle	worth	additional	today	cheaper	
+inexpensive	eater	crock	detail	basis	picture	safe	zoji	receipt	typical	
+japanese	asian	chinese	japan	place	basmatus	china	company	korean	food	
+glad	past	mushy	correct	easier	worth	veggy	helpful	today	similar	
+light	heat	burning	warm	heavy	temperature	color	cold	pain	condensation	
+pot	bowl	lid	pan	stove	star	dish	spoon	bottom	dishwasher	
+mode	warm	min	size	average	maximum	amount	experiment	raw	pro	
+couple	friend	home	option	kid	college	description	student	decent	future	
+life	perfection	everytime	careful	trouble	seconds	basmatus	grits	zojirushus	veggy	
+taste	cord	retractable	smell	surprise	excess	feeling	hope	thought	flower	
+water	cup	oatmeal	porridge	vegetable	soup	amount	oil	steam	mark	
+brown	white	black	grain	red	jasmine	liquid	minute	solid	fancy	
+average coherence	-1222.4029280102407

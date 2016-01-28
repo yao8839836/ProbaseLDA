@@ -1,0 +1,16 @@
+cable	sound	phone	device	bluetooth	radio	fm	transmitter	audio	music	
+line	point	inch	pro	bottom	strength	paired	favorite	microphone	money	
+phone	call	email	wrong	satechi	bulky	drawback	firmware	incoming	internal	
+ipod	iphone	touch	cable	aux	music	ipad	zune	input	pandora	
+case	small	cable	iphone	charger	end	usb	cover	hard	adapter	
+home	stock	idea	house	equipment	secure	situation	happier	incarcables	ca	
+music	button	long	star	call	setting	phone	alternative	delivery	crystal	
+ease	size	price	site	reasonable	main	cost	pro	exact	generation	
+complaint	local	party	response	playback	satechus	satechi	order	happier	helpful	
+sony	buck	samsung	honda	galaxy	pioneer	audiovox	evo	droid	htc	
+clear	blue	black	sound	green	white	light	reliable	red	tooth	
+feature	price	period	size	easier	pro	satechi	color	minus	impressed	
+auxiliary	navigation	construction	antenna	deal	file	electrical	electronics	view	direct	
+review	customer	service	company	decent	sd	satechi	card	picture	mhl	
+loud	noise	light	touch	music	weak	cool	hissing	larger	volume	
+average coherence	-1253.4362926155416

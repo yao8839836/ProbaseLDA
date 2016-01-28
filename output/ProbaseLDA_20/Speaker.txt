@@ -1,0 +1,21 @@
+sound	price	system	volume	bass	small	ipod	review	high	bose	
+battery	wire	cable	usb	button	power	plug	hook	star	screw	
+room	home	travel	car	theater	life	electronics	living	construction	audiophile	
+phone	size	cell	color	rating	internal	ton	file	list	web	
+base	frame	kardon	trismegistos	nht	unusable	today	worst	atlantean	impressed	
+computer	radio	money	tv	light	stereo	music	internet	router	clock	
+place	wrong	book	wide	terrific	capable	boombox	spectacular	horrible	hdmus	
+easy	pro	acoustimass	im	today	hundred	setup	sort	user	boston	
+monitor	separate	factory	antenna	terminal	audible	compartment	keyboard	minus	round	
+fast	mind	azkhar	proper	unusable	speakers	impressed	school	business	live	
+negative	soft	present	slim	proper	today	im	worth	unusable	audiophile	
+headphone	jack	switch	audioquest	cable	earbud	breaker	trismegistos	biggest	boomy	
+sound	music	movie	picture	video	audio	game	clear	gaming	rich	
+piece	crap	precise	azkhar	soundblaster	numerous	midbass	trismegistos	ca	round	
+poor	older	lap	lag	kardon	speakers	actual	proper	today	im	
+wall	floor	rock	glad	wood	desk	stick	side	paper	metal	
+pc	laptop	computer	simple	headset	mini	windows	mac	desktop	android	
+device	laptop	ipod	iphone	bluetooth	ipad	cradle	minus	numerous	comparable	
+black	solid	plastic	blue	bright	light	white	water	rubber	metal	
+house	equipment	car	term	component	module	configuration	investment	requirement	stock	
+average coherence	-1200.8674861465138

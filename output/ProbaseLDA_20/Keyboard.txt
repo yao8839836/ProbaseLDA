@@ -1,0 +1,21 @@
+key	button	logitech	type	usb	battery	easy	price	wireless	review	
+setting	character	expectation	generic	mind	meaning	memory	task	sd	blackwidow	
+money	option	purchase	buy	camera	future	stock	sale	worth	hd	
+half	daily	release	simultaneous	saver	additional	googletv	sturdy	seamless	potential	
+star	point	edge	line	curve	separate	stream	tight	learning	texture	
+video	picture	movie	living	music	easier	everyday	document	intuitive	prior	
+kind	current	improvement	visible	honest	weak	common	heat	potential	resistance	
+software	place	scroll	book	wheel	paper	mac	dish	aware	located	
+typing	case	cover	small	ipad	macbook	charger	cradle	impossible	uncomfortable	
+touch	key	skin	dust	lock	window	glossy	num	accurate	sight	
+range	simple	speed	row	accuracy	usb	hhk	mode	operating	luck	
+blue	solid	black	plastic	red	color	white	key	light	purple	
+slim	sim	view	website	launch	insert	screw	oversized	select	fix	
+desk	tiny	responsive	couch	table	clean	chair	decent	stand	dedicated	
+home	office	mx	market	construction	tech	station	clicky	school	technology	
+job	key	noise	special	lack	weight	function	ease	email	complete	
+computer	tv	light	google	switch	fan	internet	easier	web	app	
+hand	finger	wrist	foot	rest	pain	eye	comfortable	pad	arm	
+mouse	laptop	bluetooth	ipad	usb	android	logitech	receiver	pda	tablet	
+apple	class	pair	bluetooth	cherry	ergonomic	fix	papers	unique	person	
+average coherence	-1188.1550659319698

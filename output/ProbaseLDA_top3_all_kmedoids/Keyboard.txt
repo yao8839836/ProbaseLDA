@@ -1,0 +1,16 @@
+key	typing	type	logitech	usb	button	hand	tv	light	mouse	
+user	replacement	service	customer	support	special	regular	email	construction	refund	
+mouse	computer	ipad	windows	usb	laptop	wireless	logitech	software	android	
+microsoft	ibm	limited	saitek	ergonomic	recent	eclipse	pricey	regular	today	
+battery	money	life	plastic	responsive	camera	ir	cd	aluminum	paper	
+button	picture	scroll	mouse	wheel	row	top	sim	label	launch	
+dust	dirt	stick	rock	crumb	water	wall	spill	oversized	slight	
+star	point	surface	flat	line	curve	slim	aware	dirty	stream	
+laptop	gaming	pda	netbook	regular	case	mousepad	station	protective	printer	
+driver	inexpensive	current	windows	lag	rubbery	resistance	prior	potential	adjustable	
+price	content	performance	mx	lock	cost	hope	numeric	num	stock	
+apple	blue	black	red	key	white	laser	light	color	bright	
+older	poor	lack	noisy	lag	stress	weak	worth	usual	past	
+range	simple	mode	usb	foot	speed	computer	television	accuracy	female	
+easy	installation	recent	brother	aware	bt	user	idea	free	difference	
+average coherence	-1217.5451491070196

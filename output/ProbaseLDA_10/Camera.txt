@@ -1,0 +1,11 @@
+picture	video	lens	image	canon	feature	easy	sony	light	price	
+money	tape	tripod	bag	strap	stick	pocket	purse	memory	focal	
+computer	video	picture	movie	software	tv	usb	cable	home	dvd	
+warranty	replacement	model	outstanding	repair	cost	service	location	part	refund	
+mode	low	light	higher	auto	wrong	average	expectation	high	satisfied	
+landscape	portrait	underwater	action	beach	indoor	room	living	compartment	cold	
+shot	night	late	series	impressed	proprietary	hundred	easier	newer	ca	
+battery	video	life	picture	photo	sound	extra	aa	minute	power	
+cheap	decent	ease	grip	special	convenient	obvious	lack	steady	everyday	
+small	case	card	sd	charger	viewfinder	memory	pocket	slot	playtouch	
+average coherence	-1389.5963789794052

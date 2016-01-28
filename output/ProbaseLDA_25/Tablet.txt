@@ -1,0 +1,26 @@
+screen	app	device	easy	price	ipad	case	stylus	laptop	xoom	
+pain	ease	frustration	hope	surprised	surprise	regret	disappointment	frustrated	disappointed	
+word	works	sale	production	interior	marketing	hr	worth	lite	connected	
+memory	card	performance	connection	ram	processor	storage	everyday	horrible	class	
+android	ipad	archos	app	iphone	market	ipod	google	device	phone	
+version	decent	helpful	firmware	technique	codec	archo	tapntap	ca	alot	
+keyboard	mouse	case	usb	cover	cable	printer	charger	headset	ipad	
+video	simple	music	movie	complaint	decision	pic	policy	audiophile	helpful	
+review	sd	card	huge	picture	company	responsive	file	compatible	slot	
+touch	screen	sound	responsive	finger	thought	slick	smell	feeling	taste	
+option	future	installation	delivery	birthday	painting	operating	actual	entry	drawing	
+setting	hand	head	ink	solution	weight	arm	bug	end	bulky	
+button	star	real	bamboo	point	car	soft	glass	table	line	
+pen	battery	computer	money	book	life	paper	software	photo	reader	
+kind	label	unknown	ntilde	impressive	archo	acceptable	pricey	minus	impressed	
+�	intuo	cartridge	worth	impressed	happier	pen	pen	pen	pen	
+active	worth	flimsy	intuos	impressed	helpful	exceptional	mother	remote	solar	
+print	round	pro	impressive	impressed	helpful	replaceable	worst	pen	pen	
+worth	horrible	tapntap	minus	helpful	alot	pen	pen	pen	pen	
+google	marketplace	alot	similar	worth	im	viewpad	smoother	kyros	connected	
+nib	nail	subwoofer	ca	archo	horrible	happier	mother	harder	pen	
+junk	autodesk	sketchbook	cheaper	recent	archo	impressed	helpful	additional	faster	
+recent	pro	biggest	yesterday	charger	car	pen	pen	pen	pen	
+wifus	recent	easier	accurate	impressed	enjoyable	sturdy	heavier	connected	intuo	
+wheel	scroll	worth	savvy	usable	sluggish	intuos	intuo	pen	pen	
+average coherence	-973.9956044791713

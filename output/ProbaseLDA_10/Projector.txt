@@ -1,0 +1,11 @@
+screen	room	picture	price	light	image	bulb	easy	cable	hour	
+dollar	frame	button	menu	step	plate	pound	stick	mechanism	base	
+white	black	screen	wall	color	level	blue	light	red	affordable	
+device	money	deal	camera	big	shift	worth	oem	china	watch	
+picture	instruction	video	file	iphone	powerpoint	slide	presentation	image	word	
+remote	control	tripod	eco	mode	av	range	button	widescreen	wireless	
+movie	sound	video	speaker	theater	game	home	dvd	audio	picture	
+foot	screen	hand	arm	image	leg	eye	wall	head	inch	
+hole	lack	screw	simple	tight	assembly	limitation	bolt	pocket	weak	
+computer	cable	laptop	vga	xbox	pc	dvd	hdmus	player	usb	
+average coherence	-1385.9218150749898

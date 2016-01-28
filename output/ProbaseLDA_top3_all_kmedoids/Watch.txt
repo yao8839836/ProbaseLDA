@@ -1,0 +1,16 @@
+price	wrist	easy	battery	face	feature	big	alarm	date	size	
+customer	reviewer	service	seller	computer	switch	unique	numerous	operation	sale	
+night	christmas	temperature	light	backlight	indiglo	moisture	holiday	unique	accurate	
+light	strap	compass	dark	red	waterproof	green	yellow	barometer	weight	
+band	sport	leather	comfortable	tag	swimming	reading	metal	pro	track	
+everyday	accuracy	sound	touch	smell	readable	durability	subtle	range	feminine	
+country	visible	modern	folk	alot	luminous	similar	impressed	unique	masculine	
+money	scratch	flashy	error	jewelry	statement	run	lack	luminescent	guess	
+invicta	casio	timex	rolex	place	men	diver	seiko	atomic	expedition	
+minute	hour	hand	true	proof	worse	specific	sturdy	worth	readable	
+resistance	bulky	site	shower	pool	adjustable	wide	protector	savings	school	
+cost	rugged	birthday	home	house	address	effort	par	mother	lack	
+hand	side	back	top	dress	bottom	wrist	case	shirt	edge	
+water	resistant	shiny	fancy	affordable	works	outdoor	air	clothes	paint	
+plastic	glass	steel	stainless	band	strap	gold	leather	metal	black	
+average coherence	-1162.6838639605974

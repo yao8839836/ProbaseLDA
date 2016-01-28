@@ -1,0 +1,21 @@
+panasonic	easy	model	oven	review	size	small	feature	price	door	
+performance	warm	reliability	defect	temperature	main	feature	preset	noisy	location	
+button	door	open	panel	touch	label	easier	spacemaker	past	earlier	
+power	level	timing	spacemaker	decent	amount	bulky	preheat	numeric	entry	
+technology	inverter	capacity	largest	impressed	cheapest	internal	earlier	pro	frustrating	
+button	star	huge	minute	number	start	point	entire	period	cubic	
+food	cooking	setting	sensor	cook	power	meat	feature	minute	frozen	
+low	min	range	mode	expectation	mw	higher	satisfied	sort	high	
+defrost	favorite	operation	feature	custom	sale	roomy	night	beep	receipt	
+picture	background	photo	conventional	section	detail	lousy	sturdy	yesterday	pleasant	
+knob	keypad	dial	tiny	button	control	hinge	internal	larger	inside	
+repair	worth	cost	total	spacemaker	instance	luxury	local	charge	feedback	
+black	blue	white	red	color	potato	display	stainless	kitchen	green	
+popcorn	bag	water	coffee	pizza	chip	morning	kernel	corn	cup	
+money	timer	quiet	fingerprint	tv	worth	phone	signal	wireless	outlet	
+heat	fire	paper	question	cream	ice	lightning	concerned	resistant	previous	
+house	intuitive	home	wrong	idea	ease	special	stock	investment	entire	
+space	return	saver	regular	spacemaker	tab	mother	sticker	today	faster	
+oven	cabinet	drawer	stove	shelf	sturdy	refrigerator	separate	fridge	ft	
+door	glass	plastic	light	open	wall	window	panel	table	front	
+average coherence	-1205.7008063817743

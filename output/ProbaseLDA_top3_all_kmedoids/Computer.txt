@@ -1,0 +1,16 @@
+monitor	screen	tablet	display	app	device	price	android	easy	review	
+color	text	contrast	brightness	monitor	screen	sharp	resolution	image	picture	
+warranty	replacement	model	part	repair	service	cost	delivery	return	refund	
+home	wrong	sony	end	internet	capable	limited	blank	technology	info	
+general	surf	advanced	fp	geometry	net	osd	longer	ghz	wifus	
+cheap	decent	monitor	luck	responsive	price	convenient	everyday	special	consistent	
+junk	footprint	chat	contact	proprietary	today	skeptical	motherboard	excellant	significant	
+complaint	email	phone	website	gamut	answer	motion	address	easier	gvision	
+video	picture	game	card	movie	sd	sound	music	software	photo	
+christmas	seconds	final	crazy	january	detailed	careful	december	july	august	
+keyboard	touch	screen	mouse	tablet	stylus	feel	pain	finger	camera	
+monitor	dvi	money	lcd	cable	speaker	vga	tv	hdmus	connection	
+performance	price	speed	range	main	system	operating	lag	bezel	adjustable	
+option	purchase	customer	huge	monitor	service	future	buy	gaming	price	
+firmware	photoshop	cad	word	adobe	excel	moniter	yesterday	port	ziio	
+average coherence	-1360.0632929922597

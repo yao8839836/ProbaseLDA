@@ -1,0 +1,11 @@
+panasonic	button	power	easy	model	oven	size	small	feature	minute	
+food	job	cook	feature	sensor	hot	main	reheat	warm	ease	
+purchase	huge	money	option	house	buy	college	addition	sort	electronics	
+piece	plastic	identical	crap	feet	lousy	spacesaver	pro	larger	usable	
+review	rating	consumer	report	comment	favorite	ft	preset	concerned	previous	
+technology	inverter	works	operation	word	engineering	replaceable	faster	exterior	inside	
+popcorn	bag	potato	chip	pizza	button	corn	frozen	setting	oatmeal	
+oven	cabinet	drawer	stove	wrong	shelf	flimsy	impressive	cheaper	largest	
+convection	oven	melting	today	previous	ice	wave	heat	radiation	current	
+cooking	door	sensor	button	light	heat	leftovers	intuitive	feature	heating	
+average coherence	-1278.2543069005942

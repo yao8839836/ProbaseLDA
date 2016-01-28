@@ -1,0 +1,11 @@
+show	tv	cable	software	hour	channel	box	service	recording	device	
+button	point	real	equipment	person	star	machine	remote	toy	piece	
+program	picture	tv	guide	photo	viewing	screen	router	record	music	
+hr	word	works	sale	operation	marketing	variety	dt	novice	usable	
+quick	ease	upload	pay	impressive	vacation	brother	flaky	frustrating	round	
+series	model	edition	tuner	scene	dual	earlier	larger	skeptical	alot	
+highest	intuitive	page	positive	size	dolby	lag	potential	definition	everyday	
+movie	couple	single	wrong	seconds	channel	ram	careful	situation	gripe	
+feature	replaytv	commercial	advance	review	season	show	pass	lousy	alot	
+tv	live	direct	showstopper	guide	similar	flaky	yesterday	helpful	cheaper	
+average coherence	-1279.7329935617336

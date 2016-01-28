@@ -1,0 +1,26 @@
+ear	sound	pair	bass	price	comfortable	earbud	head	volume	noise	
+sound	noise	battery	light	heavy	hearing	rich	foot	canceling	construction	
+cost	glass	wall	floor	desk	addition	door	window	similar	panel	
+flaw	spot	hissing	crack	hole	leakage	rip	strange	tendency	yesterday	
+setting	noisy	office	tangle	secure	rugged	chair	strap	block	environment	
+big	strong	balanced	hard	lightweight	outstanding	fair	affordable	harsh	em	
+clear	sound	bass	black	crisp	white	red	high	pink	crystal	
+pain	weak	reduction	noise	surprise	headache	sweat	painful	shame	disappointment	
+cable	cord	case	headband	clip	wire	rubber	bulky	workout	longer	
+sound	audio	speaker	movie	opinion	koss	impressed	video	sale	game	
+money	tv	computer	radio	gym	stereo	reception	house	car	hdp	
+music	band	sport	difficult	favorite	classical	jogging	shape	number	koss	
+decent	price	life	soundstage	koss	special	worse	worth	subtle	portapro	
+earphone	headset	iphone	phone	ipod	laptop	charger	case	bag	ipad	
+star	point	button	real	snug	person	equipment	stock	distortion	sensitive	
+senn	vmoda	powerful	worse	needless	unbearable	koss	pair	pair	pair	
+pricey	similar	longer	sturdy	unable	heavier	brother	rigid	weird	hdp	
+worth	audiophile	sturdier	today	cancelling	shorter	pair	pair	pair	pair	
+earlier	worth	extended	koss	cheaper	im	ive	today	dont	cancelation	
+mm	horrible	powerful	doesnt	hdp	pair	pair	pair	pair	pair	
+ohm	cheaper	regular	brother	weird	pair	pair	pair	pair	pair	
+accurate	today	comparable	hey	coby	tad	pair	pair	pair	pair	
+similar	impressed	audiophile	sturdy	overwhelming	greater	earpad	pair	pair	pair	
+rich	earcup	koss	impressed	senn	brother	jbud	bass	pair	pair	
+weird	worst	slightest	tendency	quietcomfort	coby	pair	pair	pair	pair	
+average coherence	-895.6451144419395

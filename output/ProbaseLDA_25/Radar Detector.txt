@@ -1,0 +1,26 @@
+speed	cop	price	feature	false	mile	ticket	signal	laser	detection	
+enforcement	half	legal	favorite	smartcord	numerous	cheaper	compartment	worse	potential	
+band	alarm	false	voice	alert	mode	signal	visual	sound	audio	
+ka	band	escort	car	pop	police	redline	truck	beltronics	live	
+phone	end	direction	quiet	instruction	word	wrong	gp	smart	stronger	
+speeding	ticket	lack	everyday	beltronics	customization	turn	additional	mph	hiding	
+device	fact	dollar	sense	antenna	interstate	beltronics	spec	common	doesnt	
+highway	road	market	company	difference	open	intersection	school	christmas	bar	
+power	performance	bel	cord	frequency	range	mode	cable	ground	source	
+laser	point	line	strength	website	signal	hill	outlet	bottom	stus	
+system	change	decent	sale	operation	law	sheriff	player	security	claim	
+real	button	star	glad	major	butt	coiled	person	present	earlier	
+amount	main	term	exact	adjustable	rx	helpful	premium	mph	outstanding	
+cheap	free	visible	advanced	fancy	urban	danger	beltronics	longer	numerous	
+car	money	vehicle	opener	cheaper	home	speeder	construction	stus	electronics	
+bright	beltronics	today	iradar	larger	quicker	company	company	company	company	
+slower	plenty	located	dozen	dector	newest	company	company	company	company	
+beltronics	impressed	worth	minus	sens	stus	company	company	company	company	
+mph	plenty	past	cobras	skeptical	beltronics	worse	iradar	helpful	autoscan	
+previous	beltronics	helpful	thousand	company	company	company	company	company	company	
+beltronics	stronger	impressed	past	im	newer	smartcord	longer	alot	newest	
+worth	plenty	past	cobras	beltronics	newer	downside	company	company	company	
+beltronics	worse	beltronic	worth	sturdy	similar	opposite	database	company	company	
+impressed	worse	beltronic	specific	peep	undetectable	company	company	company	company	
+amp	alot	pro	beltronics	beltronic	dont	bigger	company	company	company	
+average coherence	-966.1880242089915

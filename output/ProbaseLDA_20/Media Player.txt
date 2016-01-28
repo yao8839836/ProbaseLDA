@@ -1,0 +1,21 @@
+player	zune	file	device	media	video	tv	box	ipod	movie	
+small	case	folder	cover	keyboard	movie	remote	screen	art	charger	
+option	software	share	future	zune	music	purchase	conversion	machine	buy	
+navigation	menu	intuitive	easy	interface	button	control	select	communication	surf	
+network	music	video	picture	media	server	photo	file	library	playlist	
+black	clear	screen	bright	color	picture	brown	white	red	blue	
+content	star	point	setting	format	device	box	boxee	local	hope	
+shipping	email	sale	phone	entertainment	works	packaging	bb	electronics	technology	
+lack	cost	location	support	neat	language	dedicated	numerous	age	savvy	
+browser	game	flash	web	app	forum	gui	handbrake	internet	easier	
+sd	card	flash	drive	gig	equalizer	slideshow	delay	wmp	jukebox	
+accessory	book	watch	premium	bag	im	round	toy	flimsy	direct	
+major	minor	general	official	slim	micca	timely	host	quirky	previous	
+hard	drive	external	usb	difficult	movie	av	cable	portable	power	
+battery	life	money	port	radio	music	home	car	usb	itune	
+video	format	hdtv	audio	tv	ease	sound	intuitive	youtube	regular	
+microsoft	rca	micca	mplay	output	center	freeware	conductor	dial	freemake	
+half	interesting	full	hour	charge	impossible	revue	micca	hdmus	avus	
+friend	place	line	segment	preset	restriction	modem	component	obsolete	definition	
+version	decent	firmware	release	latest	definition	boxee	older	dont	box	
+average coherence	-1398.3413473118499

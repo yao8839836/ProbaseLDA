@@ -1,0 +1,21 @@
+sound	ear	pair	bass	price	earbud	comfortable	cord	volume	noise	
+couple	movie	careful	single	trouble	alright	situation	bent	cradle	acceptable	
+noise	distortion	sensitive	hissing	wind	explosion	machine	waste	earlier	impressive	
+noise	frequency	phone	apple	canceling	range	model	bulky	bigger	plenty	
+left	higher	bottom	end	affordable	front	harsh	line	floor	slight	
+pain	weak	sweat	surprise	headache	shame	disappointment	pressure	concern	fatigue	
+noisy	jogging	cost	poor	picky	equal	crazy	environment	alternative	correct	
+review	decent	company	positive	research	handy	comment	press	listening	senn	
+sony	superior	bose	panasonic	quietcomfort	pioneer	similar	noice	cheaper	today	
+customer	battery	service	aaa	series	aa	apogee	hundred	bank	earpad	
+money	purchase	huge	buy	price	house	option	stock	sale	car	
+ipod	iphone	construction	electronics	gym	rugged	jlab	ipad	electronic	online	
+plastic	solid	metal	black	white	red	piece	pink	blue	dust	
+ear	head	bud	foot	comfortable	phone	top	small	neck	cup	
+side	lower	wall	creek	biggest	point	acceptable	inside	resistant	today	
+gym	sport	playing	clothing	cycling	inside	longer	vmoda	slight	music	
+feature	price	reasonable	simple	soundstage	format	special	crackling	earpad	impossible	
+music	sound	opinion	audio	video	workout	classical	game	voice	impressed	
+snug	glass	general	air	leather	foam	fit	water	rca	longer	
+case	small	earphone	charger	bag	pouch	headset	odd	engine	slight	
+average coherence	-1180.3417858243197

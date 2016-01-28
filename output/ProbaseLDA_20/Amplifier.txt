@@ -1,0 +1,21 @@
+signal	channel	volume	audio	watt	price	system	kit	tv	review	
+wire	gauge	plastic	copper	rock	thick	insulation	dayton	aluminum	gold	
+side	nicer	audiophile	xplod	bidirectional	larger	tripath	audiophile	audiophile	audiophile	
+phone	voice	direct	recording	pixelation	channel	rid	website	combination	increase	
+price	performance	size	music	area	antenna	khz	living	similar	band	
+clear	red	blue	black	light	white	green	crystal	transparent	bright	
+strength	signal	bar	con	bigger	length	thd	noisy	mess	headroom	
+speaker	headphone	computer	light	stereo	home	monitor	portable	mm	headset	
+heat	night	christmas	summer	bright	horrible	audiophile	cold	bidirectional	similar	
+line	point	star	picture	flat	detail	bottom	thicker	static	mid	
+sound	music	picture	video	tone	audio	system	hearing	clean	touch	
+job	decent	noise	cost	soundstage	demand	planet	concern	money	slight	
+service	part	customer	electronics	delivery	quick	media	feed	construction	sale	
+input	output	rca	jack	source	adjustable	kohm	outstanding	previous	female	
+cable	signal	tv	modem	internet	house	box	battery	connection	booster	
+couple	single	movie	tight	entry	careful	beat	headunit	pct	fosgate	
+ear	foot	easy	head	hand	butt	face	worst	headunit	worth	
+bass	boost	mode	turntable	guitar	drive	preamp	midrange	chassis	late	
+power	supply	ground	spec	wire	hz	hot	impedance	favorite	efficiency	
+music	ipod	iphone	ipad	online	mini	fiio	dock	windows	song	
+average coherence	-1171.981195154956

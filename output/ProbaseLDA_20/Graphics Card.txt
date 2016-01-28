@@ -1,0 +1,21 @@
+driver	fan	gtx	graphic	monitor	evga	case	system	screen	windows	
+computer	monitor	money	laptop	windows	tv	switch	compatible	older	screen	
+performance	load	highest	temperature	full	stable	lag	playback	idle	temp	
+price	performance	size	color	noisy	ready	fastest	limitation	style	instance	
+power	supply	heat	fan	temperature	case	connector	watt	hot	noise	
+video	graphic	software	pc	picture	stock	audio	image	onboard	movie	
+ultra	setting	fp	battlefield	high	skyrim	clocks	worth	bsod	dud	
+hour	minute	email	true	documentation	ton	slim	reasonable	pm	ca	
+texture	free	cheap	stream	dirt	minimal	intense	fresh	fancy	special	
+support	tech	pin	office	rock	folk	hardcore	station	vegas	playing	
+memory	mhz	core	clock	processing	compatibility	docking	mid	alot	worth	
+change	reading	resource	situation	shadow	difficult	perspective	tom	meg	clean	
+fast	google	brother	motherboard	gamer	overclocker	impressive	wei	payne	microsoft	
+game	graphic	number	gig	skyrim	current	gamer	plays	medium	download	
+setting	resolution	max	overclock	game	high	fp	monitor	framerate	skyrim	
+amd	intel	cpu	ram	dell	corsair	ghz	gb	ati	asus	
+rebate	purchase	huge	option	future	buy	consumption	price	gaming	addition	
+review	customer	decent	service	company	star	rating	evga	streaming	promotion	
+nvidia	radeon	geforce	gtx	ati	hd	celeron	quadro	whisper	previous	
+works	media	center	word	pc	windows	overclocker	hype	happier	sale	
+average coherence	-1249.2026247671176

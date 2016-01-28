@@ -1,0 +1,16 @@
+gps	feature	easy	screen	route	device	road	direction	traffic	trip	
+screen	button	menu	touch	video	program	power	large	previous	clear	
+windshield	case	hand	foot	arm	cost	optional	head	rugged	dashboard	
+printer	camera	monitor	touchscreen	mouse	server	keyboard	inexpensive	network	print	
+dash	question	answer	result	line	period	impressive	nuvus	cheaper	plenty	
+battery	model	life	charge	hour	car	cigarette	power	mileage	lighter	
+address	phone	deal	location	wrong	email	destination	number	big	bulky	
+customer	support	service	sale	tech	stress	rain	accident	defect	past	
+restaurant	card	sd	hotel	gas	station	roadmate	micro	separate	windows	
+computer	pc	simple	software	intuitive	laptop	windows	radio	mac	glass	
+road	option	car	track	future	home	correct	setting	heavy	warning	
+map	software	update	lifetime	compass	picture	traffic	datum	detailed	paper	
+free	ease	cheap	bright	alternate	plenty	advanced	gpx	extensive	affordable	
+suction	money	cup	gift	travel	gas	reading	station	construction	life	
+listing	post	streetpilot	talex	accurate	worth	easier	plenty	helpful	horrible	
+average coherence	-1281.453525298682

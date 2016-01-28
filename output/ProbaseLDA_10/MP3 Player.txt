@@ -1,0 +1,11 @@
+song	ipod	sound	device	easy	cd	screen	price	small	software	
+station	radio	gym	fm	library	reception	school	separate	market	dc	
+music	video	audio	sound	playlist	software	file	voice	folder	picture	
+cheap	convenient	special	expandable	everyday	usage	fancy	plastic	fresh	thin	
+battery	computer	life	track	charger	hour	water	case	usb	long	
+seconds	glad	microsoft	converter	careful	push	rechargeable	riovolt	gogear	crazy	
+button	car	star	real	main	adapter	home	person	square	strap	
+version	decent	bulky	multiple	quiet	wide	combination	mtp	alot	capable	
+intuitive	smart	limited	slower	today	enjoyable	pro	calus	frustrating	worth	
+line	point	money	bottom	mini	worth	microphone	tap	doesnt	curve	
+average coherence	-1277.1968798124221

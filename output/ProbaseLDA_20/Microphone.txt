@@ -1,0 +1,21 @@
+mic	headphone	ear	price	headset	noise	phone	pair	volume	cord	
+black	blue	white	bright	light	green	affordable	color	harsh	red	
+bass	star	laptop	pc	guitar	cable	megapixel	andrea	actual	flimsy	
+price	amount	mm	address	main	detail	current	location	thinksound	premium	
+plastic	battery	solid	metal	im	ca	worse	flexible	rubber	glass	
+picture	radio	construction	rubber	tape	led	glass	outdoor	film	azden	
+webcam	usb	skype	wifus	clearer	generation	brother	isolating	mm	application	
+trouble	careful	seconds	alright	wifus	lil	fuzzy	happier	impressed	dont	
+camera	money	shirt	wansview	bag	rock	garbage	stand	angle	waste	
+decent	description	bass	rating	mail	gamer	summary	midrange	today	mp	
+night	light	vision	camera	lighting	portion	worth	awkward	unusable	current	
+sound	headphone	button	clear	bass	touch	comfortable	pro	balanced	today	
+home	house	stock	car	equipment	error	investment	password	correct	portion	
+music	computer	video	software	voice	game	chat	song	audio	distortion	
+setting	camera	ip	address	resolution	multiple	bulky	pro	stage	grip	
+hard	area	soft	favorite	wall	inline	smooth	rough	longer	today	
+small	case	earphone	pickup	admin	cover	pouch	amp	audiophile	mm	
+device	monitor	speaker	power	audible	doesnt	isolating	flimsy	fuzzy	helpful	
+school	addition	office	noisy	world	downside	market	student	fidelity	secure	
+customer	adapter	service	ready	lol	man	acceptable	generic	btw	exception	
+average coherence	-1139.894939410168

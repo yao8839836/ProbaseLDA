@@ -1,0 +1,26 @@
+charge	aa	hour	sony	long	aaa	life	power	price	light	
+price	size	performance	feature	weight	automatic	fastest	past	worse	binoc	
+capacity	voltage	cost	status	capability	maha	site	situation	pro	weight	
+camera	money	mouse	bag	computer	sign	keyboard	timer	worth	adaptor	
+indicator	photo	light	environment	sturdy	monitor	dont	ca	lcd	past	
+rechargeable	alkaline	nimh	aa	eneloop	lithium	duracell	sanyo	cell	regular	
+dead	eye	chance	major	lack	useless	complaint	impossible	pain	longer	
+hot	temperature	reasonable	heat	weather	cold	cool	care	touch	station	
+canon	sony	nikon	panasonic	original	lenmar	ideal	coolpix	kodak	useless	
+optics	retail	helpful	hundred	faster	battry	dont	previous	international	additional	
+binoculars	button	star	image	stabilization	pair	moon	charm	separate	compartment	
+picture	lens	image	cap	glass	olympus	binocular	camera	stabilizer	binoc	
+review	company	charging	rating	factor	comment	vendor	critical	owner	today	
+digital	camera	player	photography	cd	longer	recharger	dont	previous	online	
+version	decent	multiple	entire	usable	binoc	longer	rechargable	hundred	reading	
+im	mah	maha	recharger	regular	longer	worth	dont	past	faster	
+enjoyable	batt	pricey	sony	sony	sony	sony	sony	sony	sony	
+mah	hundred	sturdy	regular	rechargable	mahacell	eneloops	sony	sony	sony	
+batt	regular	faster	battry	brother	sony	sony	sony	sony	sony	
+mah	longer	rechargable	similar	sony	sony	sony	sony	sony	sony	
+longer	dont	pro	binoc	sony	sony	sony	sony	sony	sony	
+today	binox	longer	cheaper	useless	sony	sony	sony	sony	sony	
+mah	useless	batt	binox	sony	sony	sony	sony	sony	sony	
+regular	longer	rechargable	worse	pricey	bino	batery	hassle	batt	sony	
+faster	biggest	sony	sony	sony	sony	sony	sony	sony	sony	
+average coherence	-799.028333615304

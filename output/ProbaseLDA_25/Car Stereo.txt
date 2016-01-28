@@ -1,0 +1,26 @@
+cable	device	radio	phone	audio	price	fm	transmitter	volume	music	
+call	phone	button	money	music	hook	mm	option	voice	incarcables	
+music	long	home	auxiliary	star	setting	ease	construction	easier	weak	
+setup	easy	paired	faint	capable	frustrating	technical	duty	appradio	book	
+ipod	cable	touch	radio	additional	sansa	tethering	classic	gen	shuffle	
+frequency	high	volume	low	range	higher	satisfied	strength	max	expectation	
+customer	service	seller	satechi	support	media	reviewer	sale	company	vendor	
+iphone	android	phone	case	software	app	smartphone	computer	radio	ipad	
+speaker	headphone	battery	case	life	jack	deal	speakerphone	amp	headset	
+sound	music	video	cable	touch	stock	static	easy	flimsy	system	
+review	company	decent	card	sd	picture	digital	rating	generation	soundfly	
+bluetooth	transmitter	fm	usb	phone	satechi	charger	internet	adapter	connection	
+light	multiple	usage	pro	accessible	paired	rid	satechi	decent	background	
+clear	blue	black	green	white	loud	reliable	helpful	red	smooth	
+ipod	pandora	aux	zune	input	hd	rid	satechi	word	helpful	
+star	surprise	satechi	paired	flimsy	happier	plenty	close	close	close	
+crutchfield	satechi	flimsy	impressed	incarcables	capable	worth	itube	frustrating	mic	
+happier	close	close	close	close	close	close	close	close	close	
+manual	satechi	impressed	crappy	longer	ca	frustrating	mfb	close	close	
+test	satechi	arliberator	audiophile	worth	rid	mediocre	close	close	close	
+usb	satechi	sturdy	horrible	skeptical	today	close	close	close	close	
+satechi	itube	similar	ultimate	close	close	close	close	close	close	
+paired	sturdy	impressed	frustrating	emergency	close	close	close	close	close	
+merchant	incarcables	additional	horrible	worst	shorter	happier	internal	occasional	longer	
+bionic	sturdy	additional	incarcable	dont	enjoyable	itube	cheapest	close	close	
+average coherence	-948.739483564763

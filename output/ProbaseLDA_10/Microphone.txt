@@ -1,0 +1,11 @@
+mic	sound	headphone	ear	price	headset	noise	phone	pair	camera	
+voice	recording	address	recorder	ip	email	guitar	ready	playback	bass	
+high	low	left	volume	higher	bass	price	end	mid	adequate	
+headphone	setting	plastic	picture	web	type	static	inexpensive	cheaper	range	
+sound	music	computer	video	software	audio	picture	touch	game	clear	
+usb	battery	laptop	camera	switch	webcam	cable	connection	router	internet	
+camera	money	purchase	gift	wansview	premium	damage	mail	correct	similar	
+easy	dragon	huge	admin	easier	picky	didnt	dont	doesnt	unusable	
+button	star	point	line	real	person	stock	fitting	area	equipment	
+savvy	cheaper	impressed	worse	gamer	ultimate	midrange	inexpensive	inexpensive	inexpensive	
+average coherence	-1224.3450692579713

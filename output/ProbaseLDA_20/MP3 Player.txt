@@ -1,0 +1,21 @@
+song	music	ipod	device	easy	sound	software	cd	file	radio	
+version	decent	multiple	horrible	round	alot	worth	pro	im	setup	
+jukebox	equalizer	effect	entire	nomad	description	crash	inferior	delay	accident	
+line	point	bottom	mini	entire	jazz	operating	tap	curve	khz	
+christmas	night	backlight	july	summer	underwater	detailed	cold	sturdy	heavier	
+screen	sd	card	gym	menu	larger	micro	slot	strap	wall	
+computer	usb	cable	connector	converter	protector	capable	faster	older	entire	
+finger	thumb	today	newer	ravemp	gapless	hand	foot	neck	arm	
+music	memory	video	money	playlist	picture	card	song	static	main	
+ear	hand	bud	digital	arm	head	phone	back	foot	neck	
+battery	sound	headphone	life	touch	speaker	light	earbud	track	deal	
+text	note	initial	caution	arrow	inside	pro	happier	horrible	worth	
+squaretrade	customer	simple	friend	competitor	expert	buyer	designer	yesterday	organizer	
+ready	shack	detailed	yesterday	preset	alot	worse	impossible	impressed	job	
+sony	coby	panasonic	terrific	previous	diamond	mother	wide	readable	calus	
+huge	superb	thin	familiar	bug	mtp	wmp	minus	archo	similar	
+button	star	real	plenty	machine	person	square	trade	warranty	dog	
+hassle	slower	calus	rechargable	device	device	device	device	device	device	
+car	home	phone	email	electronics	bulky	adapter	charger	longer	cell	
+internet	limited	larger	darn	europe	gogear	sturdy	koss	archo	bought	
+average coherence	-1141.4862285436109

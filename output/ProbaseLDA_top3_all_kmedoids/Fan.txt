@@ -1,0 +1,16 @@
+air	quiet	room	noise	speed	small	easy	night	case	remote	
+low	high	speed	setting	noise	air	highest	medium	temperature	higher	
+shipping	construction	packaging	assembly	return	cost	reasonable	fast	outage	furniture	
+purchase	air	movement	decent	life	effective	range	separate	building	pleasant	
+lasko	cpu	honeywell	intel	tower	motherboard	molex	kaz	previous	dell	
+angle	stand	glad	connector	dirt	bag	internal	impossible	direct	quieter	
+noisy	summer	air	hot	conditioner	conditioning	heat	dust	gentle	water	
+operation	works	word	sale	cheaper	similar	special	design	gpu	service	
+review	model	company	wrong	door	quieter	huge	previous	picture	research	
+light	computer	tv	electric	table	plenty	weight	laptop	stove	additional	
+house	home	car	option	stock	buy	china	machine	worth	future	
+plastic	screw	star	money	wire	blade	pin	metal	part	motherboard	
+netbook	gpu	screwdriver	socket	knob	purifier	cheaper	sturdy	important	round	
+circulation	air	bigger	motherboard	easier	worst	quieter	quietest	pro	baby	
+feature	price	ram	motherboard	worth	core	internal	cheaper	weight	impressed	
+average coherence	-1175.3076404522203

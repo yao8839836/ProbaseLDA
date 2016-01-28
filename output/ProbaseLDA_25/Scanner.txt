@@ -1,0 +1,26 @@
+software	epson	easy	hp	print	image	color	price	feature	usb	
+printing	fax	copy	print	photo	phone	machine	color	function	addition	
+computer	pc	laptop	customer	ram	sale	desktop	buyer	seller	radio	
+small	case	book	point	size	stylus	magazine	keyboard	mouse	internal	
+review	main	format	card	sd	result	rating	question	luck	medium	
+black	white	color	ink	clear	blue	cartridge	light	green	line	
+slide	film	negative	picture	photo	holder	image	wrong	plastic	print	
+paper	tray	hp	photo	sheet	flimsy	laser	police	larger	back	
+ink	machine	office	home	cartridge	dust	option	larger	router	equipment	
+document	page	instruction	email	feeder	word	receipt	automatic	direction	operating	
+version	decent	software	mac	contrast	preference	os	bulky	windows	newer	
+scan	photograph	photo	optical	slim	icon	similar	soft	functional	helpful	
+money	pen	camera	folder	worth	similar	bag	brochure	premium	angle	
+photo	device	document	picture	deal	image	instance	reference	handy	regular	
+scanning	document	copying	research	intuitive	program	ocr	library	mess	faxing	
+worth	brother	pixma	handy	papers	hundred	frustrating	canoscan	canoscan	canoscan	
+brother	easier	canoscan	today	unsharp	fix	disc	canoscan	canoscan	canoscan	
+inventory	mb	�	accessible	impressive	worth	previous	happier	pandigital	sale	
+driver	scangear	recent	horrible	scansnap	canoscan	canoscan	canoscan	canoscan	canoscan	
+nozzle	coolscan	cycle	happier	nicer	canoscan	canoscan	canoscan	canoscan	canoscan	
+scanjet	worse	happier	past	ca	worst	frustrating	nikon	defect	canoscan	
+impressed	laserjet	today	regular	grainy	lide	straightforward	canoscan	canoscan	canoscan	
+envelope	helpful	wifus	dimage	tray	canoscan	canoscan	canoscan	canoscan	canoscan	
+past	dimage	canoscan	worth	longer	easier	happier	significant	nikonscan	numerous	
+past	hundred	impressive	bigger	happier	internal	disappointing	impressed	accessible	im	
+average coherence	-1027.0054555528745

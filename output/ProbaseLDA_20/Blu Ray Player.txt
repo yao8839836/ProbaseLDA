@@ -1,0 +1,21 @@
+dvd	disc	tv	feature	wireless	easy	network	review	internet	connection	
+button	star	point	line	machine	real	bottom	person	power	identical	
+setting	seconds	panasonic	description	beginning	scene	automatic	slim	auto	summary	
+money	picture	camera	format	queue	skype	mbp	viewing	file	wall	
+youtube	pandora	windows	netflix	hulu	media	app	dlna	server	access	
+slow	limited	glitch	dumb	crazy	stupid	weak	picky	virtual	ugly	
+movie	software	firmware	option	dvd	latest	hd	future	file	mkv	
+performance	dvd	sd	repair	replacement	addition	installation	additional	reasonable	improvement	
+interface	usb	port	electronics	house	user	separate	wifus	attractive	card	
+remote	computer	tv	control	easy	convenient	television	iphone	select	challenge	
+stream	small	huge	higher	large	smaller	mail	adequate	today	bdp	
+video	picture	sound	audio	music	file	drive	image	usb	external	
+router	wireless	intuitive	connection	keyboard	network	internet	setup	modem	switch	
+version	definition	latest	trick	protocol	shared	earlier	countless	savvy	crappy	
+blue	ray	black	clear	screen	red	smooth	white	fair	icon	
+phone	company	place	email	hour	customer	state	exception	buyer	website	
+common	nas	happier	genre	worst	wifus	hesitant	qwerty	game	rock	
+job	password	ease	noise	decent	address	frustration	hookup	ip	regret	
+samsung	lg	sony	panasonic	tv	support	customer	buck	oppo	hdtv	
+netflix	streaming	vudu	pandora	stream	internet	app	movie	instant	blockbuster	
+average coherence	-1354.9609126009998

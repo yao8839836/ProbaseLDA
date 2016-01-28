@@ -1,0 +1,16 @@
+remote	disc	price	tv	feature	screen	picture	video	easy	review	
+simple	windows	pc	widescreen	intuitive	server	english	beware	circuit	dlna	
+black	blue	screen	bright	dark	picture	white	ray	green	thin	
+speaker	display	theater	home	sound	lcd	tv	antenna	dvr	monitor	
+sony	panasonic	toshiba	samsung	oppo	pioneer	tv	buck	audiovox	lg	
+battery	light	electronics	sound	life	multiple	hour	power	car	head	
+machine	region	free	equipment	code	cheaper	investment	stock	multi	house	
+firmware	game	wifi	alot	worth	worse	impossible	worst	oritron	software	
+small	higher	difficult	large	left	present	dog	cat	bigger	high	
+basis	players	cheaper	unable	worth	similar	longer	worse	wifus	larger	
+picture	sound	headphone	computer	sd	switch	music	door	cd	bass	
+remote	universal	select	avail	worth	impressed	alot	worst	regular	extended	
+money	setting	color	place	model	chapter	type	drawback	phone	cheaper	
+movie	karaoke	larger	cheaper	specific	saver	alot	horrible	play	changer	
+button	remote	menu	control	exception	reading	layout	background	glowing	onscreen	
+average coherence	-1189.9047546150055

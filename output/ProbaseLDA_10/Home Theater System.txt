@@ -1,0 +1,11 @@
+sound	speaker	dvd	home	player	tv	theater	remote	price	room	
+weak	lack	pain	ease	surprise	disappointment	doubt	ideal	hope	concern	
+option	customer	purchase	service	huge	sale	christmas	center	future	media	
+fact	device	decent	multiple	model	dollar	performance	sync	alot	sense	
+feature	price	surround	format	preset	reasonable	special	gauge	pro	bulky	
+money	speaker	tv	video	radio	ipod	audio	music	television	vcr	
+cable	wireless	tv	satellite	hdmus	box	speaker	optical	input	digital	
+speaker	separate	addition	shelf	glad	cabinet	level	proprietary	entry	additional	
+case	adapter	cheaper	biggest	ca	numerous	hdmus	happier	audiophile	brother	
+speaker	wall	back	wire	floor	room	bracket	front	plastic	rear	
+average coherence	-1368.7789123075213

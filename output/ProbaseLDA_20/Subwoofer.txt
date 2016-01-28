@@ -1,0 +1,21 @@
+sound	bass	cable	speaker	price	volume	room	low	audio	amp	
+speaker	money	stereo	amp	headphone	monitor	jack	case	tv	wire	
+big	strong	hard	adjustable	thin	affordable	passive	outstanding	honest	balanced	
+lack	hd	hope	regret	disappointment	surprise	thought	doubt	ease	fun	
+sound	light	rest	signal	touch	foot	muddy	color	taste	dark	
+clear	black	blue	light	sound	silver	led	white	red	green	
+movie	music	couple	single	game	subdude	background	double	concert	larger	
+crossover	level	entry	separate	control	mediabridge	worth	face	office	home	
+setup	home	theater	dock	gripe	worse	skeptical	impressed	ca	brother	
+system	sound	decent	home	theater	device	minus	audiophile	worth	today	
+star	distortion	point	real	button	house	equipment	wood	thump	explosion	
+music	price	size	performance	kind	area	range	weight	larger	limited	
+receiver	computer	input	onkyo	output	av	laptop	freq	snug	battery	
+floor	wall	window	room	ceiling	foot	door	corner	correct	kitchen	
+power	amp	ohm	watt	reasonable	channel	desk	soundbar	dual	boomy	
+purchase	bass	shipping	buy	price	huge	option	customer	sale	entertainment	
+boy	careful	seconds	ca	impressed	audiophile	newer	total	sturdy	shorter	
+poor	crazy	picky	comp	downside	audiophile	effective	interested	weak	female	
+cheap	energy	cd	plastic	electronics	construction	rock	dolby	retail	rubber	
+review	company	rating	splitter	picture	previous	enjoyable	impressed	internet	research	
+average coherence	-1229.9644408925221

@@ -1,0 +1,26 @@
+player	zune	media	file	device	box	ipod	tv	boxee	drive	
+money	folder	camera	watch	micca	mplay	stick	zunes	rock	angle	
+feature	player	price	effect	additional	faster	flawless	review	iaudio	typical	
+cable	battery	internet	life	radio	connection	intuitive	wireless	headphone	tv	
+video	music	song	file	movie	picture	audio	format	sound	zune	
+christmas	night	bright	holiday	zune	doggle	weekend	revue	season	light	
+content	point	format	setting	line	hope	local	device	online	form	
+lockup	gb	apple	worst	fix	accurate	plays	frustrating	cradle	pair	
+button	star	real	remote	control	power	wheel	center	scroll	menu	
+device	phone	model	micca	directory	dollar	ease	sense	performance	fact	
+small	case	cover	charger	decision	part	earphone	accessory	preset	mixed	
+version	decent	firmware	release	software	definition	newer	older	numerous	earlier	
+computer	hdd	speaker	tv	monitor	external	headphone	worst	slight	obsolete	
+kind	neat	honest	patience	freeware	weak	shared	confusing	reboot	tweaking	
+computer	keyboard	server	router	media	network	laptop	pc	wireless	sd	
+easier	impressed	shared	heavier	coverart	happier	pair	pair	pair	pair	
+unlimited	promising	newer	inability	wifus	bigger	micca	recent	earlier	helpful	
+select	mb	file	crappy	bitrate	drive	nbox	impossible	diverse	clever	
+preset	frustrating	happier	avus	revue	reboot	lousy	ca	unresponsive	typical	
+promising	diverse	heavier	freemake	cheaper	wifus	gripe	horrible	pro	avus	
+generation	metada	nbox	coverart	worth	worst	biggest	avus	usable	newer	
+iaudio	avus	impressive	pro	biggest	nbox	newest	minus	regular	numerous	
+gb	mkv	mp	micca	pro	fix	newer	nbox	avail	heavier	
+thousand	bigger	plenty	revue	impossible	reboot	numerous	alphabetical	tweaking	selection	
+mbp	gb	promising	seconds	nbox	savvy	metada	tweaking	helpful	avus	
+average coherence	-1158.610069356414

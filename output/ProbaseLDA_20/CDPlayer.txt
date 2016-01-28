@@ -1,0 +1,21 @@
+battery	price	song	remote	easy	disc	track	portable	volume	model	
+radio	money	tv	light	reception	station	worth	fm	clock	computer	
+star	line	point	luck	laser	inch	detail	cheaper	today	rating	
+car	kit	replacement	refund	stock	house	warranty	credit	skeptical	worth	
+kind	limited	sensitive	happier	ideal	audiophile	longer	ca	koss	stupid	
+picture	preset	movie	place	dvd	info	program	switch	regular	entire	
+vbr	mediocre	riovolt	koss	biggest	specific	wma	wav	word	text	
+sound	button	color	clear	video	touch	tinny	bulky	pass	distortion	
+cabinet	glad	bed	rechargable	shelf	impossible	drawer	table	thick	seperate	
+shower	deck	wall	road	door	window	strap	kitchen	birthday	floor	
+headphone	speaker	bass	pair	recorder	lover	minus	larger	tiny	slimx	
+alarm	ear	head	front	hand	bottom	back	phone	static	higher	
+tape	dvd	disk	hole	slightest	scratch	newer	fm	flaw	kinda	
+feature	price	worth	review	earlier	koss	flimsy	format	frustrating	direct	
+real	compartment	battery	score	separate	wma	toshiba	file	wav	plays	
+anti	stuff	auxiliary	input	lol	silver	van	skeptical	worst	worth	
+music	hum	hiss	radio	gripe	easier	longer	fanny	panasonics	happier	
+weather	main	size	special	sale	age	biggest	bumpy	usage	plenty	
+small	case	button	cover	flimsy	scene	round	backpack	mediocre	direct	
+music	book	folder	pack	heavy	audio	software	card	sd	paper	
+average coherence	-1162.4509732996894

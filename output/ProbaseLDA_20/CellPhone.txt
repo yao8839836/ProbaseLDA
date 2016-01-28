@@ -1,0 +1,21 @@
+screen	battery	headset	call	sound	price	easy	feature	ear	iphone	
+home	market	office	house	bar	pc	call	bulky	compatible	incoming	
+iphone	motorola	nokia	samsung	htc	ipad	lg	razr	plantronics	sony	
+android	flash	camera	basic	audio	everyday	combo	wifi	captivate	plenty	
+service	voice	card	software	user	sd	customer	micro	performance	music	
+email	video	contact	internet	message	instruction	photo	text	letter	web	
+fit	finish	slim	dialing	similar	guy	awkward	size	sturdy	operating	
+version	decent	grip	nokium	larger	nicer	worst	direct	vibrant	motorolum	
+memory	computer	seller	camera	customer	card	internal	buyer	smartphone	portable	
+night	light	storm	fm	landscape	bigger	christmas	frequency	actual	pro	
+plastic	black	white	rubber	blue	dust	solid	metal	film	green	
+number	color	shape	bug	rock	stick	yesterday	impressed	motorolum	rid	
+button	star	real	huge	volume	language	snug	person	home	sleek	
+point	scratch	text	hole	line	wrong	road	curve	flat	surface	
+cheap	smart	reliable	secure	wrong	intuitive	bright	affordable	fancy	pro	
+place	friend	telephone	alternative	sturdy	actual	easier	uncomfortable	frustrating	today	
+device	camera	money	picture	video	oem	laptop	image	playlist	slide	
+case	charger	cover	small	holster	hard	clip	seidio	droid	easier	
+base	holder	field	bigger	today	actual	sturdy	frustrating	kinda	fix	
+side	back	front	bottom	smaller	top	left	ear	superior	lower	
+average coherence	-1176.1742005583926

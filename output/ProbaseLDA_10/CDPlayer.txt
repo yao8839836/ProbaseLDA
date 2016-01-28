@@ -1,0 +1,11 @@
+sound	radio	price	feature	song	dvd	remote	button	easy	disc	
+button	book	picture	deck	audio	tape	range	static	compartment	bed	
+speaker	alarm	radio	clock	preset	adaptor	distortion	helmet	buzzer	hiss	
+battery	life	bass	hour	star	skip	pack	boost	heavy	glad	
+music	device	ipod	drawback	portable	pass	picture	playlist	person	round	
+blue	kind	black	laser	color	dark	white	limited	original	sensitive	
+score	bank	bar	rechargable	cheaper	koss	plenty	riovolt	longer	regular	
+money	car	kit	electronics	construction	stock	worth	equipment	waste	technology	
+christmas	night	beginning	bright	worst	light	similar	happier	worth	plenty	
+main	weather	bulky	site	gym	news	slim	school	age	shower	
+average coherence	-1160.4322765443653

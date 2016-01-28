@@ -1,0 +1,16 @@
+charge	sony	hour	price	canon	long	camera	power	alkaline	minute	
+high	low	higher	cost	temperature	price	reasonable	alkaline	bright	worse	
+size	sale	special	weight	situation	weather	pro	location	im	brother	
+light	simple	fan	tv	photography	batter	dont	entire	computer	enjoyable	
+process	decent	multiple	additional	faster	sturdy	maha	batery	entire	manual	
+wall	button	mouse	lens	outlet	glass	cord	wireless	cap	image	
+point	line	edge	today	bottom	defective	critical	color	batt	battry	
+difference	mode	range	sort	charging	maximum	larger	faster	pricey	average	
+charged	worse	batt	sturdy	longer	mahacell	plenty	usable	sony	sony	
+image	picture	device	photo	stabilization	video	automatic	entire	similar	binoc	
+travel	energy	electronics	oem	retail	china	packaging	europe	similar	international	
+life	home	equipment	house	purpose	bulky	market	car	stable	effect	
+aa	rechargeable	aaa	nimh	mah	eneloop	cell	lithium	energizer	sanyo	
+binoculars	star	bird	image	stabilization	real	pair	animal	eye	ship	
+camera	digital	money	canon	bag	olympus	worth	garmin	ideal	defective	
+average coherence	-1127.480822824834

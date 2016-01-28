@@ -1,0 +1,16 @@
+button	device	tv	easy	harmony	cable	function	box	dvd	component	
+camera	money	watch	accessory	shutter	bag	shake	picture	led	exposure	
+star	wall	car	pc	ipod	speaker	laptop	drawback	floor	entire	
+price	cost	expensive	worth	size	complexity	similar	fix	happier	impressive	
+seconds	push	upstairs	careful	dead	strange	everytime	adjustment	tune	entire	
+button	layout	intuitive	icon	screen	preset	channel	menu	combo	easier	
+setup	picture	photo	decent	image	easier	earlier	edit	tune	similar	
+battery	receiver	computer	tv	dvd	satellite	av	life	vcr	tuner	
+small	case	charger	cradle	strap	bag	battery	holder	tripod	opposite	
+light	foot	range	hand	radio	camera	signal	dark	sight	track	
+setting	solution	coffee	water	menu	beginning	conditioner	mode	easier	worth	
+tweaking	touch	pain	happier	worth	rid	worse	tactile	easier	select	
+home	equipment	theater	system	media	sale	advanced	flaw	satechi	run	
+customer	service	ease	electronics	support	vendor	window	shipping	discrete	reviewer	
+sony	player	tv	receiver	dvd	samsung	panasonic	handy	onkyo	toshiba	
+average coherence	-1261.5510498063484

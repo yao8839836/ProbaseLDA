@@ -1,0 +1,16 @@
+cable	speaker	signal	sound	volume	price	channel	system	wire	tv	
+ipod	picture	hd	car	laptop	player	usb	headphone	rm	music	
+hum	noise	hiss	audible	thump	sensitive	lepai	nicer	happier	ca	
+battery	main	wall	equipment	wiring	home	passive	stock	life	electronics	
+works	media	word	sale	ready	production	boostaroo	today	fio	ca	
+money	computer	light	phone	radio	option	shack	headset	rock	telephone	
+power	supply	ground	performance	wire	spec	channel	watt	adapter	direct	
+ear	foot	detail	head	trunk	hand	seconds	rabbit	worse	planet	
+digital	signal	analog	channel	cable	tv	internet	reception	booster	television	
+big	signal	house	strength	strong	hard	dc	kicker	durable	separate	
+feature	price	definition	earbud	dre	bigger	massive	happier	fiio	color	
+eq	bass	dynamic	equivalent	sd	audiophile	hdp	impressed	pro	stronger	
+sound	music	headphone	audio	video	voice	movie	device	game	fiio	
+review	decent	huge	entry	today	press	wonderful	combination	direct	newer	
+area	location	weather	adjustable	station	kohm	interested	proper	weight	outstanding	
+average coherence	-1243.7516205863512

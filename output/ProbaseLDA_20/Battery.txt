@@ -1,0 +1,21 @@
+charge	aa	hour	rechargeable	price	long	aaa	alkaline	power	nimh	
+small	case	cover	glad	bag	plastic	strap	ca	light	function	
+half	bright	automatic	hour	mah	longer	larger	brother	regular	care	
+size	price	eye	performance	weight	feature	bulky	effect	fastest	memory	
+sony	panasonic	sanyo	energizer	rayovac	duracell	eneloop	rechargable	ideal	longer	
+fast	hassle	cheaper	accurate	bank	system	scope	mind	company	aa	
+hand	higher	top	line	lower	front	side	bottom	edge	back	
+remote	tripod	tv	enjoyable	recharger	past	care	range	dont	hundred	
+canon	nikon	camera	olympus	kodak	defective	coolpix	past	sony	mah	
+temperature	amount	weather	warm	cold	situation	dont	defective	location	care	
+capacity	voltage	cost	status	capability	mah	site	lack	worth	faster	
+circuit	advanced	cheaper	sturdy	recharger	worth	accurate	international	technology	photography	
+quick	additional	critical	hundred	usable	faster	impressed	vacation	recharger	rechargable	
+camera	digital	binoculars	money	mouse	picture	bag	wireless	computer	sign	
+electronics	energy	oem	technology	china	retail	europe	international	crosse	bank	
+packaging	worldwide	factor	bigger	environment	major	cheaper	reading	photography	mechanism	
+life	car	equipment	short	independent	owner	ultra	ship	brother	office	
+indicator	light	monitor	cheaper	longer	larger	lcd	baby	impressed	faster	
+image	picture	button	wall	lens	photo	binoculars	glass	outlet	cap	
+purchase	service	option	buy	customer	sale	future	christmas	effective	batery	
+average coherence	-1150.8369722455332

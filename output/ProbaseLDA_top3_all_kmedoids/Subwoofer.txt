@@ -1,0 +1,16 @@
+speaker	sound	cable	bass	system	price	room	volume	low	receiver	
+klipsch	bose	speaker	harman	denon	ultra	mediabridge	pyle	fidelity	athena	
+logitech	laptop	ipod	phone	iphone	overwhelming	pioneer	mediabridge	impressed	skeptical	
+price	decent	dollar	extension	position	reference	realistic	pound	potential	thick	
+amp	bass	computer	music	distortion	watt	movie	acoustic	thump	explosion	
+power	floor	ohm	watt	reasonable	lack	channel	desk	dual	kardon	
+loud	car	star	foot	head	truck	hum	present	hand	enthusiast	
+jbl	sony	infinity	velodyne	dolby	vizio	powered	paradigm	pioneer	expert	
+big	strong	adjustable	thin	affordable	passive	hard	outstanding	easier	fosgate	
+purchase	shipping	price	buy	huge	option	customer	sale	service	entertainment	
+performance	plastic	durable	metal	el	im	overwhelming	ca	happier	audiosource	
+money	music	movie	electronics	construction	limited	worth	retail	rm	db	
+piece	crap	shack	overkill	direct	isnt	impressed	overwhelming	sturdy	xplod	
+driver	switch	inexpensive	starter	minus	mix	passenger	side	isub	hdmus	
+home	theater	system	component	equipment	tv	audio	house	splitter	stock	
+average coherence	-1197.688828552908

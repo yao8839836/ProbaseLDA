@@ -1,0 +1,26 @@
+price	sandisk	speed	class	phone	gb	file	sdhc	reader	easy	
+computer	scanner	money	photo	camcorder	house	megapixel	equipment	flatbed	home	
+samsung	battery	htc	lg	pny	dell	nokia	rebel	hp	supplier	
+sd	adapter	test	qd	setting	reasonable	car	story	duo	advertised	
+capacity	storage	cost	highest	main	carpathian	os	gopro	exact	variety	
+canon	phone	nikon	software	sansa	sony	android	laptop	pandigital	psp	
+life	experience	ease	bulk	decent	favorite	clarity	pro	cm	brother	
+tool	cheaper	gopro	typical	sturdy	happier	feehan	video	video	video	
+picture	video	photo	hd	movie	dslr	image	resolution	scanning	faster	
+case	small	pelican	bag	plastic	cover	solid	charger	sturdy	minus	
+retail	wrong	huge	addition	pro	viewfinder	defective	proof	china	current	
+transfer	thousand	rate	paper	question	acceptable	annoying	impossible	previous	faster	
+fast	google	lens	super	finepix	pro	impossible	recent	carpathian	mind	
+music	deal	shooting	media	photography	phone	reading	ton	gig	sale	
+app	mark	ship	entire	read	upload	market	newer	latest	collection	
+stick	read	faster	regular	video	video	video	video	video	video	
+random	iop	read	recent	today	past	ca	video	video	video	
+helpful	cheaper	acceptable	pro	worst	ton	video	video	video	video	
+gopro	cheaper	im	earlier	video	video	video	video	video	video	
+gopro	newer	previous	bigger	video	video	video	video	video	video	
+typical	recent	acceptable	previous	pro	happier	eye	video	video	video	
+additional	cheaper	faster	scandisk	carpathian	transcend	video	video	video	video	
+typical	worse	worth	impressed	sturdy	video	video	video	video	video	
+sturdy	today	longer	scandisk	video	video	video	video	video	video	
+cheaper	faster	impossible	worth	similar	scandisk	numerous	video	video	video	
+average coherence	-768.4906718809419

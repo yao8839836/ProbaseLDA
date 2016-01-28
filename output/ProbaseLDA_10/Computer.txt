@@ -1,0 +1,11 @@
+monitor	screen	tablet	color	price	display	app	android	device	easy	
+gp	packing	chip	heavier	expectation	quarters	thousand	sale	thicker	specific	
+main	question	lag	fire	weight	adjustable	native	kindle	slim	premium	
+software	system	operating	suite	tax	shipping	radeon	tune	breeze	dvr	
+hook	silver	netbook	removable	aluminum	snap	impossible	unbelievable	quarters	ziio	
+monitor	video	dvi	speaker	cable	tv	picture	vga	sound	hdmus	
+button	power	glass	wall	sleek	control	blurry	crystal	menu	clear	
+money	music	camera	movie	wrong	video	web	game	worth	surf	
+ipad	pc	asus	macbook	acer	iphone	widescreen	mac	imac	ipod	
+usb	keyboard	card	sd	port	hub	mouse	slot	router	tablet	
+average coherence	-1344.2096837594897

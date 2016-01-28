@@ -1,0 +1,11 @@
+usb	computer	laptop	external	cable	file	case	wd	power	price	
+software	manual	backup	part	guide	tv	book	ssd	documentation	capability	
+pc	ram	memory	processor	hp	server	cpu	network	seller	chipset	
+setup	gig	upload	sort	advanced	cumbersome	hundred	macpower	begin	galaxy	
+instruction	archos	jukebox	file	smartware	software	access	word	step	laptop	
+computer	connector	cable	continuous	motherboard	snap	outlet	circuit	gamer	superdrive	
+wrong	place	purchase	local	main	crash	sale	bulky	doesnt	usual	
+office	stable	house	pavilion	suite	school	library	bar	motherboard	archo	
+video	music	movie	sound	money	dvd	picture	photo	file	graphic	
+star	point	desk	button	real	huge	person	wall	car	stock	
+average coherence	-1248.083236415539

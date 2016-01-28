@@ -1,0 +1,11 @@
+band	light	easy	invicta	battery	casio	wrist	big	face	feature	
+hand	side	back	top	dress	wrist	bottom	case	shirt	edge	
+cost	rugged	accuracy	durability	hope	lack	comfort	luminous	convenience	money	
+job	decent	weight	noise	address	degree	accurate	numerous	sturdy	term	
+water	resistance	bulky	site	shower	pool	adjustable	spring	today	dressy	
+minute	hour	hand	true	proof	readout	bigger	similar	impressive	accurate	
+alarm	timer	stopwatch	clock	countdown	feature	calculator	backlight	date	bell	
+large	small	wrist	difficult	face	number	size	tick	field	kenneth	
+price	occasion	low	worth	purchase	direct	bigger	setup	mother	easier	
+kind	temperature	subtle	feminine	visible	pressure	altitude	moisture	readout	protector	
+average coherence	-1235.8269852345818

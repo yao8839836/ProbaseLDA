@@ -1,0 +1,11 @@
+device	tv	easy	harmony	receiver	dvd	player	function	system	component	
+button	setting	menu	channel	screen	press	volume	function	input	device	
+battery	touch	media	sight	charge	pain	electronics	sort	rechargeable	back	
+configurable	happier	view	simpler	easier	fix	today	past	pricey	tough	
+intuitive	cost	slow	combo	weak	crazy	genius	glitch	docking	movement	
+camera	strap	tripod	timer	lens	decoder	pack	flexible	worth	tough	
+feature	review	price	preset	situation	reasonable	microsmith	correct	important	bulky	
+box	cable	tv	cabinet	range	room	closet	foot	bedroom	door	
+star	point	line	ease	select	inch	present	minus	curve	bottom	
+tv	money	picture	camera	watch	software	video	photo	dvd	music	
+average coherence	-1243.721344172203

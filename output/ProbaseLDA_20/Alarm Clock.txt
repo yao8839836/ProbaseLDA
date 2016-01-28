@@ -1,0 +1,21 @@
+sound	light	easy	battery	button	night	display	feature	radio	room	
+loud	sound	obnoxious	breeze	volume	biggest	pro	ticking	doesnt	previous	
+nightstand	desk	table	glad	bedside	bed	dresser	larger	mother	asleep	
+cool	cute	rain	temperature	power	attractive	outage	savings	daylight	thunderstorm	
+job	noise	water	drawback	class	improvement	tired	movement	crosse	larger	
+bright	light	red	white	blue	display	green	color	pink	noise	
+elgin	reliable	date	china	handy	phone	school	junk	place	travel	
+long	background	located	line	noise	rule	fair	woods	accurate	menu	
+warranty	bonus	delivery	increment	horrible	pleasant	sweetheart	past	gradual	older	
+price	hour	minute	worth	soleil	numeral	occasion	location	helpful	preference	
+money	picture	photo	image	watch	device	music	readable	bigger	internal	
+huge	cost	surprise	fan	disappointment	worry	flimsy	hope	accurate	longer	
+super	readable	bigger	travelmate	end	end	end	end	end	end	
+button	bed	light	snooze	wall	easier	pillow	dalek	hotel	frequency	
+favorite	disappointed	sound	constant	plenty	generic	surprised	downside	random	mother	
+review	company	decent	preset	variety	helpful	cycle	customer	feature	press	
+nap	addition	life	sort	everyday	fake	close	worth	bigger	flimsy	
+home	replacement	house	refund	readable	plenty	equity	computer	warranty	saving	
+fact	idea	intuitive	concept	lack	crosse	similar	bought	doesnt	brother	
+timex	casio	tricky	sony	similar	brookstone	horrible	woods	soothing	mother	
+average coherence	-1109.79746537176

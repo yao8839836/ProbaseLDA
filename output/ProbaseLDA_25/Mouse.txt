@@ -1,0 +1,26 @@
+button	battery	hand	logitech	wheel	scroll	wireless	small	easy	comfortable	
+gaming	option	purchase	buy	huge	charge	future	sale	christmas	vendor	
+laptop	computer	usb	bluetooth	desktop	money	notebook	pen	wireless	switch	
+touch	performance	precision	accuracy	response	sensitivity	sound	portability	result	speed	
+cheap	responsive	convenient	decent	multiple	ease	darkfield	smooth	thin	dirty	
+couple	single	seconds	ready	crazy	double	cradle	careful	dark	battery	
+keyboard	game	color	key	photoshop	simple	gaming	video	music	number	
+software	wrong	presentation	manual	word	document	picture	mode	everyday	major	
+device	tab	term	gadget	firmware	select	input	shift	usable	deathadder	
+edge	delay	description	resolution	fps	flash	resistance	slight	sturdy	unresponsive	
+explorer	intellimouse	firefox	microsoft	weird	alot	worse	trackpad	dpus	past	
+action	light	night	current	typical	instant	easier	bright	recent	happier	
+side	button	left	bottom	top	front	higher	handed	lower	rear	
+plastic	surface	desk	pad	table	glass	technology	ball	rubber	led	
+home	office	tech	wide	market	support	station	bar	combination	school	
+wont	similar	today	handed	unique	incredible	minus	deathadder	keyboard	keyboard	
+worse	worth	sturdy	frustrating	happier	deathadder	lock	keyboard	keyboard	keyboard	
+sturdy	latest	gamer	pro	hesitant	im	keyboard	keyboard	keyboard	keyboard	
+regular	gamer	ergonomic	keyboard	keyboard	keyboard	keyboard	keyboard	keyboard	keyboard	
+lock	biggest	worst	today	typical	keyboard	keyboard	keyboard	keyboard	keyboard	
+trackpad	usable	past	today	wont	skeptical	keyboard	keyboard	keyboard	keyboard	
+worse	heavier	minus	frustrating	keyboard	keyboard	keyboard	keyboard	keyboard	keyboard	
+past	previous	worth	heavier	wont	mmo	typical	keyboard	keyboard	keyboard	
+unresponsive	horrible	yr	typical	frustrating	spec	keyboard	keyboard	keyboard	keyboard	
+jumpy	longer	wont	frustrating	keyboard	keyboard	keyboard	keyboard	keyboard	keyboard	
+average coherence	-854.8977129108447

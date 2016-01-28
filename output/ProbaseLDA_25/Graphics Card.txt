@@ -1,0 +1,26 @@
+game	video	driver	graphic	fan	gtx	price	power	performance	case	
+fan	temperature	noise	heat	speed	kind	clock	increase	mhz	sound	
+dell	amd	asus	corsair	intel	buck	hp	xfx	dimension	psu	
+pc	computer	windows	video	xp	gaming	vista	aero	index	physx	
+star	overclock	video	space	highest	onboard	lag	spec	hand	pro	
+stock	support	compatible	tech	media	delivery	atx	sale	retail	claim	
+inch	degree	intensive	pixel	lack	documentation	creed	ca	compatibility	resource	
+max	maximum	average	setting	game	minimum	min	frequency	mode	range	
+setting	game	max	ultra	fp	high	crysis	battlefield	skyrim	fps	
+power	supply	life	decent	connector	auto	greater	gameplay	special	eyefinity	
+aware	safe	mode	driver	software	overclocker	dud	impressed	ca	program	
+difference	playback	video	addition	processing	sim	dvd	switching	correction	equal	
+memory	resolution	performance	size	monitor	texture	color	noisy	internal	larger	
+dvi	vga	monitor	port	hdmi	adapter	laptop	hdmus	cable	usb	
+ram	cpu	ghz	gb	processor	core	system	memory	mhz	ssd	
+slower	bitcoin	today	worse	worth	bsod	nvidium	newest	brother	monitor	
+shader	tm	adaptive	iceq	overclocked	slus	playable	quieter	pro	slower	
+overclocked	mark	yesterday	gamer	slus	eyefinity	past	happier	sturdy	visiontek	
+past	pro	cheaper	mark	wei	atx	active	ccc	monitor	monitor	
+atx	tarjeta	cheaper	nvidea	monitor	monitor	monitor	monitor	monitor	monitor	
+round	easier	tarjeta	internal	overclocker	slower	vrm	impossible	alot	direct	
+xfire	master	gamer	worth	smoother	impressive	larger	early	atx	monitor	
+check	yesterday	nvidea	today	pro	slus	easier	eyefinity	hundred	dud	
+bsod	nvidea	extreme	pro	overclocker	adaptive	brother	regular	round	monitor	
+playable	sturdy	worse	overclocked	brother	larger	plenty	impressed	meg	ca	
+average coherence	-991.1704637344983

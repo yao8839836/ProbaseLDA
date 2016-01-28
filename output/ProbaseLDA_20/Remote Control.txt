@@ -1,0 +1,21 @@
+button	device	easy	tv	harmony	function	cable	receiver	box	system	
+couple	single	button	photo	soft	dslr	careful	seconds	gripe	limit	
+range	mode	low	sort	push	frequency	higher	total	max	high	
+minute	hour	phone	email	reasonable	true	today	matter	microsmith	round	
+common	onkyo	cheaper	pro	typical	larger	specific	happier	additional	soundbridge	
+lack	confusing	dedicated	rid	happier	shipping	worth	additional	recent	fix	
+battery	computer	charger	favorite	main	life	television	aaa	aa	charge	
+radio	plastic	shutter	electronics	car	couch	discrete	entire	closed	rubber	
+touch	tweaking	pain	fix	worth	happier	accurate	techie	tedious	tactile	
+small	case	cradle	contact	rechargeable	additional	pouch	cheaper	odd	microsmith	
+blue	button	icon	clear	black	red	sync	color	pip	slight	
+delay	ease	combo	description	specific	longer	responsive	hundred	docking	changer	
+ir	cd	equipment	rf	player	receiver	app	sensor	coffee	table	
+button	iphone	switch	intuitive	ipod	located	direct	car	laptop	larger	
+wall	door	back	strap	cabinet	cost	floor	addition	window	glass	
+place	company	research	location	price	capability	situation	drawback	lag	fire	
+camera	money	front	bag	tripod	shutter	picture	accessory	shake	photo	
+setting	solution	water	conditioner	beginning	newer	satechi	easier	additional	round	
+tv	dvd	player	tivo	receiver	watch	vcr	input	box	cable	
+transmitter	fm	headphone	breaker	outlet	fix	tedious	changer	round	simpler	
+average coherence	-1188.499485507226

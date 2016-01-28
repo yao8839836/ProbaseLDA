@@ -1,0 +1,16 @@
+player	zune	device	media	file	box	ipod	tv	drive	boxee	
+car	house	cost	home	additional	special	mbp	stock	equipment	ease	
+half	interesting	powerful	hour	full	awful	rca	output	cable	nbox	
+computer	digital	western	intuitive	media	tv	player	television	camera	im	
+album	card	router	star	artist	song	wrong	sd	music	switch	
+lack	hope	entertainment	ease	disappointment	support	address	neat	frustration	spec	
+review	decent	rating	av	luck	star	hiccup	category	previous	def	
+option	money	customer	purchase	future	huge	christmas	service	zune	sale	
+navigation	itune	menu	alot	official	clunky	surf	exception	nbox	tweak	
+netflix	youtube	hulu	microsoft	app	internet	pandora	vudu	streaming	connection	
+library	team	boxee	micca	pad	sd	bb	electronics	gig	slideshow	
+fast	tv	google	msn	method	regard	esa	revue	wdtvlive	wont	
+video	music	picture	file	movie	sound	audio	format	software	zune	
+wide	size	bulky	requirement	thick	weird	tool	os	resolution	yprpb	
+setting	result	memory	character	conclusion	definition	question	communication	language	default	
+average coherence	-1361.2752982254465

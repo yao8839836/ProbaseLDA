@@ -1,0 +1,26 @@
+easy	display	feature	loud	minute	snooze	room	small	number	travel	
+job	noise	weight	drawback	similar	harder	sweetheart	past	recent	water	
+review	picture	company	image	sharper	huge	decent	preset	everyday	press	
+sound	light	noise	white	sleeper	correct	soother	bright	machine	volume	
+button	top	buzzer	bell	dalek	present	star	beep	whistle	breeze	
+seconds	couple	single	trooper	photo	storm	bigger	readable	past	larger	
+radio	money	switch	watch	savings	tv	accurate	waste	longer	reception	
+cheap	convenient	free	fancy	durability	larger	affordable	reality	faint	interesting	
+setting	mode	lowest	frequency	range	difference	increment	improvement	additional	close	
+timer	phone	dimmer	switch	intuitive	soleil	cycle	lamp	bedside	favorite	
+night	light	rain	christmas	weekend	backlight	thunderstorm	summer	bedside	additional	
+addition	hotel	doctor	designer	flimsy	longer	accurate	impressed	sweep	customer	
+china	device	end	today	bigger	accurate	brother	worth	past	regular	
+setting	option	home	friend	school	music	birthday	description	separate	gift	
+battery	power	aa	backup	case	plastic	main	table	bedside	solar	
+junk	accurate	crosse	horrible	worth	impossible	mother	end	end	end	
+accurate	bigger	helpful	cheaper	impressed	worst	biobrite	end	end	end	
+bought	longer	horrible	cheaper	projection	end	end	end	end	end	
+brother	accurate	awake	unique	end	end	end	end	end	end	
+accurate	mother	worst	plenty	end	end	end	end	end	end	
+regular	harder	jarring	worse	end	end	end	end	end	end	
+file	mother	worst	end	end	end	end	end	end	end	
+brother	bought	crosse	bigger	unique	impressed	recent	additional	end	end	
+office	doesnt	accurate	box	end	end	end	end	end	end	
+rule	lowest	bigger	helpful	cheaper	similar	larger	end	end	end	
+average coherence	-843.1436589045549

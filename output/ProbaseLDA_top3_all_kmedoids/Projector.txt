@@ -1,0 +1,16 @@
+screen	image	movie	picture	price	bulb	easy	tv	hour	home	
+light	sound	room	picture	speaker	video	dark	black	movie	color	
+point	star	pixel	inch	power	color	line	price	wheel	presentation	
+wall	ceiling	screen	white	alarm	room	image	foot	middle	window	
+cable	audio	battery	screw	button	vga	input	hdmus	power	lens	
+standard	mode	eco	church	av	widescreen	lamp	stuff	vivid	limited	
+device	speaker	deal	monitor	laptop	shift	netbook	port	earlier	round	
+resolution	brightness	contrast	screen	diagonal	main	native	color	gain	watt	
+surprise	loss	toy	hope	thought	pain	feeling	attention	disappointment	shame	
+picture	video	cable	computer	laptop	instruction	dvd	vga	iphone	pc	
+friend	place	height	page	usable	alternative	manner	email	address	footprint	
+color	vibrant	blurry	entire	flimsy	list	terrific	biggest	oppo	movement	
+money	house	camera	lack	equipment	correct	simple	hole	credit	sense	
+epson	panasonic	sony	vivitek	powerlite	support	pj	onkyo	mitsubishi	sanyo	
+feature	review	format	factor	effect	previous	favi	worst	pleasant	enjoyable	
+average coherence	-1351.3906328108112

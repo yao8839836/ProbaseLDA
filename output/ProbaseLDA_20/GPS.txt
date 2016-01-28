@@ -1,0 +1,21 @@
+gps	feature	easy	device	route	car	direction	traffic	software	tomtom	
+lack	worry	surprise	stress	frustration	doubt	shame	dislike	pleasure	disappointment	
+exit	ease	field	parking	mileage	route	complete	alternate	rugged	optional	
+city	place	town	tom	area	street	wrong	magellan	trip	europe	
+point	button	star	real	interest	person	area	familiar	detailed	present	
+bright	disappointed	page	zone	detailed	sunlight	constant	widescreen	accurate	daylight	
+error	message	trial	worse	worth	pro	bigger	nuvus	roadmate	mapsource	
+screen	monitor	suction	touch	heart	large	rate	easy	printer	tree	
+powerful	impressed	worth	nuvus	cheaper	worst	optional	magellan	magellan	magellan	
+intuitive	location	reading	plenty	weather	nav	system	decent	pronunciation	everyday	
+navigation	sd	card	reviewer	system	advanced	reset	european	streetpilot	updates	
+works	sale	word	hr	novice	variety	marketing	actual	longer	development	
+watch	money	camera	bag	heavy	connector	combination	toy	angle	recent	
+map	update	software	lifetime	computer	compass	free	traffic	picture	recent	
+road	street	drive	highway	trip	unfamiliar	recognition	nearest	streetpilot	nuvus	
+information	input	output	gig	meridian	nuvus	feedback	platinum	unnecessary	proprietary	
+model	restaurant	hotel	gas	construction	manufacturer	food	electronics	navigational	relative	
+speed	review	limit	description	rating	category	heartrate	recommendation	worse	luck	
+address	deal	phone	email	destination	number	location	big	bulky	mapsource	
+support	customer	cigarette	question	lighter	rain	accident	longer	cloudy	heat	
+average coherence	-1193.7578722327146

@@ -1,0 +1,11 @@
+cable	remote	device	tv	input	button	hd	easy	box	key	
+keyboard	controller	game	pc	mouse	wireless	key	pad	switch	arc	
+works	word	special	charm	happier	im	wintv	complete	past	today	
+drive	hard	usb	flash	soft	directional	headphone	ergonomic	dual	motherboard	
+computer	selector	addition	portable	playback	upload	close	push	ur	drop	
+video	sound	game	picture	software	audio	movie	hd	file	image	
+place	cost	friend	main	shipping	exact	page	edition	older	footprint	
+feature	price	format	definition	factor	reasonable	high	impossible	effect	native	
+money	watch	stick	tape	square	garbage	spare	feed	bug	dust	
+battery	black	cable	plastic	white	green	cd	pack	dollar	blue	
+average coherence	-1255.6102355315406

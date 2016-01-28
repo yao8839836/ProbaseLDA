@@ -1,0 +1,11 @@
+sound	system	price	volume	bass	small	room	ipod	review	high	
+klipsch	jbl	app	altec	lansing	iphone	sony	denon	wharfedale	corsair	
+music	movie	sound	home	picture	video	theater	game	audio	option	
+wire	monitor	wall	button	plastic	screw	cable	metal	separate	wood	
+price	part	service	performance	media	electronics	sale	construction	customer	hotel	
+setting	wrong	bulky	wide	soft	present	heat	comparable	slim	genre	
+driver	term	inexpensive	regular	boombox	adjustable	highest	xtrememac	additional	age	
+computer	radio	money	tv	headphone	light	jack	stereo	internet	mm	
+noise	rock	stick	paper	pillow	clutter	tweaking	run	flaw	dust	
+iphone	phone	ipod	handset	ipad	case	rechargeable	laptop	call	charger	
+average coherence	-1280.9200385309719

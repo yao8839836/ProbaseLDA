@@ -1,0 +1,21 @@
+cable	screen	price	remote	box	easy	sony	hd	picture	signal	
+review	company	sd	decent	card	ota	preset	outdoor	previous	ups	
+service	warranty	delivery	customer	replacement	part	cost	refund	advice	free	
+device	monitor	speaker	pc	rechargeable	internal	roku	ups	nbox	extended	
+function	glad	array	avus	specific	helpful	huluplus	decision	tray	object	
+money	tuner	camera	button	resolution	portable	eyetv	keyboard	fm	scanner	
+home	bedroom	room	kitchen	living	house	theater	office	compatible	school	
+repair	viewing	sale	favorite	splitter	addition	recording	av	dyyno	absolute	
+color	deal	number	research	crt	pc	circuit	comparison	intuitive	reading	
+result	format	question	period	answer	comment	conclusion	clearer	caption	impressive	
+station	antenna	mile	local	library	signal	vhf	direction	hd	laptop	
+power	area	performance	electronics	signal	strength	extended	lack	supply	moment	
+antenna	location	condition	address	run	adjustable	cheaper	limitation	realistic	closer	
+city	india	grand	chicago	pleasant	stud	uk	mark	rep	wega	
+dvd	player	vcr	tivo	replaytv	roku	file	avi	mkv	bigger	
+television	computer	radio	bass	stereo	clock	monitor	sync	range	superb	
+component	usb	battery	cable	hdmi	input	video	switch	router	port	
+picture	sound	video	audio	movie	speaker	game	image	software	file	
+black	lamp	color	white	blue	light	red	level	dark	screen	
+channel	angle	antenna	hd	star	connector	local	square	equipment	stock	
+average coherence	-1266.8645151107507

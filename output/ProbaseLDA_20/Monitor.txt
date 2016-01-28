@@ -1,0 +1,21 @@
+screen	display	rate	garmin	heart	price	easy	color	feature	run	
+lcd	tv	crt	laptop	movie	lamp	panel	samsung	favorite	dvd	
+battery	power	performance	electricity	cost	longer	electronics	low	correct	ground	
+training	garmin	center	software	biking	tool	hr	marathon	equipment	information	
+sport	function	reading	fitness	cradle	grainy	mechanism	film	impressive	awful	
+model	manufacturer	warranty	customer	service	female	bigger	helpful	cheaper	suunto	
+speaker	signal	alarm	wall	electric	preset	meter	socket	worthless	accurate	
+watch	button	money	strap	camera	stand	case	sceptre	charger	dot	
+disappointed	pain	factor	frustration	disappointment	surprise	world	doubt	worn	uncomfortable	
+resolution	game	print	mileage	map	music	graph	summary	dvd	impossible	
+sony	benq	samsung	support	trinitron	nike	similar	technical	sharper	suunto	
+life	battery	decent	auto	chance	hour	happier	ease	vacation	subtle	
+pixel	point	dead	line	star	inch	screen	pro	viewable	edge	
+version	multiple	dozen	cheapest	defective	brighter	inaccurate	impressed	software	decent	
+color	calibration	reasonable	rich	reproduction	printing	hundred	hookup	developer	scaling	
+range	mode	accuracy	bezel	average	price	maximum	frequency	hz	similar	
+device	car	intuitive	internet	gadget	return	motionbased	extended	kwh	pro	
+picture	video	card	black	light	sound	brightness	white	touch	photo	
+pc	windows	mac	xp	driver	dell	asus	separate	acer	latest	
+computer	quick	remote	printer	television	mouse	keyboard	widescreen	readable	camera	
+average coherence	-1278.5843603900864

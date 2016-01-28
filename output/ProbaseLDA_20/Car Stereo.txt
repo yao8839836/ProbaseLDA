@@ -1,0 +1,21 @@
+device	phone	ipod	radio	music	volume	fm	price	easy	iphone	
+phone	call	email	wrong	bulky	impressed	satechi	drawback	firmware	incoming	
+sound	button	touch	ipod	clear	video	speaker	music	mm	system	
+iphone	money	vehicle	stock	option	reasonable	future	dongle	equipment	camera	
+road	thick	plastic	half	thin	sturdy	cord	additional	flimsy	past	
+hand	foot	free	bass	previous	picture	ear	face	tight	slim	
+small	case	charger	iphone	cable	usb	adapter	mhl	cover	windshield	
+shipping	auxiliary	price	construction	technology	packaging	town	electronics	electrical	fast	
+surprise	ease	main	hope	period	annoyance	exact	pain	doubt	disappointment	
+android	phone	smartphone	headset	usb	pc	windows	laptop	bt	music	
+case	audiovox	otterbox	ideal	easier	satechi	sturdy	incarcables	appradio	today	
+cable	ipod	connection	aux	internet	wireless	deal	player	length	usb	
+radio	switch	card	sd	direct	hdmus	itube	internal	station	generation	
+head	seconds	cut	impossible	satechi	sturdy	worst	today	itube	hand	
+computer	cord	remote	range	itrip	control	dock	speaker	older	gadget	
+music	simple	phone	call	place	streaming	house	slimline	commute	upgrade	
+cheap	decent	functionality	strength	durability	convenient	reliable	past	smooth	practical	
+bluetooth	transmitter	fm	satechi	phone	iphone	speakerphone	device	receiver	capability	
+connector	star	cable	angle	sturdy	prompt	satechi	contact	worth	channel	
+audio	wire	plug	battery	jack	life	headphone	usb	socket	gp	
+average coherence	-1283.68372050254

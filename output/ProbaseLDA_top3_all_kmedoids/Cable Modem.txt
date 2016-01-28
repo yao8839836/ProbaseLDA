@@ -1,0 +1,16 @@
+speed	internet	motorola	connection	service	signal	docsis	easy	box	minute	
+strength	streaming	ip	voip	sb	netflix	inserter	faster	mbps	longer	
+light	id	instruction	mac	manual	direction	indicator	handy	important	decent	
+router	computer	wireless	money	linksys	equipment	power	ethernet	switch	dbmv	
+price	feature	size	design	active	located	horrible	linksy	happier	slower	
+deal	wiring	offline	savings	static	properties	circuit	direct	ubee	cheaper	
+simple	pc	computer	laptop	tv	windows	mac	glass	television	desktop	
+model	support	sticker	advice	ease	previous	closest	avg	explanation	active	
+mbp	speed	list	star	setting	web	rating	test	weak	additional	
+number	picture	tv	video	movie	netflix	hd	game	previous	online	
+address	mac	place	company	number	ip	friend	minute	highest	constant	
+upstream	wall	power	downstream	level	faulty	disconnection	lack	interruption	doci	
+activation	page	chance	process	min	easier	rid	earlier	similar	impressed	
+network	performance	home	reliability	window	cost	rent	earlier	provision	newer	
+case	small	glad	mbps	warrantee	faster	horrible	past	dependable	wifus	
+average coherence	-1240.354079848756

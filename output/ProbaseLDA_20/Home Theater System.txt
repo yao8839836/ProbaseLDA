@@ -1,0 +1,21 @@
+sound	tv	dvd	home	theater	cable	remote	price	player	input	
+price	decent	device	fact	model	dollar	performance	range	addition	sense	
+level	volume	surround	entry	bulky	wide	shuffle	authorized	ridiculous	usual	
+high	low	higher	separate	end	sound	volume	left	adequate	bass	
+connector	channel	computer	wire	circuit	city	angle	bracket	portable	knob	
+radio	ipod	headphone	phone	larger	station	laptop	intuitive	newer	numerous	
+speaker	sound	wire	rear	front	light	subwoofer	center	wireless	tv	
+movie	couple	music	single	seconds	situation	slim	unable	careful	soft	
+half	prologic	ready	av	compatible	favorite	hour	mess	worst	variety	
+button	wall	real	point	speaker	equipment	remote	floor	tiny	machine	
+huge	size	room	hope	result	small	adjustment	medium	breeze	reasonable	
+multiple	sale	total	shipping	media	charge	theatre	tax	credit	password	
+setting	stuff	tone	term	products	advanced	beginning	straightforward	company	worst	
+format	action	memory	scene	sacd	attention	tinny	audiophile	phenomenal	today	
+dvd	cd	tivo	divx	vcd	directv	dv	audiophile	worth	pro	
+clear	sound	blue	black	sync	light	crystal	affordable	red	white	
+disc	dvd	money	player	star	disk	tray	changer	screw	dongle	
+noise	defective	electronics	lack	ease	ray	impossible	terrific	special	surprise	
+expensive	research	obvious	beautiful	alot	rare	aspect	connectivity	listening	crossover	
+back	foot	ear	head	hand	field	disappointing	face	microphone	eye	
+average coherence	-1273.2389450791281

@@ -1,0 +1,16 @@
+mic	sound	ear	price	headphone	headset	phone	camera	noise	bass	
+camera	money	home	ip	address	house	email	stock	wireless	accurate	
+head	cam	web	gear	previous	happier	inline	cubeternet	concerned	worst	
+battery	headphone	dollar	range	black	cd	blue	white	glass	power	
+music	sound	background	touch	noise	bass	song	construction	game	chat	
+side	left	higher	front	lower	bottom	end	adequate	superior	portion	
+plastic	setting	type	picture	web	static	inexpensive	older	frequency	back	
+zoom	gain	resolution	main	focus	premium	location	favorite	generation	easier	
+pc	laptop	school	desktop	material	office	market	tech	mess	dell	
+feature	size	price	area	password	program	thinksound	pro	cheaper	variety	
+kind	sensitive	current	honest	noise	thinksound	flimsy	worth	variety	cheaper	
+sound	video	voice	audio	software	picture	camera	clear	image	quiet	
+small	case	tip	pickup	cover	pouch	bag	amp	feed	ear	
+headphone	computer	headset	earphone	iphone	pair	laptop	mm	speaker	recognition	
+button	star	point	person	real	line	dragon	equipment	huge	machine	
+average coherence	-1257.922854695429

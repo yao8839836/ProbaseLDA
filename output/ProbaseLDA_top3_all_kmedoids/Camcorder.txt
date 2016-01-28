@@ -1,0 +1,16 @@
+feature	sony	video	price	easy	screen	tape	zoom	image	lens	
+white	black	solid	blue	balance	smooth	affordable	red	fancy	green	
+shooting	action	photography	outdoor	wedding	sport	party	soccer	indoor	travel	
+digital	zoom	optical	analog	tape	format	minidv	vhs	resolution	regular	
+canon	sony	panasonic	jvc	elura	hf	sharp	limited	previous	nikon	
+computer	pc	firewire	cable	mac	software	intuitive	editing	card	widescreen	
+dvd	windows	file	hd	resolution	movie	impossible	film	snapshot	impressive	
+color	live	darker	fisheye	saturation	flimsy	doesnt	earlier	camara	past	
+noise	motor	job	highest	setting	wind	complete	age	effective	background	
+tape	button	star	seconds	electronics	vixia	shoot	present	minus	plastic	
+review	sd	card	decent	door	huge	company	interested	snap	luck	
+money	home	life	equipment	car	stock	house	separate	phone	expensive	
+video	picture	software	photo	movie	image	editing	audio	hd	capture	
+small	battery	charger	case	size	strap	bag	external	optional	hard	
+light	battery	low	sound	lighting	night	picture	color	scene	hour	
+average coherence	-1371.040667117359

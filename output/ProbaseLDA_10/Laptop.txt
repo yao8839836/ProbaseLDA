@@ -1,0 +1,11 @@
+battery	price	fan	dell	power	usb	memory	screen	macbook	hour	
+keyboard	mouse	screen	speaker	monitor	bass	touchpad	key	headset	wireless	
+case	bag	charger	notebook	small	pocket	book	backpack	typing	room	
+dvd	ipad	windows	car	construction	iphone	regular	widescreen	bluetooth	phone	
+strap	window	compartment	shoulder	wall	table	brick	floor	road	tape	
+cheap	bright	ease	convenient	biggest	luck	easier	everyday	silent	capable	
+version	wide	decent	bulky	school	ca	similar	worth	snug	anker	
+pad	inexpensive	ready	protector	anker	paper	heavier	cooling	touch	limit	
+surface	wrong	fan	noise	huge	adjustable	highest	separate	run	term	
+loud	big	fan	afraid	ultimate	today	faster	regular	skeptical	longer	
+average coherence	-1188.8331006920594

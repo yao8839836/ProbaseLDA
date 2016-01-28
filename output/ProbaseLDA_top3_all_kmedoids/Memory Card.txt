@@ -1,0 +1,16 @@
+sandisk	price	speed	class	photo	picture	phone	gb	case	sdhc	
+sd	transfer	adapter	case	media	addition	sale	insert	standard	upload	
+gig	worth	highest	main	generic	return	clarity	favorite	trust	sync	
+stick	plastic	sleeve	current	paper	run	dust	bubble	odd	factory	
+device	deal	money	app	end	viewfinder	system	internal	wallet	china	
+canon	nikon	fuji	fujifilm	sony	panasonic	rebel	camcorder	supplier	similar	
+phone	hour	minute	true	email	decent	instruction	proof	regular	formatting	
+scanner	computer	pc	phone	photo	android	simple	windows	desktop	smartphone	
+case	holder	battery	charger	electronic	recent	today	specific	worth	internal	
+picture	video	setting	test	music	thousand	ton	car	plenty	software	
+higher	side	hand	wrong	top	bottom	copy	edge	lower	line	
+point	book	star	real	dslr	button	house	curve	home	person	
+price	performance	cost	ease	reasonable	bulk	mode	os	acceptable	annoying	
+photo	image	music	file	raw	video	software	movie	picture	place	
+cheap	random	read	qd	iop	sequential	manner	mb	timely	aperture	
+average coherence	-1146.7666172397012

@@ -1,0 +1,26 @@
+screen	price	fan	memory	dell	macbook	power	review	easy	hp	
+player	heat	ready	limitation	slim	limit	correct	mistake	impressed	earlier	
+notebook	netbook	money	pc	tablet	windows	mac	ipad	asus	camera	
+battery	usb	life	port	hour	power	charge	dell	replacement	original	
+speaker	keyboard	mouse	charger	headphone	sound	headset	key	wireless	microphone	
+purchase	option	shipping	buy	bass	price	vendor	charge	detail	construction	
+model	series	edition	writer	cheaper	crappy	im	care	earlier	worth	
+drive	hard	fan	previous	road	filter	dvd	surprise	file	street	
+case	small	bag	typing	logic	pouch	burner	magazine	past	frustrating	
+cheap	decent	bright	free	convenient	ease	luck	everyday	silent	lack	
+sound	software	video	picture	dvd	music	game	movie	wrong	huge	
+feature	wide	adjustable	highest	bulky	term	airflow	fan	hdmus	newer	
+customer	reviewer	quick	service	student	class	management	fix	previous	support	
+fast	school	aspire	college	monster	google	mother	ca	previous	longer	
+pocket	bag	button	backpack	book	purse	briefcase	side	map	tad	
+ghz	sturdy	faster	ca	ram	gb	os	macbook	macbook	macbook	
+led	impressed	impressive	previous	minus	today	macbook	macbook	macbook	macbook	
+worth	wifus	previous	fix	dvd	macbook	macbook	macbook	macbook	macbook	
+window	socket	starter	thick	today	cheaper	bigger	motherboard	specific	macbook	
+ca	address	easier	previous	usable	biggest	macbook	macbook	macbook	macbook	
+worse	today	impressed	thick	gamer	neat	macbook	macbook	macbook	macbook	
+cheaper	sturdy	worse	significant	impossible	macbook	macbook	macbook	macbook	macbook	
+genuine	sturdy	faster	similar	earlier	happier	macbook	macbook	macbook	macbook	
+motherboard	bigger	earlier	useless	ubuntu	macbook	macbook	macbook	macbook	macbook	
+related	impressed	worth	macbook	macbook	macbook	macbook	macbook	macbook	macbook	
+average coherence	-878.3806108927545

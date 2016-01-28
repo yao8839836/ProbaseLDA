@@ -1,0 +1,21 @@
+recording	battery	easy	file	device	button	usb	voice	small	sound	
+option	purchase	college	buy	class	note	gift	student	car	sale	
+star	line	deal	glad	mm	text	static	affordable	instance	pro	
+point	inch	luck	special	recognition	gig	rechargable	living	helpful	curve	
+student	careful	pain	guy	stamp	rec	xq	musician	seconds	strange	
+price	hour	wrong	decent	multiple	improvement	email	detail	cost	similar	
+computer	pc	file	usb	mac	windows	software	cable	connection	simple	
+home	sd	friend	poor	capture	client	micro	advanced	project	vista	
+radio	laptop	ipod	intuitive	fm	mac	itunes	macbook	tinny	recorded	
+music	sound	wma	file	format	audio	player	wav	song	video	
+software	money	folder	audio	purse	place	book	table	cassette	ton	
+feature	preset	index	worse	greater	specific	vcva	easier	past	format	
+voice	digital	main	function	reasonable	comparison	condition	sort	bulky	lack	
+olympus	sony	digital	voice	model	ideal	support	sandisk	helpful	past	
+clear	recording	sound	highest	playback	setting	faint	essential	extender	center	
+memory	practice	rehearsal	card	learning	attention	language	feedback	similar	plenty	
+microphone	speaker	computer	headphone	stereo	sound	mic	recording	jack	external	
+school	negative	bar	soft	tight	alternative	horrible	pro	past	auditorium	
+sensitive	pocket	shirt	red	kind	black	breeze	blue	silver	white	
+media	word	operation	works	records	ready	hr	alot	player	sale	
+average coherence	-1231.429329943302

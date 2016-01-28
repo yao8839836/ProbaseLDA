@@ -1,0 +1,21 @@
+monitor	screen	tablet	price	display	easy	review	app	lcd	xoom	
+line	background	bottom	photo	everyday	slim	icon	font	soft	logo	
+internet	customer	email	service	local	rebate	streaming	website	phone	consistent	
+star	honeycomb	wrong	lack	run	reason	scratch	crack	square	planar	
+office	market	house	home	suite	library	cinema	separate	school	theater	
+color	video	picture	text	image	monitor	card	sharp	graphic	clear	
+fast	google	app	college	yahoo	fix	today	trinitron	sturdy	archo	
+black	screen	white	music	green	glass	glossy	color	wall	blue	
+comparable	awful	happier	satisfactory	thicker	envision	monitor	monitor	monitor	monitor	
+inch	pixel	monitor	foot	ton	pound	potential	lb	gamer	frustrating	
+sony	samsung	toshiba	hp	monitor	dell	viewsonic	asus	acer	nec	
+os	sale	special	works	fp	operation	dad	inferior	ram	prone	
+money	camera	stand	notebook	angle	worth	rock	extra	bigger	present	
+sd	card	hour	minute	charge	slot	battery	port	file	full	
+resolution	setting	brightness	contrast	main	screen	decent	lag	native	higher	
+android	keyboard	tablet	cable	app	market	mouse	phone	ipad	bluetooth	
+touch	sound	screen	disappointment	internal	sensitive	memory	respect	feeling	ipod	
+device	monitor	speaker	picture	usb	hub	similar	dim	typical	bigger	
+monitor	case	small	cover	charger	printer	board	tuner	actual	downside	
+desk	table	dock	radio	tv	bed	paper	ac	darker	light	
+average coherence	-1298.4733000224408

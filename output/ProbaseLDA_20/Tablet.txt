@@ -1,0 +1,21 @@
+device	screen	app	easy	price	review	stylus	android	archos	usb	
+ipad	android	computer	kindle	app	iphone	nook	xoom	laptop	pc	
+volume	everyday	writing	obvious	situation	intuitive	docking	exception	duo	tone	
+video	music	photo	picture	movie	game	place	app	file	document	
+option	hand	setting	bamboo	head	future	ink	decent	solution	weight	
+touch	sound	speaker	color	screen	headphone	number	ipod	jack	audio	
+pen	battery	money	book	life	paper	headset	hour	computer	pad	
+case	cover	charger	typing	stand	back	touchpad	thrive	car	bag	
+light	tv	printer	simple	cable	lcd	phone	hdmus	microsdhc	safe	
+black	bright	light	screen	blue	white	tiny	green	affordable	red	
+kind	sensitive	neat	potential	feedback	generous	truth	easier	frustrating	minus	
+remote	gadget	frustrating	control	unresponsive	iconia	worth	ac	mother	viewpad	
+small	responsive	slow	screen	touch	ease	glitch	crazy	aesthetic	led	
+toshiba	sony	samsung	hp	asus	galaxy	thrive	precise	dell	tab	
+keyboard	mouse	sd	card	usb	radio	button	router	wireless	cable	
+market	android	app	mine	google	school	factory	electronics	road	library	
+model	warranty	ebook	part	refund	size	delivery	ram	reader	active	
+christmas	night	beginning	landscape	holiday	portrait	worth	helpful	frustrating	impressive	
+expensive	cost	beautiful	price	entire	proper	bigger	archo	connectivity	size	
+performance	material	mail	present	result	viewing	finish	velocity	potential	equipment	
+average coherence	-1307.0763541325837

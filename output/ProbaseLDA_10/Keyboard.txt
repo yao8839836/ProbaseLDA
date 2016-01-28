@@ -1,0 +1,11 @@
+key	mouse	usb	logitech	button	type	computer	laptop	easy	wireless	
+typing	key	letter	number	star	word	instruction	email	shift	picture	
+touch	pain	sound	tactile	lack	lag	strain	sight	cut	pressure	
+finish	slim	location	led	durability	size	style	resistance	prior	luck	
+hand	finger	wrist	foot	rest	eye	back	comfortable	pad	arm	
+microsoft	ibm	model	mind	aaa	developer	active	sd	gtv	seamless	
+desk	mouse	laser	range	computer	room	couch	table	chair	living	
+blue	light	key	red	dark	black	white	bright	color	purple	
+price	content	performance	special	cost	hope	numeric	stock	material	sale	
+battery	ipad	money	life	plastic	case	dust	responsive	ir	construction	
+average coherence	-1287.654161783083

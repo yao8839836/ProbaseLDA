@@ -1,0 +1,11 @@
+game	driver	monitor	power	computer	fan	setting	gtx	system	high	
+corsair	gb	intel	wow	diablo	asus	starcraft	ghz	cpu	master	
+hope	surprise	defective	wide	city	lack	arkham	integrated	republic	rage	
+video	graphic	game	computer	pc	windows	picture	onboard	image	type	
+performance	overclock	price	customer	software	service	support	user	tech	email	
+money	stock	rebate	online	option	lol	quieter	check	tight	extended	
+star	setting	highest	game	lag	playback	bottom	line	sim	minimal	
+fast	google	vertex	pro	overclocked	news	easier	recent	cheaper	nvidea	
+windows	forum	youtube	compatible	gig	linux	ram	test	station	project	
+case	small	fan	part	tower	large	cpu	room	size	board	
+average coherence	-1304.7071633145713

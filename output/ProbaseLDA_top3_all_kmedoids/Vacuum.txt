@@ -1,0 +1,16 @@
+suction	carpet	hose	easy	attachment	floor	power	cleaner	brush	job	
+model	manufacturer	bagless	target	construction	cheaper	sears	technology	limited	vacuums	
+dog	hair	cat	floor	wood	carpet	pet	tight	real	hardwood	
+long	bare	floor	life	battery	cord	furniture	button	simple	instruction	
+car	purchase	customer	option	service	buy	huge	christmas	cumbersome	variety	
+position	vaccuum	pain	main	upright	smell	kind	adjustable	sound	ergonomic	
+vac	hand	cordless	bagless	previous	toggle	worth	inconvenience	snap	pivot	
+review	wrong	company	bulky	decent	door	research	everyday	consumer	buster	
+side	back	bottom	front	higher	lower	plastic	top	berber	upper	
+low	high	min	average	satisfied	expectation	moment	medium	shorter	strength	
+machine	house	car	home	pile	equipment	trunk	inside	picture	stock	
+bag	belt	money	filter	paper	dust	hepa	cloth	stick	washable	
+quick	housing	frequent	special	slight	reliable	concerned	worst	portability	minus	
+cleaning	stuff	setting	carpet	crevice	tool	middle	thicker	upholstery	inside	
+ability	age	food	maneuverability	minus	worthwhile	direct	recharge	worst	condition	
+average coherence	-1259.372995865529

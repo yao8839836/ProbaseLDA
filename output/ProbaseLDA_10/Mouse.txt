@@ -1,0 +1,11 @@
+button	hand	wheel	wireless	laptop	usb	keyboard	computer	scroll	pad	
+battery	microsoft	life	razer	aa	dell	rechargeable	precise	windows	wacom	
+setting	action	game	hope	fps	dpus	release	handed	memory	starcraft	
+feature	review	price	dpus	ease	cost	cheapest	braided	spec	alot	
+small	case	notebook	pen	hand	cover	charger	size	typing	bag	
+button	side	extra	left	favorite	wide	combination	dpus	shortcut	customizable	
+star	bottom	glass	top	plastic	surface	major	vertical	table	dirty	
+replacement	technology	wrong	warranty	everyday	piece	numerous	paper	construction	overdrive	
+ball	combo	table	slide	picture	intellipoint	zoom	track	wooden	roller	
+logitech	mx	software	wireless	optical	microsoft	cordless	laser	revolution	driver	
+average coherence	-1280.1170166476286

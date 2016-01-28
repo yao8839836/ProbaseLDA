@@ -1,0 +1,11 @@
+print	ink	printing	page	easy	color	hp	machine	price	software	
+computer	money	pc	usb	software	laptop	camera	wireless	network	cable	
+price	difficult	drawback	premium	delivery	yield	electronics	construction	sort	brother	
+cartridge	ink	toner	cost	replacement	page	case	expensive	small	full	
+photo	picture	image	color	print	document	text	printing	graphic	pdf	
+individual	tank	brother	previous	past	regular	connected	aio	designjet	mother	
+epson	canon	lexmark	hp	ink	deskjet	past	workforce	experience	artisan	
+hp	canon	dell	laserjet	pixma	buck	officejet	samsung	sony	microsoft	
+paper	fax	tray	photo	jam	sheet	scanner	feed	document	feeder	
+black	color	white	clear	ink	cartridge	magenta	print	half	yellow	
+average coherence	-1421.9644539804124

@@ -1,0 +1,16 @@
+sound	speaker	dvd	home	theater	player	price	subwoofer	remote	receiver	
+tv	cable	radio	input	hdmus	audio	dvd	vcr	sound	television	
+separate	sony	app	panasonic	avr	ebay	specific	products	bestbuy	advanced	
+hour	true	minute	sound	level	entry	price	extended	doesnt	email	
+christmas	weekend	ideal	holiday	stupid	friday	evening	gizmo	rich	didnt	
+loud	volume	whistle	bell	hz	pro	fluance	htib	newer	audiophile	
+wall	speaker	floor	wire	addition	room	window	bracket	rear	shack	
+button	remote	menu	star	control	surround	hook	tiny	light	handy	
+speaker	back	wire	front	electronics	foot	rock	black	ear	head	
+video	movie	music	audio	game	internet	netflix	switch	pandora	ease	
+movie	couple	music	single	seconds	ready	situation	dvd	careful	selector	
+picture	money	device	ipod	music	image	rich	worth	camera	tinny	
+setting	stuff	tone	term	beginning	internal	worth	volume	worst	quot	
+small	room	large	higher	multiple	speaker	sound	huge	living	left	
+result	material	question	location	prologic	midrange	hdmus	today	rich	easier	
+average coherence	-1310.9263479802423

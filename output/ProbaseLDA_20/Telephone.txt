@@ -1,0 +1,21 @@
+ear	price	pair	ipod	noise	bass	battery	volume	comfortable	handset	
+digital	iphone	cable	sync	dsi	balanced	usb	micro	responsive	muzx	
+white	black	solid	blue	red	high	green	mid	pink	minimal	
+customer	service	company	performance	fair	disappointment	aware	hope	lack	doubt	
+sound	speaker	touch	clear	voice	speakerphone	pro	crystal	genre	hearing	
+place	friend	telephone	alternative	landline	flexsmart	worst	accurate	impressed	ghz	
+music	video	tv	movie	picture	audio	construction	game	software	dj	
+wrong	word	instruction	gym	simple	pc	works	website	portapro	research	
+cord	plastic	rubber	metal	long	wire	short	extension	thick	pro	
+side	higher	line	left	bottom	lower	top	superior	adequate	amplifier	
+button	star	clip	deal	headband	big	pen	snug	cradle	mm	
+tight	wall	desk	tape	floor	kitchen	door	window	base	glass	
+capacity	mhz	technology	worst	sturdy	significant	today	earphones	upto	pro	
+office	home	period	question	material	muddy	secure	result	sd	noisy	
+led	external	pack	treadmill	jogging	current	specific	newtrent	press	mid	
+sale	manual	suction	budget	cup	detailed	operation	special	production	variety	
+money	connector	case	camera	book	strap	bag	worth	combination	internal	
+couple	careful	seconds	single	entry	bedroom	casual	phonebook	portapro	happier	
+computer	stylus	remote	microphone	speaker	monitor	laptop	bulky	aux	silent	
+head	cd	bass	dollar	radio	arm	car	stock	hand	mid	
+average coherence	-1165.4380280766593

@@ -1,0 +1,21 @@
+battery	screen	dell	power	price	usb	memory	macbook	hour	review	
+purchase	option	service	customer	bass	buy	shipping	vendor	detail	college	
+place	vaio	sony	huge	wide	address	mark	plenty	handy	oem	
+bag	pocket	button	backpack	silent	purse	briefcase	sturdy	plenty	worth	
+side	bottom	front	top	lower	wall	line	edge	upper	larger	
+cheap	free	bright	ease	fancy	affordable	rebate	beginning	bootcamp	capable	
+charge	operating	gig	credit	ram	check	today	afraid	regular	larger	
+picture	video	music	photo	editing	movie	everyday	configuration	word	download	
+wrong	slow	crazy	weak	laptopmate	easier	impressed	thick	bright	universal	
+speed	price	performance	mode	range	adjustable	ready	highest	luck	term	
+padding	tape	protector	thick	useless	laptopmate	comfy	sturdy	material	earlier	
+job	noise	lack	doubt	inferior	unhappy	housing	overheating	larger	today	
+drive	hard	dvd	road	filter	street	file	wiring	starter	glossy	
+life	battery	home	compartment	office	house	school	purpose	equipment	client	
+color	left	con	true	performance	decent	design	higher	adequate	sufficient	
+case	notebook	small	bag	book	typing	room	pen	pouch	accessory	
+strap	star	real	point	shoulder	machine	person	factory	bed	shorter	
+speaker	keyboard	mouse	charger	headphone	headset	sound	key	ipad	microphone	
+pc	mac	windows	dvd	player	asus	simple	mini	located	targus	
+fan	light	money	tv	table	switch	camera	movie	widescreen	incredible	
+average coherence	-1183.2492247865364

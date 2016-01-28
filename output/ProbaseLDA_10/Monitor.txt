@@ -1,0 +1,11 @@
+screen	garmin	display	color	easy	computer	price	watch	lcd	feature	
+glare	graphical	greater	pace	runkeeper	inaccurate	ca	accurate	pro	horrible	
+price	huge	hdmus	size	condition	age	weight	visible	input	email	
+workout	track	intuitive	software	datum	widescreen	pace	fix	helpful	accurate	
+rate	heart	performance	bulky	speed	decent	pace	lag	elevation	favorite	
+feedback	hdmus	helpful	ease	slight	potential	specific	worn	critical	everyday	
+device	picture	watch	money	video	card	laptop	speaker	camera	photo	
+glass	wall	plastic	stylish	wood	table	metal	white	floor	black	
+polar	base	water	field	temperature	noticable	skype	sharper	lorex	inaccurate	
+couple	movie	single	seconds	fitness	rest	game	cradle	careful	proper	
+average coherence	-1267.4174735710037

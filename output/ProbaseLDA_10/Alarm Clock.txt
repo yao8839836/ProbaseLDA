@@ -1,0 +1,11 @@
+sound	light	button	easy	battery	display	feature	loud	minute	snooze	
+deep	sleeper	bought	accurate	asleep	regular	entire	horrible	worth	impossible	
+star	wars	point	background	fan	inch	everyday	present	brighter	line	
+money	picture	image	photo	sharper	china	watch	device	junk	music	
+night	light	rain	middle	christmas	temperature	weekend	thunderstorm	plenty	downside	
+price	power	shipping	outage	delivery	construction	close	electronics	increment	worth	
+instruction	manual	addition	preset	dst	website	internal	located	rule	past	
+radio	favorite	fm	weather	cycle	location	improvement	personal	preference	worse	
+noise	job	white	decent	drawback	mother	biobrite	tired	asleep	additional	
+annoying	loud	wide	awakening	helpful	downside	awake	sleeper	worst	worse	
+average coherence	-1132.7912132935699

@@ -1,0 +1,26 @@
+screen	garmin	display	price	easy	rate	color	feature	training	heart	
+battery	black	light	sound	brightness	white	touch	color	screen	contrast	
+speaker	signal	print	alarm	printer	summary	preset	electric	uneven	mixed	
+computer	lcd	tv	crt	laptop	dvd	lamp	favorite	samsung	charger	
+side	higher	smaller	screen	lower	bottom	back	resolution	line	top	
+google	fast	college	school	news	worst	worse	accurate	hundred	horrible	
+eye	dead	pixel	race	ease	pain	age	face	frustration	disappointment	
+rate	heart	star	strap	road	native	web	tree	resolution	regular	
+panel	flat	hand	foot	desk	wall	plenty	arm	head	static	
+reading	fitness	music	reasonable	gadget	sale	regular	photography	minus	impossible	
+latest	interesting	factor	world	wet	biggest	highest	reproduction	worn	responsive	
+metric	cheaper	kwh	plenty	pro	impressive	weird	start	compass	weight	
+watch	money	camera	house	equipment	investment	longer	power	electronics	consumption	
+version	decent	multiple	lorex	past	previous	minus	happier	quicker	mixed	
+picture	video	card	image	game	graphic	software	photo	resolution	movie	
+worst	longer	brother	ca	noticable	older	older	older	older	older	
+worthwhile	past	previous	stuck	helpful	gamer	happier	older	older	older	
+horrible	envision	worthwhile	realistic	worthless	older	older	older	older	older	
+skype	cam	pace	pro	accurate	larger	impressed	easier	im	happier	
+watt	bigger	greater	impossible	older	older	older	older	older	older	
+kwh	cheaper	previous	pace	additional	stuck	sturdy	older	older	older	
+select	pace	worthwhile	specific	today	clunky	older	older	older	older	
+cable	worthwhile	today	worst	hz	older	older	older	older	older	
+trinitron	past	impressed	latest	realistic	older	older	older	older	older	
+inaccurate	plenty	bigger	worst	impressed	sporttracks	uneven	older	older	older	
+average coherence	-916.2851701361673

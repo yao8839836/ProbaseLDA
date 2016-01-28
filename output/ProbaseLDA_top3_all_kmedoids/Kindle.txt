@@ -1,0 +1,16 @@
+screen	tip	price	finger	device	clip	end	tablet	note	pen	
+deal	wrong	email	bulky	place	weight	wide	greasy	address	limit	
+compact	android	bluetooth	film	digital	sync	accurate	boxwave	pricey	refill	
+black	red	clear	blue	boxwave	color	silver	half	gem	affordable	
+cost	reasonable	price	area	minor	slim	major	frustrating	bigger	horrible	
+hand	grip	decent	head	arm	bed	back	table	leg	foot	
+fire	question	easier	boxwave	worth	acase	bookgem	accurate	briefcase	tool	
+game	book	option	reading	picture	number	touchpad	music	shape	future	
+disappointed	favorite	frustrated	angry	generic	helpful	pricey	similar	bookgem	push	
+pen	touch	iphone	phone	money	ipod	car	cable	keyboard	typing	
+rubber	tip	plastic	paper	metal	screen	glass	piece	fabric	soft	
+droid	generation	boxwave	amazonbasics	longer	easier	accurate	harder	impossible	heavier	
+finger	print	thumb	wrist	impressed	boxwave	flimsy	pricey	swipe	tap	
+light	cover	color	responsive	pressure	weight	heavy	glove	main	flimsy	
+star	general	stuff	classy	boxwave	elago	nataal	cheaper	frustrating	manufacturer	
+average coherence	-1171.3794869456585

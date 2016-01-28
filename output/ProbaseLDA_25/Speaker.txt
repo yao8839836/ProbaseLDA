@@ -1,0 +1,26 @@
+price	system	sound	room	computer	bass	small	high	battery	audio	
+money	bass	wrong	car	house	equipment	worth	lap	joy	hotel	
+phone	monitor	price	review	glad	rating	paper	bigger	cheaper	file	
+ipod	bose	app	iphone	sony	dock	yamaha	system	dual	pioneer	
+soft	present	playback	door	sort	slim	view	suitable	helpful	window	
+volume	control	bass	low	level	decent	loud	distortion	balance	listening	
+music	movie	picture	video	option	game	party	computer	software	song	
+setting	tone	bulky	wide	delivery	airplay	resolution	brightness	specific	foxl	
+black	plastic	solid	blue	metal	bright	light	white	water	rubber	
+sound	clear	system	small	bass	room	rich	decent	crystal	bigger	
+touch	memory	thought	feeling	surprise	hearing	taste	book	earbud	wifus	
+color	gauge	wire	gamer	impressed	easier	accurate	kardon	bigger	today	
+range	frequency	noise	mode	apple	improvement	amount	minute	low	term	
+size	price	media	weight	technology	sale	tech	performance	plenty	style	
+wall	desk	floor	wood	cost	audioquest	ceiling	compatible	capability	hdmus	
+gamer	previous	round	suitable	happier	impossible	wheel	jbl	jbl	jbl	
+shower	today	gamer	worth	jbl	jbl	jbl	jbl	jbl	jbl	
+worth	thick	today	foxl	soundstick	jbl	jbl	jbl	jbl	jbl	
+worth	longer	soundstick	jbl	jbl	jbl	jbl	jbl	jbl	jbl	
+helpful	unusable	usual	wifus	promedia	jbl	jbl	jbl	jbl	jbl	
+home	wifus	kef	im	today	jbl	jbl	jbl	jbl	jbl	
+low	extreme	previous	audiophile	jbl	jbl	jbl	jbl	jbl	jbl	
+gamer	jbl	jbl	jbl	jbl	jbl	jbl	jbl	jbl	jbl	
+headset	impressed	impressive	thick	easier	worth	accurate	helpful	worst	jbl	
+watt	thick	spectacular	accurate	audiophile	azkhar	happier	pricey	impossible	jbl	
+average coherence	-882.1132539973217

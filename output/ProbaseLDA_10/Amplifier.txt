@@ -1,0 +1,11 @@
+cable	signal	sound	channel	volume	price	tv	audio	bass	system	
+speaker	headphone	battery	sound	light	pair	power	wire	fuse	mm	
+ohm	switch	computer	input	watt	headphone	volt	connector	wall	vhf	
+music	decent	life	battery	tight	auto	male	comp	favorite	hdp	
+radio	laptop	ipod	button	shack	portable	computer	microphone	ipad	handset	
+heat	night	bright	christmas	summer	cold	fosgate	dont	similar	powerfull	
+money	equipment	audio	wall	stock	copper	electronics	dbmv	vehicle	option	
+splitter	range	signal	cable	frequency	simple	speed	strength	modem	internet	
+power	supply	wire	ground	performance	spec	speaker	adapter	plenty	media	
+home	phone	theater	passive	system	house	stereo	market	description	dc	
+average coherence	-1341.1726711936067

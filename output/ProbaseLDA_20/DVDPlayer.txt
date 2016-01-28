@@ -1,0 +1,21 @@
+remote	disc	tv	price	screen	panasonic	review	easy	machine	cable	
+loud	big	blu	cheaper	worth	today	sturdy	cheapest	ray	past	
+battery	light	car	electronics	life	power	multiple	hour	dark	regular	
+progressive	folk	disney	american	philips	ray	accurate	sturdy	glad	earlier	
+output	input	video	component	audio	digital	tv	dolby	optical	age	
+apex	cyberhome	audiovox	compartment	separate	multi	business	sony	cheaper	easier	
+sd	card	real	special	description	lack	size	larger	plays	durability	
+button	remote	wire	performance	power	wall	exception	memory	intuitive	usb	
+digital	computer	tv	receiver	television	optical	cable	analog	laptop	pc	
+playback	widescreen	close	upscaling	eject	upconversion	instant	cumbersome	favorite	additional	
+windows	initial	dlna	server	transition	unable	fix	dissapointed	impressed	mention	
+disc	star	ear	hand	head	error	failure	dvd+r	scratch	plastic	
+black	clear	picture	blue	screen	color	white	green	ray	sharp	
+drive	headphone	road	usb	hard	antenna	flash	surprise	pack	speaker	
+picture	sound	movie	video	audio	cd	music	speaker	image	home	
+vcr	internet	dvr	vod	pro	similar	bigger	lcd	camera	dont	
+feature	price	cheaper	extended	additional	format	easier	similar	blu	bought	
+customer	service	buyer	support	sale	seller	retailer	addition	business	vendor	
+small	higher	difficult	large	left	present	huge	cat	dog	foreign	
+friend	place	blu	ray	situation	email	definition	english	unbelievable	mintek	
+average coherence	-1179.3494371917602

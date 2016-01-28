@@ -1,0 +1,11 @@
+screen	tip	fire	rubber	device	clip	end	tablet	note	small	
+arm	fingertip	leg	foot	head	boxwave	easier	similar	pricey	accurate	
+pen	phone	money	pressure	paper	typing	keyboard	pencil	computer	worth	
+finger	hand	screen	fingerprint	large	weight	print	big	nail	larger	
+iphone	ipod	android	blackberry	itouch	boxwave	easier	heavier	laptop	term	
+point	star	line	ball	pen	tap	classy	tad	luck	handwritten	
+touch	screen	feel	galaxy	samsung	sound	motorola	xoom	capacitive	playbook	
+car	home	purpose	bulky	house	office	wide	client	life	plenty	
+price	size	responsive	deal	sketch	packaging	weight	reasonable	description	area	
+cable	case	charger	usb	cover	retractable	cord	fire	datum	favorite	
+average coherence	-1295.7766760653296

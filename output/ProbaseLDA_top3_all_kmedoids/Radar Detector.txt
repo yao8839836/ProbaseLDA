@@ -1,0 +1,16 @@
+false	speed	cop	ticket	price	feature	mile	alarm	signal	detection	
+case	small	charger	glad	speaker	decision	usb	smartcord	beltronics	odd	
+setting	friend	main	major	lack	beltronics	weight	exact	interstate	adjustable	
+lol	sw	btw	beltronics	active	previous	cobras	entire	iradar	larger	
+band	ka	false	police	signal	enforcement	number	alarm	sight	attention	
+car	vehicle	police	option	opener	older	door	construction	electronics	future	
+night	commute	christmas	brightness	wide	heat	summer	hot	temperature	cold	
+range	mode	frequency	city	difference	highway	median	ghz	equal	pro	
+money	bel	passport	phone	escort	wrong	worth	waste	extra	coiled	
+laser	line	point	strength	signal	website	star	bottom	outlet	hill	
+manual	visual	capability	older	software	direction	advanced	revision	illegal	today	
+minute	hour	degree	photo	charge	potential	moment	force	picture	lowest	
+camera	lidar	motion	laser	visible	gps	dont	beltronics	peep	illegal	
+beep	bell	voice	volume	whistle	alert	ku	annoying	horn	chirp	
+iphone	phone	ipod	app	iradar	device	android	touch	gp	bluetooth	
+average coherence	-1290.949010057385

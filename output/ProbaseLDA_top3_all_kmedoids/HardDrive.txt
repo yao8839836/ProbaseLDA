@@ -1,0 +1,16 @@
+laptop	external	computer	file	price	mac	datum	machine	easy	windows	
+performance	wrong	speed	fact	copy	reliability	model	decent	dollar	device	
+sound	touch	loss	continuous	snap	hope	thought	accessory	feeling	ego	
+device	reliable	smartware	switch	software	router	hub	sort	upload	encryption	
+error	size	main	bulky	weight	typical	wide	age	favorite	duet	
+computer	pc	ram	memory	processor	cpu	capable	seller	chipset	camera	
+place	friend	lack	plenty	maker	beware	slave	longer	rugged	buyer	
+case	desk	operating	board	system	cable	brick	wall	table	cord	
+couple	single	movie	seconds	careful	crazy	limit	situation	double	tight	
+usb	battery	cable	port	sata	power	firewire	connection	life	cord	
+software	video	music	picture	dvd	file	photo	notebook	movie	backup	
+feature	format	title	goflex	defect	summary	regular	alot	worth	permission	
+digital	western	optical	ease	drobo	construction	retail	electronics	radeon	doesnt	
+wd	hp	microsoft	passport	intel	fantom	essential	green	ibm	mini	
+star	point	cheap	line	plenty	house	flat	screwdriver	fancy	automatic	
+average coherence	-1227.1166132003414

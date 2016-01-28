@@ -1,0 +1,26 @@
+disc	screen	panasonic	feature	review	easy	machine	cd	sony	toshiba	
+cheap	luck	special	exception	unhappy	shame	thin	fancy	frustration	sense	
+ear	hand	head	wire	back	foot	disappointing	phone	face	open	
+color	correct	change	run	clarity	tiny	impressed	saver	past	worth	
+price	hour	setting	decent	low	feature	capability	purchase	charge	description	
+model	cost	performance	feature	research	sale	budget	reliability	delivery	cheaper	
+battery	sound	light	headphone	car	screen	multiple	dark	power	radio	
+remote	control	button	computer	function	small	intuitive	antenna	press	cheapest	
+home	life	theater	battery	house	bedroom	equipment	market	business	close	
+strap	road	recorder	tape	door	wall	bass	trip	window	open	
+tv	cable	vcr	switch	windows	input	lcd	hook	dvr	charger	
+money	device	china	drawback	worth	waste	biggest	pro	uk	europe	
+picture	movie	sound	video	audio	music	speaker	image	electronics	component	
+service	customer	experience	age	favorite	aspect	situation	usual	tired	onscreen	
+real	sd	durability	scratch	splitter	addition	delay	sturdy	lack	regular	
+output	dissapointed	pro	track	past	past	past	past	past	past	
+similar	plenty	wifus	recent	digital	dolby	past	past	past	past	
+earphone	worth	blu	sturdy	bunch	cheapest	past	past	past	past	
+failure	alot	today	newer	past	past	past	past	past	past	
+card	usb	cheaper	past	earlier	heck	past	past	past	past	
+pro	impressed	similar	players	longer	newer	wifus	accurate	hus	cheapest	
+specific	worst	hdmus	pro	mintek	cheapest	past	past	past	past	
+input	alot	longer	cheaper	jack	past	past	past	past	past	
+support	ntsc	pal	internal	today	newer	past	past	past	past	
+hus	hk	cheaper	sturdy	avail	cheapest	past	past	past	past	
+average coherence	-894.834579453475

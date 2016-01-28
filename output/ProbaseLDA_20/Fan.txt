@@ -1,0 +1,21 @@
+quiet	room	small	easy	air	hot	night	case	remote	loud	
+battery	box	tent	customer	service	construction	company	option	place	performance	
+speed	high	low	position	medium	setting	velocity	change	pro	voltage	
+ceiling	floor	window	wall	desk	table	patio	flimsy	building	tabletop	
+price	wrong	function	condition	alternative	ugly	variable	pro	taller	motherboard	
+air	noise	noisy	amount	quiet	low	setting	blow	movement	level	
+cheap	highest	setting	decent	tight	steady	fresh	affordable	convenient	flimsy	
+idea	clip	thought	clamp	direct	ton	impressive	sturdy	slower	impressed	
+light	computer	money	tv	electric	weight	conditioner	laptop	range	stove	
+cpu	slow	intel	open	tilted	addition	led	entire	lack	previous	
+tilt	reasonable	outage	slim	previous	impressive	pressure	price	motion	size	
+oscillating	previous	today	ram	pressure	design	voltage	model	research	temperature	
+plastic	blade	screw	metal	wire	hole	grill	pin	part	steel	
+white	noise	solid	black	rubber	blue	water	coffee	previous	worth	
+front	side	bottom	higher	top	lower	sufficient	adequate	upper	rear	
+air	conditioning	weather	main	output	warm	exact	location	circulator	awful	
+couple	end	full	soft	single	seconds	device	situation	satisfied	stuffy	
+star	point	entire	resistor	line	netbook	switch	modern	wiring	today	
+piece	vacation	special	spec	newer	today	ca	horrible	slim	comfort	
+heat	temperature	vibration	dust	wave	furniture	paper	humidity	worst	sturdy	
+average coherence	-1194.9289273351656

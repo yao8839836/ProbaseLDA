@@ -1,0 +1,26 @@
+map	screen	gps	feature	easy	route	device	direction	road	car	
+rate	heart	gift	travel	money	reading	construction	mileage	food	pace	
+voice	service	software	customer	training	information	user	interest	correct	point	
+memory	intuitive	accurate	cost	card	entire	fastest	today	rugged	prompt	
+button	pocket	bag	addition	power	bigger	present	side	southern	push	
+sd	card	monitor	printer	heart	rate	camera	touchscreen	mouse	micro	
+traffic	cigarette	question	lighter	complete	stress	route	accident	accurate	noise	
+hard	difficult	bright	screen	glass	sunlight	window	ridiculous	unable	understandable	
+address	city	road	map	town	street	place	tom	area	europe	
+case	small	charger	cover	car	phone	wall	loop	opposite	gps	
+point	star	real	signal	tree	strap	accurate	person	pace	bell	
+restaurant	suction	hotel	cup	electronic	station	fix	listing	tough	sturdy	
+life	battery	ease	christmas	trip	vacation	alternate	startup	zone	august	
+major	left	smaller	minor	side	poor	higher	turn	tight	advanced	
+night	weather	weekend	light	backlight	rain	hot	july	cold	cloudy	
+accurate	today	nuvus	gpsmap	upload	magellan	magellan	magellan	magellan	magellan	
+impressed	acceptable	nuvus	faster	stats	impressive	magellan	magellan	magellan	magellan	
+helpful	worth	waypoint	yesterday	pro	earlier	roadmate	magellan	magellan	magellan	
+mcnally	accurate	streetpilot	direct	im	regular	rand	magellan	magellan	magellan	
+nicer	round	stats	yesterday	nuvus	hr	magellan	magellan	magellan	magellan	
+accurate	worth	easier	nuvus	roadmate	unable	doesnt	quicker	diego	magellan	
+accurate	pro	additional	today	fix	rechargeable	qwerty	magellan	magellan	magellan	
+earlier	talex	rechargeable	nicer	helpful	round	magellan	magellan	magellan	magellan	
+earlier	streetpilot	sturdy	tough	opposite	unusable	delay	magellan	magellan	magellan	
+tom	yesterday	easier	impossible	magellan	magellan	magellan	magellan	magellan	magellan	
+average coherence	-943.565921271986

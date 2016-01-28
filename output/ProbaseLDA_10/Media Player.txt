@@ -1,0 +1,11 @@
+device	player	box	tv	zune	drive	boxee	easy	screen	network	
+zune	ipod	creative	avi	wmv	video	software	divx	itunes	format	
+media	player	server	windows	wd	sd	tv	digital	network	card	
+output	input	bright	hdmus	component	micca	viewing	cumbersome	correct	line	
+video	music	song	picture	movie	zune	album	format	photo	sound	
+keyboard	touch	sound	vision	remote	av	button	memory	pain	screen	
+file	folder	list	mkv	format	type	dvd	movie	web	iso	
+christmas	error	wide	lack	luck	bulky	progress	direct	class	trial	
+library	customer	quick	service	music	higher	team	boxee	company	ease	
+stream	home	car	house	lack	cost	stock	equipment	separate	language	
+average coherence	-1491.5149167125346

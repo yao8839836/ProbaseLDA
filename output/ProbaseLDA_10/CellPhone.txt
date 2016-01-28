@@ -1,0 +1,11 @@
+screen	battery	headset	call	device	button	sound	price	iphone	easy	
+card	customer	memory	seller	sd	service	camera	pc	buyer	media	
+place	friend	location	address	language	cost	english	alternative	guy	antenna	
+camera	computer	video	photo	slim	picture	tv	spot	bass	recording	
+setting	decent	delivery	call	bulky	incoming	favorite	dialing	country	resolution	
+iphone	money	dust	car	glass	ipad	switch	oem	carrier	air	
+micro	house	music	gym	office	headphone	captivate	plenty	static	stable	
+case	charger	cover	usb	holster	seidio	port	sidekick	droid	armband	
+instruction	gadget	tool	machine	screwdriver	elago	correct	factory	film	numerous	
+wrong	kind	weak	improvement	invisible	dont	compatibility	similar	impressive	horrible	
+average coherence	-1196.7973253043524

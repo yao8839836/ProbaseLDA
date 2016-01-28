@@ -1,0 +1,26 @@
+ear	price	sound	ipod	noise	battery	volume	iphone	comfortable	cord	
+side	higher	line	left	bottom	lower	top	superior	adequate	amplifier	
+bass	high	stock	equipment	network	bulky	podcast	mm	today	silent	
+headset	radio	deal	simple	pc	tv	past	adaptor	stereo	telephone	
+home	house	office	gym	material	handset	entry	kitchen	muddy	compatible	
+base	handset	pressure	battery	extender	impossible	neckband	impressed	today	led	
+tight	wall	desk	tape	strap	floor	door	sturdy	window	lack	
+computer	stylus	remote	microphone	camera	speaker	monitor	aux	quick	ipad	
+range	mode	construction	frequency	sale	performance	works	run	special	ease	
+sound	music	money	speaker	video	touch	clear	voice	movie	button	
+decent	setup	listening	everyday	proper	review	accurate	ringcentral	preference	previous	
+pair	apple	koss	longer	sennheiser	cheaper	worth	wifus	easier	larger	
+message	signal	machine	answering	system	canceling	longer	alarm	digital	muzx	
+id	version	worst	sturdy	easier	portapros	pro	past	impressive	audio	
+picture	period	question	older	outstanding	cup	location	result	actual	adjustable	
+regular	cheaper	previous	additional	audiophile	impressed	wifus	im	black	audio	
+previous	specific	impressed	happier	impressive	ca	audio	audio	audio	audio	
+cheaper	easier	portapros	awkward	disappointing	impossible	actual	support	audio	audio	
+larger	regular	happier	ringcentral	audio	audio	audio	audio	audio	audio	
+additional	happier	wifus	rid	audio	audio	audio	audio	audio	audio	
+silly	worst	internal	wifus	head	audio	audio	audio	audio	audio	
+horrible	today	audio	audio	audio	audio	audio	audio	audio	audio	
+grado	sturdy	comparable	ghz	impressed	comfy	volt	audio	audio	audio	
+worse	impossible	happier	foscam	audio	audio	audio	audio	audio	audio	
+antenna	bigger	koss	regular	cheaper	worse	larger	impressed	upto	audio	
+average coherence	-836.1910585487228

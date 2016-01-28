@@ -1,0 +1,26 @@
+music	song	device	easy	cd	file	small	feature	software	price	
+micro	zen	larger	comparable	ravemp	sd	end	sturdy	clever	unique	
+full	addition	sort	hour	fancy	cumbersome	fresh	thin	push	charge	
+headphone	speaker	case	charger	earphone	jack	ear	headset	sound	alot	
+ear	star	space	bud	place	order	main	bulky	setting	hand	
+clear	black	blue	screen	red	silver	white	orange	bright	today	
+technology	electronics	machine	shipping	process	gadget	construction	aux	usable	packaging	
+button	car	real	point	adapter	home	wall	person	square	strap	
+money	folder	tape	rock	camera	bag	stick	worth	converter	larger	
+ipod	sansa	radio	computer	fm	earbud	software	tuner	clip	nano	
+review	decent	card	sd	company	huge	digital	memory	squaretrade	press	
+warranty	service	customer	deal	price	replacement	refund	special	big	bonus	
+zune	iriver	creative	hd	software	ipod	itunes	rhapsody	word	walkman	
+battery	sound	video	life	playlist	music	touch	light	track	screen	
+station	gym	radio	fm	library	market	school	house	separate	reception	
+plenty	pleasant	yesterday	wifus	fix	bought	device	device	device	device	
+cable	riovolt	alot	pro	unique	yesterday	device	device	device	device	
+yard	dont	cznp	device	device	device	device	device	device	device	
+weight	usable	plenty	today	koss	past	worst	xtra	device	device	
+responsive	yesterday	syncing	worse	direct	device	device	device	device	device	
+worth	today	brother	mother	device	device	device	device	device	device	
+slower	alot	cheaper	longer	fix	extended	skeptical	clever	device	device	
+rich	alot	impressed	xtra	device	device	device	device	device	device	
+khz	responsive	frustrating	awkward	alot	pro	device	device	device	device	
+slow	sturdy	happier	yesterday	worth	playcenter	awkward	direct	horrible	im	
+average coherence	-951.3554855020404
