@@ -1,4 +1,4 @@
-# ProbaseLDA
+# Probase-LDA
 
 The implementation of our papar:
 
