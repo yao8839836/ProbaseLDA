@@ -13,3 +13,5 @@ Before running the main entry, I use src/test/RunConceptualization.java to perfo
 Probase sql file used in the paper: http://pan.baidu.com/s/1qXvIgXI 
 
 Also can be downloaded from: https://drive.google.com/open?id=1zgbkhOAbCojyRxC_eoP9DeEaORUUO2B7
+
+Builing database index can reduce the time cost of the implementation greatly.
